@@ -1,0 +1,5374 @@
+[
+  {
+    "id": 1,
+    "keywords": [["605", "durak", "hat"]],
+    "answer": "605 no'lu Otobüs Hattının durakları, ADÜ, Forum Aydın, Zafer Meydanı, Tren Garı ve Otogar'dır."
+  },
+  {
+    "id": 2,
+    "keywords": [["605", "kalkış", "saat"]],
+    "answer": "605 no.'lu Otobüs Hattı’nın kalkış saatleri 6.15, 9.00, 9.45, 12.05, 14.20, 16.50 ve 18.30'dur."
+  },
+  {
+    "id": 3,
+    "keywords": [["605", "forum", "varış"]],
+    "answer": "605 no.'lu Otobüs Hattı’nın Forum Aydın'a varış süresi 10 dakikadır."
+  },
+  {
+    "id": 4,
+    "keywords": [["605", "zafer", "varış"]],
+    "answer": "605 no.'lu Otobüs Hattı’nın Zafer Meydanı'na varış süresi 25 dakikadır."
+  },
+  {
+    "id": 5,
+    "keywords": [["605", "tren", "varış"]],
+    "answer": "605 no.'lu Otobüs Hattı’nın Tren Garı'na varış süresi 30 dakikadır."
+  },
+  {
+    "id": 6,
+    "keywords": [["605","otogar","varış"]],
+    "answer": "605 no.'lu Otobüs Hattı'nın Otogar'a varış süresi 50 dakikadır."
+  },
+  {
+    "id": 7,
+    "keywords": [["605","fiyatlandırma"]],
+    "answer": "605 no.'lu Otobüs Hattı'nın fiyatlandırması herkes için 2.90 TL'dir."
+  },
+  {
+    "id": 8,
+    "keywords": [["606", "durak", "hat"]],
+    "answer": "606 no'lu Otobüs Hattının durakları, Karpuzlu, Koçarlı, İncirliova, Söke ve Kuşadası'dır."
+  },
+  {
+    "id": 9,
+    "keywords": [["606", "kalkış", "saat"]],
+    "answer": "606 no.'lu Otobüs Hattı'nın kalkış saatleri 6.00, 8.45, 9.30, 11.50, 14.05, 16.35 ve 18.15'dir."
+  },
+  {
+    "id": 10,
+    "keywords": [["606", "koçarlı", "varış"]],
+    "answer": "606 no.'lu Otobüs Hattı'nın Koçarlı'ya varış süresi 35 dakikadır."
+  },
+  {
+    "id": 11,
+    "keywords": [["606", "incirliova", "varış"]],
+    "answer": "606 no.'lu Otobüs Hattı'nın İncirliova'ya varış süresi 1 saat 25 dakikadır."
+  },
+  {
+    "id": 12,
+    "keywords": [["606", "söke", "varış"]],
+    "answer": "606 no.'lu Otobüs Hattı'nın Söke'ye varış süresi 1 saat 55 dakikadır."
+  },
+  {
+    "id": 13,
+    "keywords": [["606", "kuşadası", "varış"]],
+    "answer": "606 no.'lu Otobüs Hattı'nın Kuşadası'na varış süresi 1 saat 35 dakikadır."
+  },
+  {
+    "id": 14,
+    "keywords": [["606", "fiyatlandırması"]],
+    "answer": "606 no.'lu Otobüs Hattı'nın fiyatlandırması öğrenciler için 2.50 TL ile 4.40 TL arasında, öğrenci olmayanlarda 2.90 TL ile 4.80 TL arasında değişmektedir."
+  },
+  {
+    "id": 15,
+    "keywords": [["607", "durak", "hat"]],
+    "answer": "607 no'lu Otobüs Hattının durakları, Köşk, Germencik, Efeler, Bozdoğan ve Çine'dir."
+  },
+  {
+    "id": 16,
+    "keywords": [["607", "kalkış", "saat"]],
+    "answer": "607 no.'lu Otobüs Hattı'nın kalkış saatleri 7.30, 10.15, 11.00, 13.20, 15.35, 18.05, 19.45'dir."
+  },
+  {
+    "id": 17,
+    "keywords": [["607", "germencik", "varış"]],
+    "answer": "607 no.'lu Otobüs Hattı'nın Germencik'e varış süresi 30 dakikadır."
+  },
+  {
+    "id": 18,
+    "keywords": [["607", "efeler", "varış"]],
+    "answer": "607 no.'lu Otobüs Hattı'nın Efeler'e varış süresi 55 dakikadır."
+  },
+  {
+    "id": 19,
+    "keywords": [["607", "bozdoğan", "varış"]],
+    "answer": "607 no.'lu Otobüs Hattı'nın Bozdoğan'a varış süresi 1 saat 15 dakikadır."
+  },
+  {
+    "id": 20,
+    "keywords": [["607", "çine", "varış"]],
+    "answer": "607 no.'lu Otobüs Hattı'nın Çine'ye varış süresi 1 saat 35 dakikadır."
+  },
+  {
+    "id": 21,
+    "keywords": [["607", "fiyatlandırma"]],
+    "answer": "607 no.'lu Otobüs Hattı'nın fiyatlandırması öğrenciler için 2.60 TL ile 3.50 TL arasında, öğrenci olmayanlarda 3 TL ile 3.90 TL arasında değişmektedir."
+  },
+  {
+    "id": 22,
+    "keywords": [["608", "durak", "hat"]],
+    "answer": "608 no'lu Otobüs Hattının durakları, Yeni Pazar, Nazilli, Sultan Hisar, Kuyucak ve Karacasu'dur."
+  },
+  {
+    "id": 23,
+    "keywords": [["608", "kalkış", "saat"]],
+    "answer": "608 no.'lu Otobüs Hattı'nın kalkış saatleri 7.20, 8.20, 9.20, 12.20, 14.20, 16.20, 18.20'dir."
+  },
+  {
+    "id": 24,
+    "keywords": [["608", "nazilli", "varış"]],
+    "answer": "608 no.'lu Otobüs Hattı'nın Nazilli'ye varış süresi 20 dakikadır."
+  },
+  {
+    "id": 25,
+    "keywords": [["608", "sultan", "hisar", "varış"]],
+    "answer": "608 no.'lu Otobüs Hattı'nın Sultan Hisar'a varış süresi 1 saat 5 dakikadır."
+  },
+  {
+    "id": 26,
+    "keywords": [["608", "kuyucak", "varış"]],
+    "answer": "608 no.'lu Otobüs Hattı'nın Kuyucak'a varış süresi 1 saat 20 dakikadır."
+  },
+  {
+    "id": 27,
+    "keywords": [["608", "karacasu", "varış"]],
+    "answer": "608 no.'lu Otobüs Hattı'nın Karacasu'ya varış süresi 1 saat 20 dakikadır."
+  },
+  {
+    "id": 28,
+    "keywords": [["608", "fiyatlandırma"]],
+    "answer": "608 no.'lu Otobüs Hattı'nın fiyatlandırması öğrenciler için 2.80 TL ile 3.50 TL arasında, öğrenci olmayanlarda 3.20 TL ile 3.90 TL arasında değişmektedir."
+  },
+  {
+    "id": 29,
+    "keywords": [["605", "ücret"]],
+    "answer": "Otobüs ücreti 2.90 TL’dir."
+  },
+  {
+    "id": 30,
+    "keywords": [["608", "kaç", "durak"]],
+    "answer": "5 durak vardır."
+  },
+  {
+    "id": 31,
+    "keywords": [["606", "otobüs", "durak", "ad"]],
+    "answer": "Kuşadası, Söke, İncirliova, Koçarlı, Karpuzlu."
+  },
+  {
+    "id": 32,
+    "keywords": [["607", "3", "sefer", "köşk", "saat"]],
+    "answer": "Saat 11 de kalkıyor."
+  },
+  {
+    "id": 33,
+    "keywords": [["otobüs", "kaç", "sefer"]],
+    "answer": "Otobüslerde 7 sefer vardır."
+  },
+  {
+    "id": 34,
+    "keywords": [["kuşadası", "karpuzlu", "yolculuk", "kaç", "saat"]],
+    "answer": "2 saat 40 dk. yolculuk sürer."
+  },
+  {
+    "id": 35,
+    "keywords": [["yeni", "pazar", "sultan", "hisar", "durak", "öğrenci", "ücret"]],
+    "answer": "Öğrenci ücreti 3 TL."
+  },
+  {
+    "id": 36,
+    "keywords": [["605", "otobüs", "hangi", "durak"]],
+    "answer": "605 numaralı otobüsümüz sırasıyla Adü, Forum Aydın, Zafer Meydanı, Tren Garı, Otogar duraklarına gitmektedir."
+  },
+  {
+    "id": 37,
+    "keywords": [["606", "otobüs", "hangi", "durak"]],
+    "answer": "606 numaralı otobüsümüz sırasıyla Karpuzlu, Koçarlı, İncirliova, Söke, Kuşadası duraklarına gitmektedir."
+  },
+  {
+    "id": 38,
+    "keywords": [["607", "otobüs", "hangi", "durak"]],
+    "answer": "607 numaralı otobüsümüz sırasıyla Köşk, Germencik, Efeler, Bozdoğan, Çine duraklarına gitmektedir."
+  },
+  {
+    "id": 39,
+    "keywords": [["608", "otobüs", "hangi", "durak"]],
+    "answer": "608 numaralı otobüsümüz sırasıyla Yeni Pazar, Nazilli, Sultan Hisar, Kuyucak, Karacasu duraklarına gitmektedir."
+  },
+  {
+    "id": 40,
+    "keywords": [["adü", "git", "hangi", "numara"]],
+    "answer": "Adü durağına 605 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 41,
+    "keywords": [["forum", "git", "hangi", "numara"]],
+    "answer": "Forum Aydın durağına 605 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 42,
+    "keywords": [["zafer", "git", "hangi", "numara"]],
+    "answer": "Zafer Meydanı durağına 605 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 43,
+    "keywords": [["tren", "git", "hangi", "numara"]],
+    "answer": "Tren garı durağına 605 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 44,
+    "keywords": [["otogar", "git", "hangi", "numara"]],
+    "answer": "Otogar durağına 605 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 45,
+    "keywords": [["karpuzlu", "git", "hangi", "numara"]],
+    "answer": "Karpuzlu durağına 606 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 46,
+    "keywords": [["koçarlı", "git", "hangi", "numara"]],
+    "answer": "Koçarlı durağına 606 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 47,
+    "keywords": [["incirliova", "git", "hangi", "numara"]],
+    "answer": "İncirliova durağına 606 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 48,
+    "keywords": [["söke", "git", "hangi", "numara"]],
+    "answer": "Söke durağına 606 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 49,
+    "keywords": [["kuşadası", "git", "hangi", "numara"]],
+    "answer": "Kuşadası durağına 606 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 50,
+    "keywords": [["köşk", "git", "hangi", "numara"]],
+    "answer": "Köşk durağına 607 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 51,
+    "keywords": [["germencik", "git", "hangi", "numara"]],
+    "answer": "Germencik durağına 607 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 52,
+    "keywords": [["efeler", "git", "hangi", "numara"]],
+    "answer": "Efeler durağına 607 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 53,
+    "keywords": [["bozdoğan", "git", "hangi", "numara"]],
+    "answer": "Bozdoğan durağına 607 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 54,
+    "keywords": [["çine", "git", "hangi", "numara"]],
+    "answer": "Çine durağına 607 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 55,
+    "keywords": [["yeni", "pazar", "git", "hangi", "numara"]],
+    "answer": "Yeni Pazar durağına 608 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 56,
+    "keywords": [["nazilli", "git", "hangi", "numara"]],
+    "answer": "Nazilli durağına 608 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 57,
+    "keywords": [["sultan", "hisar", "git", "hangi","numara"]],
+    "answer": "Sultan Hisar durağına 608 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 58,
+    "keywords": [["kuyucak", "git", "hangi", "numara"]],
+    "answer": "Kuyucak durağına 608 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 59,
+    "keywords": [["karacasu", "git", "hangi", "numara"]],
+    "answer": "Karacasu durağına 608 numaralı otobüsümüz gitmektedir."
+  },
+  {
+    "id": 60,
+    "keywords": [["adü", "otogar", "birinci", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden birinci seferimiz saat 06.15'te kalkmaktadır."
+  },
+  {
+    "id": 61,
+    "keywords": [["adü", "otogar", "ikinci", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden ikinci seferimiz saat 09.00'da kalkmaktadır."
+  },
+  {
+    "id": 62,
+    "keywords": [["adü", "otogar", "üçüncü", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden üçüncü seferimiz saat 09.45'te kalkmaktadır."
+  },
+  {
+    "id": 63,
+    "keywords": [["adü", "otogar", "dördüncü", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden dördüncü seferimiz saat 12.05'te kalkmaktadır."
+  },
+  {
+    "id": 64,
+    "keywords": [["adü", "otogar", "beşinci", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden beşinci seferimiz saat 14.20'de kalkmaktadır."
+  },
+  {
+    "id": 65,
+    "keywords": [["adü", "otogar", "altıncı", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden altıncı seferimiz saat 16.50'de kalkmaktadır."
+  },
+  {
+    "id": 66,
+    "keywords": [["adü", "otogar", "yedinci", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden yedinci seferimiz saat 18.30'da kalkmaktadır."
+  },
+  {
+    "id": 67,
+    "keywords": [["otogar", "adü", "birinci", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden birinci seferimiz saat 06.15'te kalkmaktadır."
+  },
+  {
+    "id": 68,
+    "keywords": [["otogar", "adü", "ikinci", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden ikinci seferimiz saat 09.00'da kalkmaktadır."
+  },
+  {
+    "id": 69,
+    "keywords": [["otogar", "adü", "üçüncü", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden üçüncü seferimiz saat 09.45'te kalkmaktadır."
+  },
+  {
+    "id": 70,
+    "keywords": [["otogar", "adü", "dördüncü", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden dördüncü seferimiz saat 12.05'te kalkmaktadır."
+  },
+  {
+    "id": 71,
+    "keywords": [["otogar", "adü", "beşinci", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden beşinci seferimiz saat 14.20'de kalkmaktadır."
+  },
+  {
+    "id": 72,
+    "keywords": [["otogar", "adü", "altıncı", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden altıncı seferimiz saat 16.50'de kalkmaktadır."
+  },
+  {
+    "id": 73,
+    "keywords": [["otogar", "adü", "yedinci", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden yedinci seferimiz saat 18.30'da kalkmaktadır."
+  },
+  {
+    "id": 74,
+    "keywords": [["karpuzlu", "kuşadası", "birinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden birinci seferimiz saat 06.00'da kalkmaktadır."
+  },
+  {
+    "id": 75,
+    "keywords": [["karpuzlu", "kuşadası", "ikinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden ikinci seferimiz saat 08.45'te kalkmaktadır."
+  },
+  {
+    "id": 76,
+    "keywords": [["karpuzlu", "kuşadası", "üçüncü", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden üçüncü seferimiz saat 09.30'da kalkmaktadır."
+  },
+  {
+    "id": 77,
+    "keywords": [["karpuzlu", "kuşadası", "dördüncü", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden dördüncü seferimiz saat 11.50'de kalkmaktadır."
+  },
+  {
+    "id": 78,
+    "keywords": [["karpuzlu", "kuşadası", "beşinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden beşinci seferimiz saat 14.05'te kalkmaktadır."
+  },
+  {
+    "id": 79,
+    "keywords": [["karpuzlu", "kuşadası", "altıncı", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden altıncı seferimiz saat 16.35'te kalkmaktadır."
+  },
+  {
+    "id": 80,
+    "keywords": [["karpuzlu", "kuşadası", "yedinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden yedinci seferimiz saat 18.15'te kalkmaktadır."
+  },
+  {
+    "id": 81,
+    "keywords": [["kuşadası", "karpuzlu", "birinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden birinci seferimiz saat 07.00'de kalkmaktadır."
+  },
+  {
+    "id": 82,
+    "keywords": [["kuşadası", "karpuzlu", "ikinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden ikinci seferimiz saat 09.45'te kalkmaktadır."
+  },
+  {
+    "id": 83,
+    "keywords": [["kuşadası", "karpuzlu", "üçüncü", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden üçüncü seferimiz saat 10.30'da kalkmaktadır."
+  },
+  {
+    "id": 84,
+    "keywords": [["kuşadası", "karpuzlu", "dördüncü", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden dördüncü seferimiz saat 12.50'de kalkmaktadır."
+  },
+  {
+    "id": 85,
+    "keywords": [["kuşadası", "karpuzlu", "beşinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden beşinci seferimiz saat 15.05'te kalkmaktadır."
+  },
+  {
+    "id": 86,
+    "keywords": [["kuşadası", "karpuzlu", "altıncı", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden altıncı seferimiz saat 17.35'te kalkmaktadır."
+  },
+  {
+    "id": 87,
+    "keywords": [["kuşadası", "karpuzlu", "yedinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden yedinci seferimiz saat 19.15'te kalkmaktadır."
+  },
+  {
+    "id": 88,
+    "keywords": [["köşk", "çine", "birinci", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden birinci seferimiz saat 07.30'da kalkmaktadır."
+  },
+  {
+    "id": 89,
+    "keywords": [["köşk", "çine", "ikinci", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden ikinci seferimiz saat 10.15'te kalkmaktadır."
+  },
+  {
+    "id": 90,
+    "keywords": [["köşk", "çine", "üçüncü", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden üçüncü sefer saat 11.00'de kalkmaktadır."
+  },
+  {
+    "id": 91,
+    "keywords": [["köşk", "çine", "dördüncü", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden dördüncü seferimiz saat 13.20'de kalkmaktadır."
+  },
+  {
+    "id": 92,
+    "keywords": [["köşk", "çine", "beşinci", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden beşinci seferimiz saat 15.35'te kalkmaktadır."
+  },
+  {
+    "id": 93,
+    "keywords": [["köşk", "çine", "altıncı", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden altıncı seferimiz saat 8.05'te kalkmaktadır."
+  },
+  {
+    "id": 94,
+    "keywords": [["köşk", "çine", "yedinci", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden yedinci seferimiz saat 19.45'te kalkmaktadır."
+  },
+  {
+    "id": 95,
+    "keywords": [["çine", "köşk", "birinci", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden birinci seferimiz saat 08.30'da kalkmaktadır."
+  },
+  {
+    "id": 96,
+    "keywords": [["çine", "köşk", "ikinci", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden ikinci seferimiz saat 11.15'te kalkmaktadır."
+  },
+  {
+    "id": 97,
+    "keywords": [["çine", "köşk", "üçüncü", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden üçüncü seferimiz saat 12.00'de kalkmaktadır."
+  },
+  {
+    "id": 98,
+    "keywords": [["çine", "köşk", "dördüncü", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden dördüncü seferimiz saat 14.20'de kalkmaktadır."
+  },
+  {
+    "id": 99,
+    "keywords": [["çine", "köşk", "beşinci", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden beşinci seferimiz saat 16.35'te kalkmaktadır."
+  },
+  {
+    "id": 100,
+    "keywords": [["çine", "köşk", "altıncı", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden altıncı seferimiz saat 19.05'te kalkmaktadır."
+  },
+  {
+    "id": 101,
+    "keywords": [["çine", "köşk", "yedinci", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden yedinci seferimiz saat 20.45'te kalkmaktadır."
+  },
+  {
+    "id": 102,
+    "keywords": [["yeni", "pazar", "karacasu", "birinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden birinci seferimiz saat 07.20'de kalkmaktadır."
+  },
+  {
+    "id": 103,
+    "keywords": [["yeni", "pazar", "karacasu", "ikinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden ikinci seferimiz saat 08.20'de kalkmaktadır."
+  },
+  {
+    "id": 104,
+    "keywords": [["yeni", "pazar", "karacasu", "üçüncü", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden üçüncü seferimiz saat 09.20'de kalkmaktadır."
+  },
+  {
+    "id": 105,
+    "keywords": [["yeni", "pazar", "karacasu", "dördüncü", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden dördüncü seferimiz saat 12.20'de kalkmaktadır."
+  },
+  {
+    "id": 106,
+    "keywords": [["yeni", "pazar", "karacasu", "beşinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden beşinci seferimiz saat 14.20'de kalkmaktadır."
+  },
+  {
+    "id": 107,
+    "keywords": [["yeni", "pazar", "karacasu", "altıncı", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden altıncı seferimiz saat 16.20'de kalkmaktadır."
+  },
+  {
+    "id": 108,
+    "keywords": [["yeni", "pazar", "karacasu", "yedinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden yedinci seferimiz saat 18.20'de kalkmaktadır."
+  },
+  {
+    "id": 109,
+    "keywords": [["karacasu", "yeni", "pazar", "birinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden birinci seferimiz saat 07.20'de kalkmaktadır."
+  },
+  {
+    "id": 110,
+    "keywords": [["karacasu", "yeni", "pazar", "ikinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden ikinci seferimiz saat 08.20'de kalkmaktadır."
+  },
+  {
+    "id": 111,
+    "keywords": [["karacasu", "yeni", "pazar", "üçüncü", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden üçüncü seferimiz saat 09.20'de kalkmaktadır."
+  },
+  {
+    "id": 112,
+    "keywords": [["karacasu", "yeni", "pazar", "dördüncü", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden dördüncü seferimiz saat 12.20'de kalkmaktadır."
+  },
+  {
+    "id": 113,
+    "keywords": [["karacasu", "yeni", "pazar", "beşinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden beşinci seferimiz saat 14.20'de kalkmaktadır."
+  },
+  {
+    "id": 114,
+    "keywords": [["karacasu", "yeni", "pazar", "altıncı", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden altıncı seferimiz saat 16.20'de kalkmaktadır."
+  },
+  {
+    "id": 115,
+    "keywords": [["karacasu", "yeni", "pazar", "yedinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden yedinci seferimiz saat 18.20'de kalkmaktadır."
+  },
+  {
+    "id": 116,
+    "keywords": [["karpuzlu", "koçarlı", "öğrenci"]],
+    "answer": "Karpuzlu’dan Koçarlı’ya öğrenci ücreti 2,80 TL’dir."
+  },
+  {
+    "id": 117,
+    "keywords": [["karpuzlu", "incirliova", "öğrenci"]],
+    "answer": "Karpuzlu'dan İncirliova'ya öğrenci ücreti 3.10 TL'dir."
+  },
+  {
+    "id": 118,
+    "keywords": [["karpuzlu", "söke", "öğrenci"]],
+    "answer": "Karpuzlu'dan Söke'ye öğrenci ücreti 3.40 TL'dir."
+  },
+  {
+    "id": 119,
+    "keywords": [["karpuzlu", "kuşadası", "öğrenci"]],
+    "answer": "Karpuzlu'dan Kuşadası'na öğrenci ücreti 4.40 TL'dir."
+  },
+  {
+    "id": 120,
+    "keywords": [["karpuzlu", "koçarlı", "tam"]],
+    "answer": "Karpuzlu'dan Koçarlı'ya tam yolcu ücreti 3.20 TL'dir."
+  },
+  {
+    "id": 121,
+    "keywords": [["karpuzlu", "incirliova", "tam"]],
+    "answer": "Karpuzlu'dan İncirliova'ya tam yolcu ücreti 3.50 TL'dir."
+  },
+  {
+    "id": 122,
+    "keywords": [["karpuzlu", "söke", "tam"]],
+    "answer": "Karpuzlu'dan Söke'ye tam yolcu ücreti 3.80 TL'dir."
+  },
+  {
+    "id": 123,
+    "keywords": [["karpuzlu", "kuşadası", "tam"]],
+    "answer": "Karpuzlu'dan Kuşadası'na tam yolcu ücreti 4.80 TL'dir."
+  },
+  {
+    "id": 124,
+    "keywords": [["koçarlı", "incirliova", "öğrenci"]],
+    "answer": "Koçarlı'dan İncirliova'ya öğrenci ücreti 2.60 TL'dir."
+  },
+  {
+    "id": 125,
+    "keywords": [["koçarlı", "söke", "öğrenci"]],
+    "answer": "Koçarlı'dan Söke'ye öğrenci ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 126,
+    "keywords": [["koçarlı", "kuşadası", "öğrenci"]],
+    "answer": "Koçarlı'dan Kuşadası'na öğrenci ücreti 4.00 TL'dir."
+  },
+  {
+    "id": 127,
+    "keywords": [["koçarlı", "incirliova", "tam"]],
+    "answer": "Koçarlı'dan İncirliova'ya tam yolcu ücreti 3.00 TL'dir."
+  },
+  {
+    "id": 128,
+    "keywords": [["koçarlı", "söke", "tam"]],
+    "answer": "Koçarlı'dan Söke'ye tam yolcu ücreti 3.30 TL'dir."
+  },
+  {
+    "id": 129,
+    "keywords": [["koçarlı", "kuşadası", "tam"]],
+    "answer": "Koçarlı'dan Kuşadası'na tam yolcu ücreti 4.40 TL'dir."
+  },
+  {
+    "id": 130,
+    "keywords": [["incirliova", "söke", "öğrenci"]],
+    "answer": "İncirliova'dan Söke'ye öğrenci ücreti 2.50 TL'dir."
+  },
+  {
+    "id": 131,
+    "keywords": [["incirliova", "kuşadası", "öğrenci"]],
+    "answer": "İncirliova'dan Kuşadası'na öğrenci ücreti 2.70 TL'dir."
+  },
+  {
+    "id": 132,
+    "keywords": [["incirliova", "söke", "tam"]],
+    "answer": "İncirliova'dan Söke'ye tam yolcu ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 133,
+    "keywords": [["incirliova", "kuşadası", "tam"]],
+    "answer": "İncirliova'dan Kuşadası'na tam yolcu ücreti 3.10 TL'dir."
+  },
+  {
+    "id": 134,
+    "keywords": [["söke", "kuşadası", "öğrenci"]],
+    "answer": "Söke'den Kuşadası'na öğrenci ücreti 3.50 TL'dir."
+  },
+  {
+    "id": 135,
+    "keywords": [["söke", "kuşadası", "tam"]],
+    "answer": "Söke'den Kuşadası'na tam yolcu ücreti 3.90 TL'dir."
+  },
+  {
+    "id": 136,
+    "keywords": [["köşk", "germencik", "öğrenci"]],
+    "answer": "Köşk'ten Germencik'e öğrenci ücreti 2.60 TL'dir."
+  },
+  {
+    "id": 137,
+    "keywords": [["köşk", "efeler", "öğrenci"]],
+    "answer": "Köşk'ten Efeler'e öğrenci ücreti 3.00 TL'dir."
+  },
+  {
+    "id": 138,
+    "keywords": [["köşk", "bozdoğan", "öğrenci"]],
+    "answer": "Köşk'ten Bozdoğan'a öğrenci ücreti 3.30 TL'dir."
+  },
+  {
+    "id": 139,
+    "keywords": [["köşk", "çine", "öğrenci"]],
+    "answer": "Köşk'ten Çine'ye öğrenci ücreti 3.50 TL'dir."
+  },
+  {
+    "id": 140,
+    "keywords": [["köşk", "germencik", "tam"]],
+    "answer": "Köşk'ten Germencik'e tam yolcu ücreti 3.00 TL'dir."
+  },
+  {
+    "id": 141,
+    "keywords": [["köşk", "efeler", "tam"]],
+    "answer": "Köşk'ten Efeler'e tam yolcu ücreti 3.40 TL'dir."
+  },
+  {
+    "id": 142,
+    "keywords": [["köşk", "bozdoğan", "tam"]],
+    "answer": "Köşk'ten Bozdoğan'a tam yolcu ücreti 3.70 TL'dir."
+  },
+  {
+    "id": 143,
+    "keywords": [["köşk", "çine", "tam"]],
+    "answer": "Köşk'ten Çine'ye tam yolcu ücreti 3.90 TL'dir."
+  },
+  {
+    "id": 144,
+    "keywords": [["germencik", "efeler", "öğrenci"]],
+    "answer": "Germencik'ten Efeler'e öğrenci ücreti 2.70 TL'dir."
+  },
+  {
+    "id": 145,
+    "keywords": [["germencik", "bozdoğan", "öğrenci"]],
+    "answer": "Germencik'ten Bozdoğan'a öğrenci ücreti 3.10 TL'dir."
+  },
+  {
+    "id": 146,
+    "keywords": [["germencik", "çine", "öğrenci"]],
+    "answer": "Germencik'ten Çine'ye öğrenci ücreti 3.30 TL'dir."
+  },
+  {
+    "id": 147,
+    "keywords": [["germencik", "efeler", "tam"]],
+    "answer": "Germencik'ten Efeler'e tam yolcu ücreti 3.10 TL'dir."
+  },
+  {
+    "id": 148,
+    "keywords": [["germencik", "bozdoğan", "tam"]],
+    "answer": "Germencik'ten Bozdoğan'a tam yolcu ücreti 3.50 TL'dir."
+  },
+  {
+    "id": 149,
+    "keywords": [["germencik", "çine", "tam"]],
+    "answer": "Germencikten Çineye tam yolcu ücreti 3.70 TL'dir."
+  },
+  {
+    "id": 150,
+    "keywords": [["efeler", "bozdoğan", "öğrenci"]],
+    "answer": "Efeler'den Bozdoğan'a öğrenci ücreti 2.80 TL'dir."
+  },
+  {
+    "id": 151,
+    "keywords": [["efeler", "çine", "öğrenci"]],
+    "answer": "Efeler'den Çine'ye öğrenci ücreti 3.00 TL'dir."
+  },
+  {
+    "id": 152,
+    "keywords": [["efeler", "bozdoğan", "tam"]],
+    "answer": "Efeler'den Bozdoğan'a tam yolcu ücreti 3.20 TL'dir."
+  },
+  {
+    "id": 153,
+    "keywords": [["efeler", "çine", "tam"]],
+    "answer": "Efeler'den Çine'ye tam yolcu ücreti 3.40 TL'dir."
+  },
+  {
+    "id": 154,
+    "keywords": [["bozdoğan", "çine", "öğrenci"]],
+    "answer": "Bozdoğan'dan Çine'ye öğrenci ücreti 2.50 TL'dir."
+  },
+  {
+    "id": 155,
+    "keywords": [["bozdoğan", "çine", "tam"]],
+    "answer": "Bozdoğan'dan Çine'ye tam yolcu ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 156,
+    "keywords": [["yeni", "pazar", "nazilli", "öğrenci"]],
+    "answer": "Yeni Pazar'dan Nazilli'ye öğrenci ücreti 2.80 TL'dir."
+  },
+  {
+    "id": 157,
+    "keywords": [["yeni", "pazar", "sultan", "hisar", "öğrenci"]],
+    "answer": "Yeni Pazar'dan Sultan Hisar'a öğrenci ücreti 3.00 TL'dir."
+  },
+  {
+    "id": 158,
+    "keywords": [["yeni", "pazar", "kuyucak", "öğrenci"]],
+    "answer": "Yeni Pazar'dan Kuyucak'a öğrenci ücreti 3.40 TL'dir."
+  },
+  {
+    "id": 159,
+    "keywords": [["yeni", "pazar", "karacasu", "öğrenci"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya öğrenci ücreti 3.50 TL'dir."
+  },
+  {
+    "id": 160,
+    "keywords": [["yeni", "pazar", "nazilli", "tam"]],
+    "answer": "Yeni Pazar'dan Nazilli'ye tam yolcu ücreti 3.20 TL'dir."
+  },
+  {
+    "id": 161,
+    "keywords": [["yeni", "pazar", "sultan", "hisar", "tam"]],
+    "answer": "Yeni Pazar'dan Sultan Hisar'a tam yolcu ücreti 3.40 TL'dir."
+  },
+  {
+    "id": 162,
+    "keywords": [["yeni", "pazar", "kuyucak", "tam"]],
+    "answer": "Yeni Pazar'dan Kuyucak'a tam yolcu ücreti 3.80 TL'dir."
+  },
+  {
+    "id": 163,
+    "keywords": [["yeni", "pazar", "karacasu", "tam"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya tam yolcu ücreti 3.90 TL'dir."
+  },
+  {
+    "id": 164,
+    "keywords": [["nazilli", "sultan", "hisar", "öğrenci"]],
+    "answer": "Nazilli'den Sultan Hisar'a öğrenci ücreti 2.80 TL'dir."
+  },
+  {
+    "id": 165,
+    "keywords": [["nazilli", "kuyucak", "öğrenci"]],
+    "answer": "Nazilli'den Kuyucak'a öğrenci ücreti 3.20 TL'dir."
+  },
+  {
+    "id": 166,
+    "keywords": [["nazilli", "karacasu", "öğrenci"]],
+    "answer": "Nazilli'den Karacasu'ya öğrenci ücreti 3.30 TL'dir."
+  },
+  {
+    "id": 167,
+    "keywords": [["nazilli", "sultan", "hisar", "tam"]],
+    "answer": "Nazilli'den Sultan Hisar'a tam yolcu ücreti 3.20 TL'dir."
+  },
+  {
+    "id": 168,
+    "keywords": [["nazilli", "kuyucak", "tam"]],
+    "answer": "Nazilli'den Kuyucak'a tam yolcu ücreti 3.60 TL'dir"
+  },
+  {
+    "id": 169,
+    "keywords": [["nazilli", "karacasu", "tam"]],
+    "answer": "Nazilli'den Karacasu'ya tam yolcu ücreti 3.70 TL'dir."
+  },
+  {
+    "id": 170,
+    "keywords": [["sultan", "hisar", "kuyucak", "öğrenci"]],
+    "answer": "Sultan Hisar'dan Kuyucak'a öğrenci ücreti 3.00 TL'dir."
+  },
+  {
+    "id": 171,
+    "keywords": [["sultan", "hisar", "karacasu", "öğrenci"]],
+    "answer": "Sultan Hisar'dan Karacasu'ya öğrenci ücreti 3.10 TL'dir."
+  },
+  {
+    "id": 172,
+    "keywords": [["sultan", "hisar", "kuyucak", "tam"]],
+    "answer": "Sultan Hisar'dan Kuyucak'a tam yolcu ücreti 3.40 TL'dir."
+  },
+  {
+    "id": 173,
+    "keywords": [["sultan", "hisar", "karacasu", "tam"]],
+    "answer": "Sultan Hisar'dan Karacasu'ya tam yolcu ücreti 3.50 TL'dir."
+  },
+  {
+    "id": 174,
+    "keywords": [["kuyucak", "karacasu", "öğrenci"]],
+    "answer": "Kuyucak'tan Karacasu'ya öğrenci ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 175,
+    "keywords": [["kuyucak", "karacasu", "tam"]],
+    "answer": "Kuyucak'tan Karacasu'ya tam yolcu ücreti 3.30 TL'dir."
+  },
+  {
+    "id": 176,
+    "keywords": [["adü", "forum", "öğrenci"]],
+    "answer": "Adü'den Forum Aydın'a öğrenci ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 177,
+    "keywords": [["forum", "zafer", "öğrenci"]],
+    "answer": "Forum Aydın'dan Zafer Meydanı'na öğrenci ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 178,
+    "keywords": [["zafer", "tren", "gar", "öğrenci"]],
+    "answer": "Zafer Meydanı'ndan Tren Garı'na öğrenci ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 179,
+    "keywords": [["tren", "gar", "otogar", "öğrenci"]],
+    "answer": "Tren Garı'ndan Otogar'a öğrenci ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 180,
+    "keywords": [["adü", "forum", "tam"]],
+    "answer": "Adü'den Forum Aydın'a tam yolcu ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 181,
+    "keywords": [["forum", "zafer", "tam"]],
+    "answer": "Forum Aydın'dan Zafer Meydanı'na tam yolcu ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 182,
+    "keywords": [["zafer", "tren", "gar", "tam"]],
+    "answer": "Zafer Meydanı'ndan Tren Garı'na tam yolcu ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 183,
+    "keywords": [["tren", "gar", "otogar", "tam"]],
+    "answer": "Tren Garı'ndan Otogar'a tam yolcu ücreti 2.90 TL'dir."
+  },
+  {
+    "id": 184,
+    "keywords": [["adü", "otogar", "engelli"]],
+    "answer": "Adü - Otogar istikametinde giden otobüs seferlerimizin hepsinde engelli arabasıyla seyahat edilebilmektedir."
+  },
+  {
+    "id": 185,
+    "keywords": [["otogar", "adü", "engelli"]],
+    "answer": "Otogar - Adü istikametinde giden otobüs seferlerimizin hepsinde engelli arabasıyla seyahat edilebilmektedir."
+  },
+  {
+    "id": 186,
+    "keywords": [["karpuzlu", "kuşadası", "engelli"]],
+    "answer": "Karpuzlu - Kuşadası istikametinde giden 1.sefer,3.sefer,5.sefer,6.sefer ve 7.seferlerimizde engelli arabasıyla seyahat edilebilmektedir."
+  },
+  {
+    "id": 187,
+    "keywords": [["kuşadası", "karpuzlu", "engelli"]],
+    "answer": "Kuşadası - Karpuzlu istikametinde giden 1.sefer,2.sefer,3.sefer,4.sefer ve 7.seferlerimizde engelli arabasıyla seyahat edilebilmektedir."
+  },
+  {
+    "id": 188,
+    "keywords": [["köşk", "çine", "engelli"]],
+    "answer": "Köşk - Çine istikametinde giden 2.sefer,4.sefer ve 6.seferlerimizde engelli arabasıyla seyahat edilebilmektedir."
+  },
+  {
+    "id": 189,
+    "keywords": [["çine", "köşk", "engelli"]],
+    "answer": "Çine - Köşk istikametinde giden 1.sefer,3.sefer,5.sefer ve 7.seferlerimizde engelli arabasıyla seyahat edilebilmektedir."
+  },
+  {
+    "id": 190,
+    "keywords": [["yeni", "pazar", "karacasu", "engelli"]],
+    "answer": "Yeni Pazar - Karacasu istikametinde giden 1.sefer,3.sefer,4.sefer ve 6.seferlerimizde engelli arabasıyla seyahat edilebilmektedir."
+  },
+  {
+    "id": 191,
+    "keywords": [["karacasu", "yeni", "pazar", "engelli"]],
+    "answer": "Karacasu - Yeni Pazar istikametinde giden 2.sefer,5.sefer ve 7.seferlerimizde engelli arabasıyla seyahat edilebilmektedir."
+  },
+  {
+    "id": 192,
+    "keywords": [["605", "hangi", "durak", "geç"]],
+    "answer": "605 numara Adü, Forum, Meydan, Tren Garı ve Otogardan geçiyor."
+  },
+  {
+    "id": 193,
+    "keywords": [["606", "koçarlı", "saat"]],
+    "answer": "606 numara Koçarlı’dan 09:05, 11:25, 12:30, 14:50, 17:05, 19:35, 21:10 saatlerinde geçiyor."
+  },
+  {
+    "id": 194,
+    "keywords": [["adü", "otogar", "otobüs"]],
+    "answer": "Adü'den Otogar'a 605 numaralı otobüs gidiyor."
+  },
+  {
+    "id": 195,
+    "keywords": [["forum", "hangi", "otobüs", "geç"]],
+    "answer": "Forum Aydın durağından 605 numaralı otobüs geçiyor."
+  },
+  {
+    "id": 196,
+    "keywords": [["607", "tekerlekli", "sandalye"]],
+    "answer": "607 numaranın 1, 3, 5 ve 7'nci seferlerde tekerlekli sandalye bulunmaktadır."
+  },
+  {
+    "id": 197,
+    "keywords": [["karpuzlu", "koçarlı", "öğrenci"]],
+    "answer": "Karpuzlu’dan Koçarlı’ya öğrenci ücreti 2,80 TL’dir."
+  },
+  {
+    "id": 198,
+    "keywords": [["kuşadası", "karpuzlu", "son", "otobüs"]],
+    "answer": "Kuşadası’ndan Karpuzlu’ya son otobüs seferi saat 19:15'tedir."
+  },
+  {
+    "id": 199,
+    "keywords": [["adü", "otogar", "sefer", "kaç"]],
+    "answer": "Otogardan Adü’ye ilk sefer 6:15'te başlıyor."
+  },
+  {
+    "id": 200,
+    "keywords": [["605", "numaralı", "otobüs", "durak"]],
+    "answer": "605 numaralı otobüs hattının durakları ADÜ, Forum Aydın, Zafer Meydanı, Tren Garı ve Otogardır."
+  },
+  {
+    "id": 201,
+    "keywords": [["606", "numaralı", "otobüs", "durak"]],
+    "answer": "606 numaralı otobüs hattının durakları Karpuzlu, Koçarlı, İncirliova, Söke ve Kuşadası'dır."
+  },
+  {
+    "id": 202,
+    "keywords": [["607", "numaralı", "otobüs", "durak"]],
+    "answer": "607 numaralı otobüs hattının durakları Köşk, Germencik, Efeler, Bozdoğan ve Çine'dir."
+  },
+  {
+    "id": 203,
+    "keywords": [["608", "numaralı", "otobüs", "durak"]],
+    "answer": "608 numaralı otobüs hattının durakları Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur."
+  },
+  {
+    "id": 204,
+    "keywords": [["605", "durak"]],
+    "answer": "605 numaralı otobüs hattının durakları ADÜ, Forum Aydın, Zafer Meydanı, Tren Garı ve Otogardır."
+  },
+  {
+    "id": 205,
+    "keywords": [["605", "durak", "ne"]],
+    "answer": "605 numaralı otobüs hattının durakları ADÜ, Forum Aydın, Zafer Meydanı, Tren Garı ve Otogardır."
+  },
+  {
+    "id": 206,
+    "keywords": [["605", "istikamet"]],
+    "answer": "605 numaralı otobüs hattının durakları ADÜ, Forum Aydın, Zafer Meydanı, Tren Garı ve Otogardır."
+  },
+  {
+    "id": 207,
+    "keywords": [["605", "geç"]],
+    "answer": "605 numaralı otobüs hattının durakları ADÜ, Forum Aydın, Zafer Meydanı, Tren Garı ve Otogardır."
+  },
+  {
+    "id": 208,
+    "keywords": [["605", "nereye"]],
+    "answer": "605 numaralı otobüs hattının durakları ADÜ, Forum Aydın, Zafer Meydanı, Tren Garı ve Otogardır."
+  },
+  {
+    "id": 209,
+    "keywords": [["606", "durak"]],
+    "answer": "606 numaralı otobüs hattının durakları Karpuzlu, Koçarlı, İncirliova, Söke ve Kuşadası'dır."
+  },
+  {
+    "id": 210,
+    "keywords": [["606", "durak", "ne"]],
+    "answer": "606 numaralı otobüs hattının durakları Karpuzlu, Koçarlı, İncirliova, Söke ve Kuşadası'dır."
+  },
+  {
+    "id": 211,
+    "keywords": [["606", "istikamet"]],
+    "answer": "606 numaralı otobüs hattının durakları Karpuzlu, Koçarlı, İncirliova, Söke ve Kuşadası'dır."
+  },
+  {
+    "id": 212,
+    "keywords": [["606", "geç"]],
+    "answer": "606 numaralı otobüs hattının durakları Karpuzlu, Koçarlı, İncirliova, Söke ve Kuşadası'dır."
+  },
+  {
+    "id": 213,
+    "keywords": [["606", "nereye"]],
+    "answer": "606 numaralı otobüs hattının durakları Karpuzlu, Koçarlı, İncirliova, Söke ve Kuşadası'dır."
+  },
+  {
+    "id": 214,
+    "keywords": [["607", "durak"]],
+    "answer": "607 numaralı otobüs hattının durakları Köşk, Germencik, Efeler, Bozdoğan ve Çine'dir."
+  },
+  {
+    "id": 215,
+    "keywords": [["607", "durak", "ne"]],
+    "answer": "607 numaralı otobüs hattının durakları Köşk, Germencik, Efeler, Bozdoğan ve Çine'dir."
+  },
+  {
+    "id": 216,
+    "keywords": [["607", "istikamet"]],
+    "answer": "607 numaralı otobüs hattının durakları Köşk, Germencik, Efeler, Bozdoğan ve Çine'dir."
+  },
+  {
+    "id": 217,
+    "keywords": [["607", "geç"]],
+    "answer": "607 numaralı otobüs hattının durakları Köşk, Germencik, Efeler, Bozdoğan ve Çine'dir."
+  },
+  {
+    "id": 218,
+    "keywords": [["607", "nereye"]],
+    "answer": "607 numaralı otobüs hattının durakları Köşk, Germencik, Efeler, Bozdoğan ve Çine'dir."
+  },
+  {
+    "id": 219,
+    "keywords": [["608", "durak"]],
+    "answer": "608 numaralı otobüs hattının durakları Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur."
+  },
+  {
+    "id": 220,
+    "keywords": [["608", "durak", "ne"]],
+    "answer": "608 numaralı otobüs hattının durakları Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur."
+  },
+  {
+    "id": 221,
+    "keywords": [["608", "istikamet"]],
+    "answer": "608 numaralı otobüs hattının durakları Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur."
+  },
+  {
+    "id": 222,
+    "keywords": [["608", "geç"]],
+    "answer": "608 numaralı otobüs hattının durakları Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur."
+  },
+  {
+    "id": 223,
+    "keywords": [["608", "nereye"]],
+    "answer": "608 numaralı otobüs hattının durakları Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur."
+  },
+  {
+    "id": 224,
+    "keywords": [["adü", "hangi", "numaralı"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 225,
+    "keywords": [["forum", "hangi", "numaralı"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 226,
+    "keywords": [["zafer", "hangi", "numaralı"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 227,
+    "keywords": [["tren", "gar", "hangi", "numaralı"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 228,
+    "keywords": [["otogar", "hangi", "numaralı"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 229,
+    "keywords": [["karpuzlu", "hangi", "numaralı"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 230,
+    "keywords": [["koçarlı", "hangi", "numaralı"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 231,
+    "keywords": [["incirliova", "hangi", "numaralı"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 232,
+    "keywords": [["söke", "hangi", "numaralı"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 233,
+    "keywords": [["kuşadası", "hangi", "numaralı"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 234,
+    "keywords": [["köşk", "hangi", "numaralı"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 235,
+    "keywords": [["germencik", "hangi", "numaralı"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 236,
+    "keywords": [["efeler", "hangi", "numaralı"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 237,
+    "keywords": [["bozdoğan", "hangi", "numaralı"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 238,
+    "keywords": [["çine", "hangi", "numaralı"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 239,
+    "keywords": [["yeni", "pazar", "hangi", "numaralı"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 240,
+    "keywords": [["nazilli", "hangi", "numaralı"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 241,
+    "keywords": [["sultan", "hisar", "hangi", "numaralı"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 242,
+    "keywords": [["kuyucak", "hangi", "numaralı"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 243,
+    "keywords": [["karacasu", "hangi", "numaralı"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 244,
+    "keywords": [["adü", "nasıl"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 245,
+    "keywords": [["adü", "nereden"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 246,
+    "keywords": [["adü", "otobüs"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 247,
+    "keywords": [["adü", "otobüs"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 248,
+    "keywords": [["adü", "ne", "ile"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 249,
+    "keywords": [["adü", "hat"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 250,
+    "keywords": [["adü", "geçen", "numara"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 251,
+    "keywords": [["adü", "hangi", "otobüs"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 252,
+    "keywords": [["adü", "kaç", "numara"]],
+    "answer": "ADÜ'ye 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 253,
+    "keywords": [["forum", "nasıl"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 254,
+    "keywords": [["forum", "nereden"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 255,
+    "keywords": [["forum", "otobüs"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 256,
+    "keywords": [["forum", "otobüs"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 257,
+    "keywords": [["forum", "ne", "ile"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 258,
+    "keywords": [["forum", "hat"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 259,
+    "keywords": [["forum", "geçen", "numara"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 260,
+    "keywords": [["forum", "hangi", "otobüs"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 261,
+    "keywords": [["forum", "kaç", "numara"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 262,
+    "keywords": [["forum", "nasıl"]],
+    "answer": "Forum Aydın'a 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 263,
+    "keywords": [["zafer", "nereden"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 264,
+    "keywords": [["zafer", "otobüs"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 265,
+    "keywords": [["zafer", "otobüs"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 266,
+    "keywords": [["zafer", "ne", "ile"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 267,
+    "keywords": [["zafer", "hat"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 268,
+    "keywords": [["zafer", "geçen", "numara"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 269,
+    "keywords": [["zafer", "hangi", "otobüs"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 270,
+    "keywords": [["zafer", "kaç", "numara"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 271,
+    "keywords": [["zafer", "nasıl"]],
+    "answer": "Zafer Meydanı'na 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 272,
+    "keywords": [["tren", "gar", "nasıl"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 273,
+    "keywords": [["tren", "gar", "nereden"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 274,
+    "keywords": [["tren", "gar", "otobüs"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 275,
+    "keywords": [["tren", "gar", "otobüs"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 276,
+    "keywords": [["tren", "gar", "ne", "ile"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 277,
+    "keywords": [["tren", "gar", "hat"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 278,
+    "keywords": [["tren", "gar", "geçen", "numara"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 279,
+    "keywords": [["tren", "gar", "hangi", "otobüs"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 280,
+    "keywords": [["tren", "gar", "kaç", "numara"]],
+    "answer": "Tren Garına 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 281,
+    "keywords": [["otogar", "nasıl"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 282,
+    "keywords": [["otogar", "nereden"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 283,
+    "keywords": [["otogar", "otobüs"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 284,
+    "keywords": [["otogar", "otobüs"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 285,
+    "keywords": [["otogar", "ne", "ile"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 286,
+    "keywords": [["otogar", "hat"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 287,
+    "keywords": [["otogar", "geçen", "numara"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 288,
+    "keywords": [["otogar", "hangi", "otobüs"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 289,
+    "keywords": [["otogar", "kaç", "numara"]],
+    "answer": "Otogara 605 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 290,
+    "keywords": [["karpuzlu", "nasıl"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 291,
+    "keywords": [["karpuzlu", "nereden"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 292,
+    "keywords": [["karpuzlu", "otobüs"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 293,
+    "keywords": [["karpuzlu", "otobüs"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 294,
+    "keywords": [["karpuzlu", "ne", "ile"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 295,
+    "keywords": [["karpuzlu", "hat"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 296,
+    "keywords": [["karpuzlu", "geçen", "numara"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 297,
+    "keywords": [["karpuzlu", "hangi", "otobüs"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 298,
+    "keywords": [["karpuzlu", "kaç", "numara"]],
+    "answer": "Karpuzlu'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 299,
+    "keywords": [["koçarlı", "nasıl"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 300,
+    "keywords": [["koçarlı", "nereden"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 301,
+    "keywords": [["koçarlı", "otobüs"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 302,
+    "keywords": [["koçarlı", "otobüs"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 303,
+    "keywords": [["koçarlı", "ne", "ile"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 304,
+    "keywords": [["koçarlı", "hat"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 305,
+    "keywords": [["koçarlı", "geçen", "numara"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 306,
+    "keywords": [["koçarlı", "hangi", "otobüs"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 307,
+    "keywords": [["koçarlı", "kaç", "numara"]],
+    "answer": "Koçarlı'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 308,
+    "keywords": [["incirliova", "nasıl"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 309,
+    "keywords": [["incirliova", "nereden"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 310,
+    "keywords": [["incirliova", "otobüs"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 311,
+    "keywords": [["incirliova", "otobüs"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 312,
+    "keywords": [["incirliova", "ne", "ile"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 313,
+    "keywords": [["incirliova", "hat"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 314,
+    "keywords": [["incirliova", "geçen", "numara"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 315,
+    "keywords": [["incirliova", "hangi", "otobüs"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 316,
+    "keywords": [["incirliova", "kaç", "numara"]],
+    "answer": "İncirliova'ya 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 317,
+    "keywords": [["söke", "nasıl"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 318,
+    "keywords": [["söke", "nereden"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 319,
+    "keywords": [["söke", "otobüs"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 320,
+    "keywords": [["söke", "otobüs"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 321,
+    "keywords": [["söke", "ne", "ile"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 322,
+    "keywords": [["söke", "hat"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 323,
+    "keywords": [["söke", "geçen", "numara"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 324,
+    "keywords": [["söke", "hangi", "otobüs"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 325,
+    "keywords": [["söke", "kaç", "numara"]],
+    "answer": "Söke'ye 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 326,
+    "keywords": [["kuşadası", "nasıl"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 327,
+    "keywords": [["kuşadası", "nereden"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 328,
+    "keywords": [["kuşadası", "otobüs"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 329,
+    "keywords": [["kuşadası", "otobüs"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 330,
+    "keywords": [["kuşadası", "ne", "ile"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 331,
+    "keywords": [["kuşadası", "hat"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 332,
+    "keywords": [["kuşadası", "geçen", "numara"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 333,
+    "keywords": [["kuşadası", "hangi", "otobüs"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 334,
+    "keywords": [["kuşadası", "kaç", "numara"]],
+    "answer": "Kuşadası'na 606 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 335,
+    "keywords": [["köşk", "nasıl"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 336,
+    "keywords": [["köşk", "nereden"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 337,
+    "keywords": [["köşk", "otobüs"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 338,
+    "keywords": [["köşk", "otobüs"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 339,
+    "keywords": [["köşk", "ne", "ile"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 340,
+    "keywords": [["köşk", "hat"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 341,
+    "keywords": [["köşk", "geçen", "numara"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 342,
+    "keywords": [["köşk", "hangi", "otobüs"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 343,
+    "keywords": [["köşk", "kaç", "numara"]],
+    "answer": "Köşk'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 344,
+    "keywords": [["germencik", "nasıl"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 345,
+    "keywords": [["germencik", "nereden"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 346,
+    "keywords": [["germencik", "otobüs"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 347,
+    "keywords": [["germencik", "otobüs"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 348,
+    "keywords": [["germencik", "ne", "ile"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 349,
+    "keywords": [["germencik", "hat"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 350,
+    "keywords": [["germencik", "geçen", "numara"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 351,
+    "keywords": [["germencik", "hangi", "otobüs"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 352,
+    "keywords": [["germencik", "kaç", "numara"]],
+    "answer": "Germencik'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 353,
+    "keywords": [["efeler", "nasıl"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 354,
+    "keywords": [["efeler", "nereden"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 355,
+    "keywords": [["efeler", "otobüs"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 356,
+    "keywords": [["efeler", "otobüs"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 357,
+    "keywords": [["efeler", "ne", "ile"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 358,
+    "keywords": [["efeler", "hat"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 359,
+    "keywords": [["efeler", "geçen", "numara"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 360,
+    "keywords": [["efeler", "hangi", "otobüs"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 361,
+    "keywords": [["efeler", "kaç", "numara"]],
+    "answer": "Efeler'e 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 362,
+    "keywords": [["bozdoğan", "nasıl"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 363,
+    "keywords": [["bozdoğan", "nereden"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 364,
+    "keywords": [["bozdoğan", "otobüs"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 365,
+    "keywords": [["bozdoğan", "otobüs"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 366,
+    "keywords": [["bozdoğan", "ne", "ile"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 367,
+    "keywords": [["bozdoğan", "hat"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 368,
+    "keywords": [["bozdoğan", "geçen", "numara"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 369,
+    "keywords": [["bozdoğan", "hangi", "otobüs"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 370,
+    "keywords": [["bozdoğan", "kaç", "numara"]],
+    "answer": "Bozdoğan'a 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 371,
+    "keywords": [["çine", "nasıl"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 372,
+    "keywords": [["çine", "nereden"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 373,
+    "keywords": [["çine", "otobüs"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 374,
+    "keywords": [["çine", "otobüs"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 375,
+    "keywords": [["çine", "ne", "ile"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 376,
+    "keywords": [["çine", "hat"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 377,
+    "keywords": [["çine", "geçen", "numara"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 378,
+    "keywords": [["çine", "hangi", "otobüs"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 379,
+    "keywords": [["çine", "kaç", "numara"]],
+    "answer": "Çine'ye 607 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 380,
+    "keywords": [["yeni", "pazar", "nasıl"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 381,
+    "keywords": [["yeni", "pazar", "nereden"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 382,
+    "keywords": [["yeni", "pazar", "otobüs"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 383,
+    "keywords": [["yeni", "pazar", "otobüs"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 384,
+    "keywords": [["yeni", "pazar", "ne", "ile"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 385,
+    "keywords": [["yeni", "pazar", "hat"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 386,
+    "keywords": [["yeni", "pazar", "geçen", "numara"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 387,
+    "keywords": [["yeni", "pazar", "hangi", "otobüs"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 388,
+    "keywords": [["yeni", "pazar", "kaç", "numara"]],
+    "answer": "Yeni Pazar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 389,
+    "keywords": [["nazilli", "nasıl"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 390,
+    "keywords": [["nazilli", "nereden"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 391,
+    "keywords": [["nazilli", "otobüs"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 392,
+    "keywords": [["nazilli", "otobüs"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 393,
+    "keywords": [["nazilli", "ne", "ile"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 394,
+    "keywords": [["nazilli", "hat"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 395,
+    "keywords": [["nazilli", "geçen", "numara"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 396,
+    "keywords": [["nazilli", "hangi", "otobüs"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 397,
+    "keywords": [["nazilli", "kaç", "numara"]],
+    "answer": "Nazilli'ye 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 398,
+    "keywords": [["sultan", "hisar", "nasıl"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 399,
+    "keywords": [["sultan", "hisar", "nereden"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 400,
+    "keywords": [["sultan", "hisar", "otobüs"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 401,
+    "keywords": [["sultan", "hisar", "otobüs"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 402,
+    "keywords": [["sultan", "hisar", "ne", "ile"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 403,
+    "keywords": [["sultan", "hisar", "hat"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 404,
+    "keywords": [["sultan", "hisar", "geçen", "numara"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 405,
+    "keywords": [["sultan", "hisar", "hangi", "otobüs"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 406,
+    "keywords": [["sultan", "hisar", "kaç", "numara"]],
+    "answer": "Sultan Hisar'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 407,
+    "keywords": [["kuyucak", "nasıl"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 408,
+    "keywords": [["kuyucak", "nereden"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 409,
+    "keywords": [["kuyucak", "otobüs"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 410,
+    "keywords": [["kuyucak", "otobüs"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 411,
+    "keywords": [["kuyucak", "ne", "ile"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 412,
+    "keywords": [["kuyucak", "hat"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 413,
+    "keywords": [["kuyucak", "geçen", "numara"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 414,
+    "keywords": [["kuyucak", "hangi", "otobüs"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 415,
+    "keywords": [["kuyucak", "kaç", "numara"]],
+    "answer": "Kuyucak'a 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 416,
+    "keywords": [["karacasu", "nasıl"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 417,
+    "keywords": [["karacasu", "nereden"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 418,
+    "keywords": [["karacasu", "otobüs"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 419,
+    "keywords": [["karacasu", "otobüs"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 420,
+    "keywords": [["karacasu", "ne", "ile"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 421,
+    "keywords": [["karacasu", "hat"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 422,
+    "keywords": [["karacasu", "geçen", "numara"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 423,
+    "keywords": [["karacasu", "hangi", "otobüs"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 424,
+    "keywords": [["karacasu", "kaç", "numara"]],
+    "answer": "Karacasu'ya 608 numaralı otobüs ile gidilmektedir."
+  },
+  {
+    "id": 425,
+    "keywords": [["605", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 426,
+    "keywords": [["605", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 427,
+    "keywords": [["605", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 428,
+    "keywords": [["605", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 429,
+    "keywords": [["605", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 430,
+    "keywords": [["605", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 431,
+    "keywords": [["605", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 432,
+    "keywords": [["605", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 433,
+    "keywords": [["605", "astim", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 434,
+    "keywords": [["605", "astim", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 435,
+    "keywords": [["605", "astim", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 436,
+    "keywords": [["605", "astim", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 437,
+    "keywords": [["605", "astim", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 438,
+    "keywords": [["adü", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 439,
+    "keywords": [["adü", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 440,
+    "keywords": [["adü", "astim"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 441,
+    "keywords": [["adü", "astim", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 442,
+    "keywords": [["adü", "astim", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 443,
+    "keywords": [["adü", "astim", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 444,
+    "keywords": [["adü", "astim", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 445,
+    "keywords": [["adü", "astim", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 446,
+    "keywords": [["adü", "astim", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 447,
+    "keywords": [["adü", "astim", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 448,
+    "keywords": [["adü", "astim", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 449,
+    "keywords": [["adü", "astim", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 450,
+    "keywords": [["adü", "astim", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 451,
+    "keywords": [["adü", "astim", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 452,
+    "keywords": [["adü", "astim", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 453,
+    "keywords": [["adü", "astim", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 454,
+    "keywords": [["adü", "astim", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 455,
+    "keywords": [["adü", "astim", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 456,
+    "keywords": [["adü", "astim", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 457,
+    "keywords": [["adü", "astim", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 458,
+    "keywords": [["adü", "astim", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 459,
+    "keywords": [["adü", "astim", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 460,
+    "keywords": [["adü", "astim", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 461,
+    "keywords": [["adü", "astim", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 462,
+    "keywords": [["adü", "astim", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 463,
+    "keywords": [["adü", "astim", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 464,
+    "keywords": [["adü", "astim", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 465,
+    "keywords": [["adü", "astim", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 466,
+    "keywords": [["605", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 467,
+    "keywords": [["605", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 468,
+    "keywords": [["605", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 469,
+    "keywords": [["605", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 470,
+    "keywords": [["605", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 471,
+    "keywords": [["605", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 472,
+    "keywords": [["605", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 473,
+    "keywords": [["605", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 474,
+    "keywords": [["605", "organize", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 475,
+    "keywords": [["605", "organize", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 476,
+    "keywords": [["605", "organize", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 477,
+    "keywords": [["605", "organize", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 478,
+    "keywords": [["605", "organize", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 479,
+    "keywords": [["adü", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 480,
+    "keywords": [["adü", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 481,
+    "keywords": [["adü", "organize"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 482,
+    "keywords": [["adü", "organize", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 483,
+    "keywords": [["adü", "organize", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 484,
+    "keywords": [["adü", "organize", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 485,
+    "keywords": [["adü", "organize", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 486,
+    "keywords": [["adü", "organize", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 487,
+    "keywords": [["adü", "organize", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 488,
+    "keywords": [["adü", "organize", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 489,
+    "keywords": [["adü", "organize", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 490,
+    "keywords": [["adü", "organize", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 491,
+    "keywords": [["adü", "organize", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 492,
+    "keywords": [["adü", "organize", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 493,
+    "keywords": [["adü", "organize", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 494,
+    "keywords": [["adü", "organize", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 495,
+    "keywords": [["adü", "organize", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 496,
+    "keywords": [["adü", "organize", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 497,
+    "keywords": [["adü", "organize", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 498,
+    "keywords": [["adü", "organize", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 499,
+    "keywords": [["adü", "organize", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 500,
+    "keywords": [["adü", "organize", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 501,
+    "keywords": [["adü", "organize", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 502,
+    "keywords": [["adü", "organize", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 503,
+    "keywords": [["adü", "organize", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 504,
+    "keywords": [["adü", "organize", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 505,
+    "keywords": [["adü", "organize", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 506,
+    "keywords": [["605", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 507,
+    "keywords": [["605", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 508,
+    "keywords": [["605", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 509,
+    "keywords": [["605", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 510,
+    "keywords": [["605", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 511,
+    "keywords": [["605", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 512,
+    "keywords": [["605", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 513,
+    "keywords": [["605", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 514,
+    "keywords": [["605", "sanayi", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 515,
+    "keywords": [["605", "sanayi", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 516,
+    "keywords": [["605", "sanayi", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 517,
+    "keywords": [["605", "sanayi", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 518,
+    "keywords": [["605", "sanayi", "ücret", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 519,
+    "keywords": [["adü", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 520,
+    "keywords": [["adü", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 521,
+    "keywords": [["adü", "sanayi"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 522,
+    "keywords": [["adü", "sanayi", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 523,
+    "keywords": [["adü", "sanayi", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 524,
+    "keywords": [["adü", "sanayi", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 525,
+    "keywords": [["adü", "sanayi", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 526,
+    "keywords": [["adü", "sanayi", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 lira, indirimli ücret 2 liradır."
+  },
+  {
+    "id": 527,
+    "keywords": [["adü", "sanayi", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 528,
+    "keywords": [["adü", "sanayi", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 529,
+    "keywords": [["adü", "sanayi", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 530,
+    "keywords": [["adü", "sanayi", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 531,
+    "keywords": [["adü", "sanayi", "tam"]],
+    "answer": "Adü ile Astim Organize Sanayi arası tam ücret 2.75 liradır."
+  },
+  {
+    "id": 532,
+    "keywords": [["adü", "sanayi", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 533,
+    "keywords": [["adü", "sanayi", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 534,
+    "keywords": [["adü", "sanayi", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 535,
+    "keywords": [["adü", "sanayi", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 536,
+    "keywords": [["adü", "sanayi", "indirimli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası indirimli ücret 2 liradır."
+  },
+  {
+    "id": 537,
+    "keywords": [["adü", "sanayi", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 538,
+    "keywords": [["adü", "sanayi", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 539,
+    "keywords": [["adü", "sanayi", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 540,
+    "keywords": [["adü", "sanayi", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 541,
+    "keywords": [["adü", "sanayi", "engelli"]],
+    "answer": "Adü ile Astim Organize Sanayi arası engelli ücreti 2 liradır."
+  },
+  {
+    "id": 542,
+    "keywords": [["adü", "sanayi", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 543,
+    "keywords": [["adü", "sanayi", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 544,
+    "keywords": [["adü", "sanayi", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 545,
+    "keywords": [["adü", "sanayi", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 546,
+    "keywords": [["adü", "sanayi", "öğrenci"]],
+    "answer": "Adü ile Astim Organize Sanayi arası öğrenci ücreti 2 liradır."
+  },
+  {
+    "id": 547,
+    "keywords": [["605", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 548,
+    "keywords": [["605", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 549,
+    "keywords": [["605", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 550,
+    "keywords": [["605", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 551,
+    "keywords": [["605", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 552,
+    "keywords": [["605", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 553,
+    "keywords": [["605", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 554,
+    "keywords": [["605", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 555,
+    "keywords": [["605", "imamköy", "ücret", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 556,
+    "keywords": [["605", "imamköy", "ücret", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 557,
+    "keywords": [["605", "imamköy", "ücret", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 558,
+    "keywords": [["605", "imamköy", "ücret", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 559,
+    "keywords": [["605", "imamköy", "ücret", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 560,
+    "keywords": [["adü", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 561,
+    "keywords": [["adü", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 562,
+    "keywords": [["adü", "imamköy"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 563,
+    "keywords": [["adü", "imamköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 564,
+    "keywords": [["adü", "imamköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 565,
+    "keywords": [["adü", "imamköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 566,
+    "keywords": [["adü", "imamköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 567,
+    "keywords": [["adü", "imamköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 568,
+    "keywords": [["adü", "imamköy", "tam"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 569,
+    "keywords": [["adü", "imamköy", "tam"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 570,
+    "keywords": [["adü", "imamköy", "tam"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 571,
+    "keywords": [["adü", "imamköy", "tam"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 572,
+    "keywords": [["adü", "imamköy", "tam"]],
+    "answer": "Adü ile İmamköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 573,
+    "keywords": [["adü", "imamköy", "indirimli"]],
+    "answer": "Adü ile İmamköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 574,
+    "keywords": [["adü", "imamköy", "indirimli"]],
+    "answer": "Adü ile İmamköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 575,
+    "keywords": [["adü", "imamköy", "indirimli"]],
+    "answer": "Adü ile İmamköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 576,
+    "keywords": [["adü", "imamköy", "indirimli"]],
+    "answer": "Adü ile İmamköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 577,
+    "keywords": [["adü", "imamköy", "indirimli"]],
+    "answer": "Adü ile İmamköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 578,
+    "keywords": [["adü", "imamköy", "engelli"]],
+    "answer": "Adü ile İmamköy arası engelli ücret 2.65 liradır."
+  },
+  {
+    "id": 579,
+    "keywords": [["adü", "imamköy", "engelli"]],
+    "answer": "Adü ile İmamköy arası engelli ücret 2.65 liradır."
+  },
+  {
+    "id": 580,
+    "keywords": [["adü", "imamköy", "engelli"]],
+    "answer": "Adü ile İmamköy arası engelli ücret 2.65 liradır."
+  },
+  {
+    "id": 581,
+    "keywords": [["adü", "imamköy", "engelli"]],
+    "answer": "Adü ile İmamköy arası engelli ücret 2.65 liradır."
+  },
+  {
+    "id": 582,
+    "keywords": [["adü", "imamköy", "engelli"]],
+    "answer": "Adü ile İmamköy arası engelli ücret 2.65 liradır."
+  },
+  {
+    "id": 583,
+    "keywords": [["adü", "imamköy", "öğrenci"]],
+    "answer": "Adü ile İmamköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 584,
+    "keywords": [["adü", "imamköy", "öğrenci"]],
+    "answer": "Adü ile İmamköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 585,
+    "keywords": [["adü", "imamköy", "öğrenci"]],
+    "answer": "Adü ile İmamköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 586,
+    "keywords": [["adü", "imamköy", "öğrenci"]],
+    "answer": "Adü ile İmamköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 587,
+    "keywords": [["adü", "imamköy", "öğrenci"]],
+    "answer": "Adü ile İmamköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 588,
+    "keywords": [["605", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 589,
+    "keywords": [["605", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 590,
+    "keywords": [["605", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."  
+  },
+  {
+    "id": 591,
+    "keywords": [["605", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 592,
+    "keywords": [["605", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 593,
+    "keywords": [["605", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 594,
+    "keywords": [["605", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 595,
+    "keywords": [["605", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 596,
+    "keywords": [["605", "serçeköy", "ücret", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 597,
+    "keywords": [["605", "serçeköy", "ücret", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 598,
+    "keywords": [["605", "serçeköy", "ücret", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 599,
+    "keywords": [["605", "serçeköy", "ücret", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 600,
+    "keywords": [["605", "serçeköy", "ücret", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 601,
+    "keywords": [["adü", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 602,
+    "keywords": [["adü", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 603,
+    "keywords": [["adü", "serçeköy"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 604,
+    "keywords": [["adü", "serçeköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 605,
+    "keywords": [["adü", "serçeköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 606,
+    "keywords": [["adü", "serçeköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 607,
+    "keywords": [["adü", "serçeköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 608,
+    "keywords": [["adü", "serçeköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 609,
+    "keywords": [["adü", "serçeköy", "tam"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 610,
+    "keywords": [["adü", "serçeköy", "tam"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 611,
+    "keywords": [["adü", "serçeköy", "tam"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 612,
+    "keywords": [["adü", "serçeköy", "tam"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 613,
+    "keywords": [["adü", "serçeköy", "tam"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 614,
+    "keywords": [["adü", "serçeköy", "indirimli"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 615,
+    "keywords": [["adü", "serçeköy", "indirimli"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 616,
+    "keywords": [["adü", "serçeköy", "indirimli"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 617,
+    "keywords": [["adü", "serçeköy", "indirimli"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 618,
+    "keywords": [["adü", "serçeköy", "indirimli"]],
+    "answer": "Adü ile Serçeköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 619,
+    "keywords": [["adü", "serçeköy", "engelli"]],
+    "answer": "Adü ile Serçeköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 620,
+    "keywords": [["adü", "serçeköy", "engelli"]],
+    "answer": "Adü ile Serçeköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 621,
+    "keywords": [["adü", "serçeköy", "engelli"]],
+    "answer": "Adü ile Serçeköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 622,
+    "keywords": [["adü", "serçeköy", "engelli"]],
+    "answer": "Adü ile Serçeköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 623,
+    "keywords": [["adü", "serçeköy", "engelli"]],
+    "answer": "Adü ile Serçeköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 624,
+    "keywords": [["adü", "serçeköy", "öğrenci"]],
+    "answer": "Adü ile Serçeköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 625,
+    "keywords": [["adü", "serçeköy", "öğrenci"]],
+    "answer": "Adü ile Serçeköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 626,
+    "keywords": [["adü", "serçeköy", "öğrenci"]],
+    "answer": "Adü ile Serçeköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 627,
+    "keywords": [["adü", "serçeköy", "öğrenci"]],
+    "answer": "Adü ile Serçeköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 628,
+    "keywords": [["adü", "serçeköy", "öğrenci"]],
+    "answer": "Adü ile Serçeköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 629,
+    "keywords": [["605", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 630,
+    "keywords": [["605", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 631,
+    "keywords": [["605", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."  
+  },
+  {
+    "id": 632,
+    "keywords": [["605", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 633,
+    "keywords": [["605", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 634,
+    "keywords": [["605", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 635,
+    "keywords": [["605", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 636,
+    "keywords": [["605", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 637,
+    "keywords": [["605", "kocagür", "ücret", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 638,
+    "keywords": [["605", "kocagür", "ücret", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 639,
+    "keywords": [["605", "kocagür", "ücret", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 640,
+    "keywords": [["605", "kocagür", "ücret", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 641,
+    "keywords": [["605", "kocagür", "ücret", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 642,
+    "keywords": [["adü", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 643,
+    "keywords": [["adü", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 644,
+    "keywords": [["adü", "kocagür"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 645,
+    "keywords": [["adü", "kocagür", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 646,
+    "keywords": [["adü", "kocagür", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 647,
+    "keywords": [["adü", "kocagür", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 648,
+    "keywords": [["adü", "kocagür", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 649,
+    "keywords": [["adü", "kocagür", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 650,
+    "keywords": [["adü", "kocagür", "tam"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 liradır."
+  },
+  {
+    "id": 651,
+    "keywords": [["adü", "kocagür", "tam"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 liradır."
+  },
+  {
+    "id": 652,
+    "keywords": [["adü", "kocagür", "tam"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 liradır."
+  },
+  {
+    "id": 653,
+    "keywords": [["adü", "kocagür", "tam"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 liradır."
+  },
+  {
+    "id": 654,
+    "keywords": [["adü", "kocagür", "tam"]],
+    "answer": "Adü ile Kocagür arası tam ücret 4 liradır."
+  },
+  {
+    "id": 655,
+    "keywords": [["adü", "kocagür", "indirimli"]],
+    "answer": "Adü ile Kocagür arası indirimli ücret 2,65 liradır."
+  },
+  {
+    "id": 656,
+    "keywords": [["adü", "kocagür", "indirimli"]],
+    "answer": "Adü ile Kocagür arası indirimli ücret 2,65 liradır."
+  },
+  {
+    "id": 657,
+    "keywords": [["adü", "kocagür", "indirimli"]],
+    "answer": "Adü ile Kocagür arası indirimli ücret 2,65 liradır."
+  },
+  {
+    "id": 658,
+    "keywords": [["adü", "kocagür", "indirimli"]],
+    "answer": "Adü ile Kocagür arası indirimli ücret 2,65 liradır."
+  },
+  {
+    "id": 659,
+    "keywords": [["adü", "kocagür", "indirimli"]],
+    "answer": "Adü ile Kocagür arası indirimli ücret 2,65 liradır."
+  },
+  {
+    "id": 660,
+    "keywords": [["adü", "kocagür", "engelli"]],
+    "answer": "Adü ile Kocagür arası engelli ücreti 2,65 liradır."
+  },
+  {
+    "id": 661,
+    "keywords": [["adü", "kocagür", "engelli"]],
+    "answer": "Adü ile Kocagür arası engelli ücreti 2,65 liradır."
+  },
+  {
+    "id": 662,
+    "keywords": [["adü", "kocagür", "engelli"]],
+    "answer": "Adü ile Kocagür arası engelli ücreti 2,65 liradır."
+  },
+  {
+    "id": 663,
+    "keywords": [["adü", "kocagür", "engelli"]],
+    "answer": "Adü ile Kocagür arası engelli ücreti 2,65 liradır."
+  },
+  {
+    "id": 664,
+    "keywords": [["adü", "kocagür", "engelli"]],
+    "answer": "Adü ile Kocagür arası engelli ücreti 2,65 liradır."
+  },
+  {
+    "id": 665,
+    "keywords": [["adü", "kocagür", "öğrenci"]],
+    "answer": "Adü ile Kocagür arası öğrenci ücreti 2,65 liradır."
+  },
+  {
+    "id": 666,
+    "keywords": [["adü", "kocagür", "öğrenci"]],
+    "answer": "Adü ile Kocagür arası öğrenci ücreti 2,65 liradır."
+  },
+  {
+    "id": 667,
+    "keywords": [["adü", "kocagür", "öğrenci"]],
+    "answer": "Adü ile Kocagür arası öğrenci ücreti 2,65 liradır."
+  },
+  {
+    "id": 668,
+    "keywords": [["adü", "kocagür", "öğrenci"]],
+    "answer": "Adü ile Kocagür arası öğrenci ücreti 2,65 liradır."
+  },
+  {
+    "id": 669,
+    "keywords": [["adü", "kocagür", "öğrenci"]],
+    "answer": "Adü ile Kocagür arası öğrenci ücreti 2,65 liradır."
+  },
+  {
+    "id": 670,
+    "keywords": [["606", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 671,
+    "keywords": [["606", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 672,
+    "keywords": [["606", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."  
+  },
+  {
+    "id": 673,
+    "keywords": [["606", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 674,
+    "keywords": [["606", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 675,
+    "keywords": [["606", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 676,
+    "keywords": [["606", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 677,
+    "keywords": [["606", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 678,
+    "keywords": [["606", "kardeşköy", "ücret", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 679,
+    "keywords": [["606", "kardeşköy", "ücret", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 680,
+    "keywords": [["606", "kardeşköy", "ücret", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 681,
+    "keywords": [["606", "kardeşköy", "ücret", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 682,
+    "keywords": [["606", "kardeşköy", "ücret", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 683,
+    "keywords": [["adü", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 684,
+    "keywords": [["adü", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 685,
+    "keywords": [["adü", "kardeşköy"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 686,
+    "keywords": [["adü", "kardeşköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 687,
+    "keywords": [["adü", "kardeşköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 688,
+    "keywords": [["adü", "kardeşköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 689,
+    "keywords": [["adü", "kardeşköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 690,
+    "keywords": [["adü", "kardeşköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 691,
+    "keywords": [["adü", "kardeşköy", "tam"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 692,
+    "keywords": [["adü", "kardeşköy", "tam"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 693,
+    "keywords": [["adü", "kardeşköy", "tam"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 694,
+    "keywords": [["adü", "kardeşköy", "tam"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 695,
+    "keywords": [["adü", "kardeşköy", "tam"]],
+    "answer": "Adü ile Kardeşköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 696,
+    "keywords": [["adü", "kardeşköy", "indirimli"]],
+    "answer": "Adü ile Kardeşköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 697,
+    "keywords": [["adü", "kardeşköy", "indirimli"]],
+    "answer": "Adü ile Kardeşköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 698,
+    "keywords": [["adü", "kardeşköy", "indirimli"]],
+    "answer": "Adü ile Kardeşköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 699,
+    "keywords": [["adü", "kardeşköy", "indirimli"]],
+    "answer": "Adü ile Kardeşköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 700,
+    "keywords": [["adü", "kardeşköy", "indirimli"]],
+    "answer": "Adü ile Kardeşköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 701,
+    "keywords": [["adü", "kardeşköy", "engelli"]],
+    "answer": "Adü ile Kardeşköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 702,
+    "keywords": [["adü", "kardeşköy", "engelli"]],
+    "answer": "Adü ile Kardeşköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 703,
+    "keywords": [["adü", "kardeşköy", "engelli"]],
+    "answer": "Adü ile Kardeşköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 704,
+    "keywords": [["adü", "kardeşköy", "engelli"]],
+    "answer": "Adü ile Kardeşköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 705,
+    "keywords": [["adü", "kardeşköy", "engelli"]],
+    "answer": "Adü ile Kardeşköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 706,
+    "keywords": [["adü", "kardeşköy", "öğrenci"]],
+    "answer": "Adü ile Kardeşköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 707,
+    "keywords": [["adü", "kardeşköy", "öğrenci"]],
+    "answer": "Adü ile Kardeşköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 708,
+    "keywords": [["adü", "kardeşköy", "öğrenci"]],
+    "answer": "Adü ile Kardeşköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 709,
+    "keywords": [["adü", "kardeşköy", "öğrenci"]],
+    "answer": "Adü ile Kardeşköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 710,
+    "keywords": [["adü", "kardeşköy", "öğrenci"]],
+    "answer": "Adü ile Kardeşköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 711,
+    "keywords": [["606", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 712,
+    "keywords": [["606", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 713,
+    "keywords": [["606", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."  
+  },
+  {
+    "id": 714,
+    "keywords": [["606", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 715,
+    "keywords": [["606", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 716,
+    "keywords": [["606", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 717,
+    "keywords": [["606", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 718,
+    "keywords": [["606", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 719,
+    "keywords": [["606", "kızılcaköy", "ücret", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 720,
+    "keywords": [["606", "kızılcaköy", "ücret", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 721,
+    "keywords": [["606", "kızılcaköy", "ücret", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 722,
+    "keywords": [["606", "kızılcaköy", "ücret", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 723,
+    "keywords": [["606", "kızılcaköy", "ücret", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 724,
+    "keywords": [["adü", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 725,
+    "keywords": [["adü", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 726,
+    "keywords": [["adü", "kızılcaköy"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 727,
+    "keywords": [["adü", "kızılcaköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 728,
+    "keywords": [["adü", "kızılcaköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 729,
+    "keywords": [["adü", "kızılcaköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 730,
+    "keywords": [["adü", "kızılcaköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 731,
+    "keywords": [["adü", "kızılcaköy", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 732,
+    "keywords": [["adü", "kızılcaköy", "tam"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 733,
+    "keywords": [["adü", "kızılcaköy", "tam"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 734,
+    "keywords": [["adü", "kızılcaköy", "tam"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 735,
+    "keywords": [["adü", "kızılcaköy", "tam"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 736,
+    "keywords": [["adü", "kızılcaköy", "tam"]],
+    "answer": "Adü ile Kızılcaköy arası tam ücret 4 liradır."
+  },
+  {
+    "id": 737,
+    "keywords": [["adü", "kızılcaköy", "indirimli"]],
+    "answer": "Adü ile Kızılcaköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 738,
+    "keywords": [["adü", "kızılcaköy", "indirimli"]],
+    "answer": "Adü ile Kızılcaköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 739,
+    "keywords": [["adü", "kızılcaköy", "indirimli"]],
+    "answer": "Adü ile Kızılcaköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 740,
+    "keywords": [["adü", "kızılcaköy", "indirimli"]],
+    "answer": "Adü ile Kızılcaköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 741,
+    "keywords": [["adü", "kızılcaköy", "indirimli"]],
+    "answer": "Adü ile Kızılcaköy arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 742,
+    "keywords": [["adü", "kızılcaköy", "engelli"]],
+    "answer": "Adü ile Kızılcaköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 743,
+    "keywords": [["adü", "kızılcaköy", "engelli"]],
+    "answer": "Adü ile Kızılcaköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 744,
+    "keywords": [["adü", "kızılcaköy", "engelli"]],
+    "answer": "Adü ile Kızılcaköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 745,
+    "keywords": [["adü", "kızılcaköy", "engelli"]],
+    "answer": "Adü ile Kızılcaköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 746,
+    "keywords": [["adü", "kızılcaköy", "engelli"]],
+    "answer": "Adü ile Kızılcaköy arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 747,
+    "keywords": [["adü", "kızılcaköy", "öğrenci"]],
+    "answer": "Adü ile Kızılcaköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 748,
+    "keywords": [["adü", "kızılcaköy", "öğrenci"]],
+    "answer": "Adü ile Kızılcaköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 749,
+    "keywords": [["adü", "kızılcaköy", "öğrenci"]],
+    "answer": "Adü ile Kızılcaköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 750,
+    "keywords": [["adü", "kızılcaköy", "öğrenci"]],
+    "answer": "Adü ile Kızılcaköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 751,
+    "keywords": [["adü", "kızılcaköy", "öğrenci"]],
+    "answer": "Adü ile Kızılcaköy arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 752,
+    "keywords": [["606", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 753,
+    "keywords": [["606", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 754,
+    "keywords": [["606", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."  
+  },
+  {
+    "id": 755,
+    "keywords": [["606", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 756,
+    "keywords": [["606", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 757,
+    "keywords": [["606", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 758,
+    "keywords": [["606", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 759,
+    "keywords": [["606", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 760,
+    "keywords": [["606", "dereağzı", "ücret", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 761,
+    "keywords": [["606", "dereağzı", "ücret", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 762,
+    "keywords": [["606", "dereağzı", "ücret", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 763,
+    "keywords": [["606", "dereağzı", "ücret", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 764,
+    "keywords": [["606", "dereağzı", "ücret", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 765,
+    "keywords": [["adü", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 766,
+    "keywords": [["adü", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 767,
+    "keywords": [["adü", "dereağzı"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 768,
+    "keywords": [["adü", "dereağzı", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 769,
+    "keywords": [["adü", "dereağzı", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 770,
+    "keywords": [["adü", "dereağzı", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 771,
+    "keywords": [["adü", "dereağzı", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 772,
+    "keywords": [["adü", "dereağzı", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 lira, indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 773,
+    "keywords": [["adü", "dereağzı", "tam"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 liradır."
+  },
+  {
+    "id": 774,
+    "keywords": [["adü", "dereağzı", "tam"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 liradır."
+  },
+  {
+    "id": 775,
+    "keywords": [["adü", "dereağzı", "tam"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 liradır."
+  },
+  {
+    "id": 776,
+    "keywords": [["adü", "dereağzı", "tam"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 liradır."
+  },
+  {
+    "id": 777,
+    "keywords": [["adü", "dereağzı", "tam"]],
+    "answer": "Adü ile Dereağzı arası tam ücret 4 liradır."
+  },
+  {
+    "id": 778,
+    "keywords": [["adü", "dereağzı", "indirimli"]],
+    "answer": "Adü ile Dereağzı arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 779,
+    "keywords": [["adü", "dereağzı", "indirimli"]],
+    "answer": "Adü ile Dereağzı arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 780,
+    "keywords": [["adü", "dereağzı", "indirimli"]],
+    "answer": "Adü ile Dereağzı arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 781,
+    "keywords": [["adü", "dereağzı", "indirimli"]],
+    "answer": "Adü ile Dereağzı arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 782,
+    "keywords": [["adü", "dereağzı", "indirimli"]],
+    "answer": "Adü ile Dereağzı arası indirimli ücret 2.65 liradır."
+  },
+  {
+    "id": 783,
+    "keywords": [["adü", "dereağzı", "engelli"]],
+    "answer": "Adü ile Dereağzı arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 784,
+    "keywords": [["adü", "dereağzı", "engelli"]],
+    "answer": "Adü ile Dereağzı arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 785,
+    "keywords": [["adü", "dereağzı", "engelli"]],
+    "answer": "Adü ile Dereağzı arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 786,
+    "keywords": [["adü", "dereağzı", "engelli"]],
+    "answer": "Adü ile Dereağzı arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 787,
+    "keywords": [["adü", "dereağzı", "engelli"]],
+    "answer": "Adü ile Dereağzı arası engelli ücreti 2.65 liradır."
+  },
+  {
+    "id": 788,
+    "keywords": [["adü", "dereağzı", "öğrenci"]],
+    "answer": "Adü ile Dereağzı arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 789,
+    "keywords": [["adü", "dereağzı", "öğrenci"]],
+    "answer": "Adü ile Dereağzı arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 790,
+    "keywords": [["adü", "dereağzı", "öğrenci"]],
+    "answer": "Adü ile Dereağzı arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 791,
+    "keywords": [["adü", "dereağzı", "öğrenci"]],
+    "answer": "Adü ile Dereağzı arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 792,
+    "keywords": [["adü", "dereağzı", "öğrenci"]],
+    "answer": "Adü ile Dereağzı arası öğrenci ücreti 2.65 liradır."
+  },
+  {
+    "id": 793,
+    "keywords": [["607", "germencik"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 794,
+    "keywords": [["607", "germencik"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 795,
+    "keywords": [["607", "germencik", "ne", "kadar"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."  
+  },
+  {
+    "id": 796,
+    "keywords": [["607", "germencik"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 797,
+    "keywords": [["607", "germencik"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 798,
+    "keywords": [["607", "germencik"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 799,
+    "keywords": [["607", "germencik", "fiyat"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 800,
+    "keywords": [["607", "germencik", "fiyat"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 801,
+    "keywords": [["607", "germencik", "ücret", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 802,
+    "keywords": [["607", "germencik", "ücret", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 803,
+    "keywords": [["607", "germencik", "ücret", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 804,
+    "keywords": [["607", "germencik", "ücret", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 805,
+    "keywords": [["607", "germencik", "ücret", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 806,
+    "keywords": [["adü", "germencik"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 807,
+    "keywords": [["adü", "germencik"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 808,
+    "keywords": [["adü", "germencik"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 809,
+    "keywords": [["adü", "germencik", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 810,
+    "keywords": [["adü", "germencik", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 811,
+    "keywords": [["adü", "germencik", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 812,
+    "keywords": [["adü", "germencik", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 813,
+    "keywords": [["adü", "germencik", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 814,
+    "keywords": [["adü", "germencik", "tam"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 815,
+    "keywords": [["adü", "germencik", "tam"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 816,
+    "keywords": [["adü", "germencik", "tam"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 817,
+    "keywords": [["adü", "germencik", "tam"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 818,
+    "keywords": [["adü", "germencik", "tam"]],
+    "answer": "Adü ile Germencik arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 819,
+    "keywords": [["adü", "germencik", "indirimli"]],
+    "answer": "Adü ile Germencik arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 820,
+    "keywords": [["adü", "germencik", "indirimli"]],
+    "answer": "Adü ile Germencik arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 821,
+    "keywords": [["adü", "germencik", "indirimli"]],
+    "answer": "Adü ile Germencik arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 822,
+    "keywords": [["adü", "germencik", "indirimli"]],
+    "answer": "Adü ile Germencik arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 823,
+    "keywords": [["adü", "germencik", "indirimli"]],
+    "answer": "Adü ile Germencik arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 824,
+    "keywords": [["adü", "germencik", "engelli"]],
+    "answer": "Adü ile Germencik arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 825,
+    "keywords": [["adü", "germencik", "engelli"]],
+    "answer": "Adü ile Germencik arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 826,
+    "keywords": [["adü", "germencik", "engelli"]],
+    "answer": "Adü ile Germencik arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 827,
+    "keywords": [["adü", "germencik", "engelli"]],
+    "answer": "Adü ile Germencik arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 828,
+    "keywords": [["adü", "germencik", "engelli"]],
+    "answer": "Adü ile Germencik arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 829,
+    "keywords": [["adü", "germencik", "öğrenci"]],
+    "answer": "Adü ile Germencik arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 830,
+    "keywords": [["adü", "germencik", "öğrenci"]],
+    "answer": "Adü ile Germencik arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 831,
+    "keywords": [["adü", "germencik", "öğrenci"]],
+    "answer": "Adü ile Germencik arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 832,
+    "keywords": [["adü", "germencik", "öğrenci"]],
+    "answer": "Adü ile Germencik arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 833,
+    "keywords": [["adü", "germencik", "öğrenci"]],
+    "answer": "Adü ile Germencik arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 834,
+    "keywords": [["607", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 835,
+    "keywords": [["607", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 836,
+    "keywords": [["607", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."  
+  },
+  {
+    "id": 837,
+    "keywords": [["607", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 838,
+    "keywords": [["607", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 839,
+    "keywords": [["607", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 840,
+    "keywords": [["607", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 841,
+    "keywords": [["607", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 842,
+    "keywords": [["607", "hıdırbeyli", "ücret", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 843,
+    "keywords": [["607", "hıdırbeyli", "ücret", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 844,
+    "keywords": [["607", "hıdırbeyli", "ücret", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 845,
+    "keywords": [["607", "hıdırbeyli", "ücret", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 846,
+    "keywords": [["607", "hıdırbeyli", "ücret", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 847,
+    "keywords": [["adü", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 848,
+    "keywords": [["adü", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 849,
+    "keywords": [["adü", "hıdırbeyli"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 850,
+    "keywords": [["adü", "hıdırbeyli", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 851,
+    "keywords": [["adü", "hıdırbeyli", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 852,
+    "keywords": [["adü", "hıdırbeyli", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 853,
+    "keywords": [["adü", "hıdırbeyli", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 854,
+    "keywords": [["adü", "hıdırbeyli", "arası", "otobüs", "ne"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 lira, indirimli ücret 4 liradır."
+  },
+  {
+    "id": 855,
+    "keywords": [["adü", "hıdırbeyli", "tam"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 856,
+    "keywords": [["adü", "hıdırbeyli", "tam"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 857,
+    "keywords": [["adü", "hıdırbeyli", "tam"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 858,
+    "keywords": [["adü", "hıdırbeyli", "tam"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 859,
+    "keywords": [["adü", "hıdırbeyli", "tam"]],
+    "answer": "Adü ile Hıdırbeyli arası tam ücret 5.5 liradır."
+  },
+  {
+    "id": 860,
+    "keywords": [["adü", "hıdırbeyli", "indirimli"]],
+    "answer": "Adü ile Hıdırbeyli arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 861,
+    "keywords": [["adü", "hıdırbeyli", "indirimli"]],
+    "answer": "Adü ile Hıdırbeyli arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 862,
+    "keywords": [["adü", "hıdırbeyli", "indirimli"]],
+    "answer": "Adü ile Hıdırbeyli arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 863,
+    "keywords": [["adü", "hıdırbeyli", "indirimli"]],
+    "answer": "Adü ile Hıdırbeyli arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 864,
+    "keywords": [["adü", "hıdırbeyli", "indirimli"]],
+    "answer": "Adü ile Hıdırbeyli arası indirimli ücret 4 liradır."
+  },
+  {
+    "id": 865,
+    "keywords": [["adü", "hıdırbeyli", "engelli"]],
+    "answer": "Adü ile Hıdırbeyli arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 866,
+    "keywords": [["adü", "hıdırbeyli", "engelli"]],
+    "answer": "Adü ile Hıdırbeyli arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 867,
+    "keywords": [["adü", "hıdırbeyli", "engelli"]],
+    "answer": "Adü ile Hıdırbeyli arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 868,
+    "keywords": [["adü", "hıdırbeyli", "engelli"]],
+    "answer": "Adü ile Hıdırbeyli arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 869,
+    "keywords": [["adü", "hıdırbeyli", "engelli"]],
+    "answer": "Adü ile Hıdırbeyli arası engelli ücreti 4 liradır."
+  },
+  {
+    "id": 870,
+    "keywords": [["adü", "hıdırbeyli", "öğrenci"]],
+    "answer": "Adü ile Hıdırbeyli arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 871,
+    "keywords": [["adü", "hıdırbeyli", "öğrenci"]],
+    "answer": "Adü ile Hıdırbeyli arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 872,
+    "keywords": [["adü", "hıdırbeyli", "öğrenci"]],
+    "answer": "Adü ile Hıdırbeyli arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 873,
+    "keywords": [["adü", "hıdırbeyli", "öğrenci"]],
+    "answer": "Adü ile Hıdırbeyli arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 874,
+    "keywords": [["adü", "hıdırbeyli", "öğrenci"]],
+    "answer": "Adü ile Hıdırbeyli arası öğrenci ücreti 4 liradır."
+  },
+  {
+    "id": 875,
+    "keywords": [["adü", "otogar", "birinci", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden birinci seferimiz saat 06.15'te kalkmaktadır."
+  },
+  {
+    "id": 876,
+    "keywords": [["adü", "otogar", "ilk", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden ilk seferimiz saat 06.15'te kalkmaktadır."
+  },
+  {
+    "id": 877,
+    "keywords": [["forum", "otogar", "birinci", "sefer", "saat"]],
+    "answer": "Forum Aydın'dan Otogar'a giden birinci seferimiz saat 06.25'te kalkmaktadır."
+  },
+  {
+    "id": 878,
+    "keywords": [["forum", "otogar", "ilk", "sefer", "saat"]],
+    "answer": "Forum Aydın'dan Otogar'a giden ilk seferimiz saat 06.25'te kalkmaktadır."
+  },
+  {
+    "id": 879,
+    "keywords": [["zafer", "otogar", "birinci", "sefer", "saat"]],
+    "answer": "Zafer Meydanı'ndan Otogar'a giden birinci seferimiz saat 06.40'ta kalkmaktadır."
+  },
+  {
+    "id": 880,
+    "keywords": [["zafer", "otogar", "ilk", "sefer", "saat"]],
+    "answer": "Zafer Meydanı'ndan Otogar'a giden ilk seferimiz saat 06.40'ta kalkmaktadır."
+  },
+  {
+    "id": 881,
+    "keywords": [["tren", "gar", "otogar", "birinci", "sefer", "saat"]],
+    "answer": "Tren Garı'ndan Otogar'a giden birinci seferimiz saat 06.45'te kalkmaktadır."
+  },
+  {
+    "id": 882,
+    "keywords": [["tren", "gar", "otogar", "ilk", "sefer", "saat"]],
+    "answer": "Tren Garı'ndan Otogar'a giden ilk seferimiz saat 06.45'te kalkmaktadır."
+  },
+  {
+    "id": 883,
+    "keywords": [["otogar", "adü", "birinci", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden birinci seferimiz saat 06.15'te kalkmaktadır."
+  },
+  {
+    "id": 884,
+    "keywords": [["otogar", "adü", "ilk", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden ilk seferimiz saat 06.15'te kalkmaktadır."
+  },
+  {
+    "id": 885,
+    "keywords": [["tren", "gar", "adü", "birinci", "sefer", "saat"]],
+    "answer": "Tren Garı'ndan Adü'ye giden birinci seferimiz saat 06.35'te kalkmaktadır."
+  },
+  {
+    "id": 886,
+    "keywords": [["tren", "gar", "adü", "ilk", "sefer", "saat"]],
+    "answer": "Tren Garı'ndan Adü'ye giden ilk seferimiz saat 06.35'te kalkmaktadır."
+  },
+  {
+    "id": 887,
+    "keywords": [["zafer", "adü", "birinci", "sefer", "saat"]],
+    "answer": "Zafer Meydanı'ndan Adü'ye giden birinci seferimiz saat 06.40'ta kalkmaktadır."
+  },
+  {
+    "id": 888,
+    "keywords": [["zafer", "adü", "ilk", "sefer", "saat"]],
+    "answer": "Zafer Meydanı'ndan Adü'ye giden ilk seferimiz saat 06.40'ta kalkmaktadır."
+  },
+  {
+    "id": 889,
+    "keywords": [["forum", "adü", "birinci", "sefer", "saat"]],
+    "answer": "Forum Aydın'dan Adü'ye giden birinci seferimiz saat 06.55'te kalkmaktadır."
+  },
+  {
+    "id": 890,
+    "keywords": [["forum", "adü", "ilk", "sefer", "saat"]],
+    "answer": "Forum Aydın'dan Adü'ye giden ilk seferimiz saat 06.55'te kalkmaktadır."
+  },
+  {
+    "id": 891,
+    "keywords": [["karpuzlu", "kuşadası", "birinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden birinci seferimiz saat 06.00'da kalkmaktadır."
+  },
+  {
+    "id": 892,
+    "keywords": [["karpuzlu", "kuşadası", "ilk", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden ilk seferimiz saat 06.00'da kalkmaktadır."
+  },
+  {
+    "id": 893,
+    "keywords": [["koçarlı", "kuşadası", "birinci", "sefer", "saat"]],
+    "answer": "Koçarlı'dan Kuşadası'na giden birinci seferimiz saat 06.35'te kalkmaktadır."
+  },
+  {
+    "id": 894,
+    "keywords": [["koçarlı", "kuşadası", "ilk", "sefer", "saat"]],
+    "answer": "Koçarlı'dan Kuşadası'na giden ilk seferimiz saat 06.35'te kalkmaktadır."
+  },
+  {
+    "id": 895,
+    "keywords": [["incirliova", "kuşadası", "birinci", "sefer", "saat"]],
+    "answer": "İncirliova'dan Kuşadası'na giden birinci seferimiz saat 07.25'te kalkmaktadır."
+  },
+  {
+    "id": 896,
+    "keywords": [["incirliova", "kuşadası", "ilk", "sefer", "saat"]],
+    "answer": "İncirliova'dan Kuşadası'na giden ilk seferimiz saat 07.25'te kalkmaktadır."
+  },
+  {
+    "id": 897,
+    "keywords": [["söke", "kuşadası", "birinci", "sefer", "saat"]],
+    "answer": "Söke'den Kuşadası'na giden birinci seferimiz saat 07.55'te kalkmaktadır."
+  },
+  {
+    "id": 898,
+    "keywords": [["söke", "kuşadası", "ilk", "sefer", "saat"]],
+    "answer": "Söke'den Kuşadası'na giden ilk seferimiz saat 07.55'te kalkmaktadır."
+  },
+  {
+    "id": 899,
+    "keywords": [["kuşadası", "karpuzlu", "birinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden birinci seferimiz saat 07.00'de kalkmaktadır."
+  },
+  {
+    "id": 900,
+    "keywords": [["kuşadası", "karpuzlu", "ilk", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden ilk seferimiz saat 07.00'de kalkmaktadır."
+  },
+  {
+    "id": 901,
+    "keywords": [["söke", "karpuzlu", "birinci", "sefer", "saat"]],
+    "answer": "Söke'den Karpuzlu'ya giden birinci seferimiz saat 07.45'te kalkmaktadır."
+  },
+  {
+    "id": 902,
+    "keywords": [["söke", "karpuzlu", "ilk", "sefer", "saat"]],
+    "answer": "Söke'den Karpuzlu'ya giden ilk seferimiz saat 07.45'te kalkmaktadır."
+  },
+  {
+    "id": 903,
+    "keywords": [["incirliova", "karpuzlu", "birinci", "sefer", "saat"]],
+    "answer": "İncirliova'dan Karpuzlu'ya giden birinci seferimiz saat 08.15'te kalkmaktadır."
+  },
+  {
+    "id": 904,
+    "keywords": [["incirliova", "karpuzlu", "ilk", "sefer", "saat"]],
+    "answer": "İncirliova'dan Karpuzlu'ya giden ilk seferimiz saat 08.15'te kalkmaktadır."
+  },
+  {
+    "id": 905,
+    "keywords": [["koçarlı", "karpuzlu", "birinci", "sefer", "saat"]],
+    "answer": "Koçarlı'dan Karpuzlu'ya giden birinci seferimiz saat 09.05'te kalkmaktadır."
+  },
+  {
+    "id": 906,
+    "keywords": [["koçarlı", "karpuzlu", "ilk", "sefer", "saat"]],
+    "answer": "Koçarlı'dan Karpuzlu'ya giden ilk seferimiz saat 09.05'te kalkmaktadır."
+  },
+  {
+    "id": 907,
+    "keywords": [["köşk", "çine", "birinci", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden birinci seferimiz saat 07.30'da kalkmaktadır."
+  },
+  {
+    "id": 908,
+    "keywords": [["köşk", "çine", "ilk", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden ilk seferimiz saat 07.30'da kalkmaktadır."
+  },
+  {
+    "id": 909,
+    "keywords": [["germencik", "çine", "birinci", "sefer", "saat"]],
+    "answer": "Germencik'ten Çine'ye giden birinci seferimiz saat 08.00'de kalkmaktadır."
+  },
+  {
+    "id": 910,
+    "keywords": [["germencik", "çine", "ilk", "sefer", "saat"]],
+    "answer": "Germencik'ten Çine'ye giden ilk seferimiz saat 08.00'de kalkmaktadır."
+  },
+  {
+    "id": 911,
+    "keywords": [["efeler", "çine", "birinci", "sefer", "saat"]],
+    "answer": "Efeler'den Çine'ye giden birinci seferimiz saat 08.25'te kalkmaktadır."
+  },
+  {
+    "id": 912,
+    "keywords": [["efeler", "çine", "ilk", "sefer", "saat"]],
+    "answer": "Efeler'den Çine'ye giden ilk seferimiz saat 08.25'te kalkmaktadır."
+  },
+  {
+    "id": 913,
+    "keywords": [["bozdoğan", "çine", "birinci", "sefer", "saat"]],
+    "answer": "Bozdoğan'dan Çine'ye giden birinci seferimiz saat 08.45'te kalkmaktadır."
+  },
+  {
+    "id": 914,
+    "keywords": [["bozdoğan", "çine", "ilk", "sefer", "saat"]],
+    "answer": "Bozdoğan'dan Çine'ye giden ilk seferimiz saat 08.45'te kalkmaktadır."
+  },
+  {
+    "id": 915,
+    "keywords": [["çine", "köşk", "birinci", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden birinci seferimiz saat 08.30'da kalkmaktadır."
+  },
+  {
+    "id": 916,
+    "keywords": [["çine", "köşk", "ilk", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden ilk seferimiz saat 08.30'da kalkmaktadır."
+  },
+  {
+    "id": 917,
+    "keywords": [["bozdoğan", "köşk", "birinci", "sefer", "saat"]],
+    "answer": "Bozdoğan'dan Köşk'e giden birinci seferimiz saat 08.50'de kalkmaktadır."
+  },
+  {
+    "id": 918,
+    "keywords": [["bozdoğan", "köşk", "ilk", "sefer", "saat"]],
+    "answer": "Bozdoğan'dan Köşk'e giden ilk seferimiz saat 08.50'de kalkmaktadır."
+  },
+  {
+    "id": 919,
+    "keywords": [["efeler", "köşk", "birinci", "sefer", "saat"]],
+    "answer": "Efeler'den Köşk'e giden birinci seferimiz saat 09.10'da kalkmaktadır."
+  },
+  {
+    "id": 920,
+    "keywords": [["efeler", "köşk", "ilk", "sefer", "saat"]],
+    "answer": "Efeler'den Köşk'e giden ilk seferimiz saat 09.10'da kalkmaktadır."
+  },
+  {
+    "id": 921,
+    "keywords": [["germencik", "köşk", "birinci", "sefer", "saat"]],
+    "answer": "Germencik'ten Köşk'e giden birinci seferimiz saat 09.35'te kalkmaktadır."
+  },
+  {
+    "id": 922,
+    "keywords": [["germencik", "köşk", "ilk", "sefer", "saat"]],
+    "answer": "Germencik'ten Köşk'e giden ilk seferimiz saat 09.35'te kalkmaktadır."
+  },
+  {
+    "id": 923,
+    "keywords": [["yeni", "pazar", "karacasu","birinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden birinci seferimiz saat 07.20'de kalkmaktadır."
+  },
+  {
+    "id": 924,
+    "keywords": [["yeni", "pazar", "karacasu", "ilk", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden ilk seferimiz saat 07.20'de kalkmaktadır."
+  },
+  {
+    "id": 925,
+    "keywords": [["nazilli", "karacasu","birinci", "sefer", "saat"]],
+    "answer": "Nazilli'den Karacasu'ya giden birinci seferimiz saat 07.40'ta kalkmaktadır."
+  },
+  {
+    "id": 926,
+    "keywords": [["nazilli", "karacasu", "ilk", "sefer", "saat"]],
+    "answer": "Nazilli'den Karacasu'ya giden ilk seferimiz saat 07.40'ta kalkmaktadır."
+  },
+  {
+    "id": 927,
+    "keywords": [["sultan", "hisar", "karacasu","birinci", "sefer", "saat"]],
+    "answer": "Sultan Hisar'dan Karacasu'ya giden birinci seferimiz saat 08.25'te kalkmaktadır."
+  },
+  {
+    "id": 928,
+    "keywords": [["sultan", "hisar", "karacasu", "ilk", "sefer", "saat"]],
+    "answer": "Sultan Hisar'dan Karacasu'ya giden ilk seferimiz saat 08.25'te kalkmaktadır."
+  },
+  {
+    "id": 929,
+    "keywords": [["kuyucak", "karacasu","birinci", "sefer", "saat"]],
+    "answer": "Kuyucak'tan Karacasu'ya giden birinci seferimiz saat 08.40'ta kalkmaktadır."
+  },
+  {
+    "id": 930,
+    "keywords": [["kuyucak", "karacasu", "ilk", "sefer", "saat"]],
+    "answer": "Kuyucak'tan Karacasu'ya giden ilk seferimiz saat 08.40'ta kalkmaktadır."
+  },
+  {
+    "id": 931,
+    "keywords": [["karacasu", "yeni", "pazar", "birinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden birinci seferimiz saat 07.20'de kalkmaktadır."
+  },
+  {
+    "id": 932,
+    "keywords": [["karacasu", "yeni", "pazar", "ilk", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden ilk seferimiz saat 07.20'de kalkmaktadır."
+  },
+  {
+    "id": 933,
+    "keywords": [["kuyucak", "yeni", "pazar", "birinci", "sefer", "saat"]],
+    "answer": "Kuyucak'tan Yeni Pazar'a giden birinci seferimiz saat 07.30'da kalkmaktadır."
+  },
+  {
+    "id": 934,
+    "keywords": [["kuyucak", "yeni", "pazar", "ilk", "sefer", "saat"]],
+    "answer": "Kuyucak'tan Yeni Pazar'a giden ilk seferimiz saat 07.30'da kalkmaktadır."
+  },
+  {
+    "id": 935,
+    "keywords": [["sultan", "hisar", "yeni", "pazar", "birinci", "sefer", "saat"]],
+    "answer": "Sultan Hisar'dan Yeni Pazar'a giden birinci seferimiz saat 07.45'te kalkmaktadır."
+  },
+  {
+    "id": 936,
+    "keywords": [["sultan", "hisar", "yeni", "pazar", "ilk", "sefer", "saat"]],
+    "answer": "Sultan Hisar'dan Yeni Pazar'a giden ilk seferimiz saat 07.45'te kalkmaktadır."
+  },
+  {
+    "id": 937,
+    "keywords": [["nazilli", "yeni", "pazar", "birinci", "sefer", "saat"]],
+    "answer": "Nazilli'den Yeni Pazar'a giden birinci seferimiz saat 08.30'da kalkmaktadır."
+  },
+  {
+    "id": 938,
+    "keywords": [["nazilli", "yeni", "pazar", "ilk", "sefer", "saat"]],
+    "answer": "Nazilli'den Yeni Pazar'a giden ilk seferimiz saat 08.30'da kalkmaktadır."
+  },
+  {
+    "id": 939,
+    "keywords": [["otogar", "kalkan", "ilk", "sefer", "saat"]],
+    "answer": "Otogar'dan kalkan ilk seferimiz saat 07.05'te kalkmaktadır."
+  },
+  {
+    "id": 940,
+    "keywords": [["otogar", "kalkan", "birinci", "sefer", "saat"]],
+    "answer": "Otogar'dan kalkan ilk seferimiz saat 07.05'te kalkmaktadır."
+  },
+  {
+    "id": 941,
+    "keywords": [["adü", "kalkan", "ilk", "sefer", "saat"]],
+    "answer": "Adü'den kalkan ilk seferimiz saat 07.05'te kalkmaktadır."
+  },
+  {
+    "id": 942,
+    "keywords": [["adü", "kalkan", "birinci", "sefer", "saat"]],
+    "answer": "Adü'den kalkan ilk seferimiz saat 07.05'te kalkmaktadır."
+  },
+  {
+    "id": 943,
+    "keywords": [["kuşadası", "kalkan", "ilk", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan kalkan ilk seferimiz saat 07.35'te kalkmaktadır."
+  },
+  {
+    "id": 944,
+    "keywords": [["kuşadası", "kalkan", "birinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan kalkan ilk seferimiz saat 07.35'te kalkmaktadır."
+  },
+  {
+    "id": 945,
+    "keywords": [["karpuzlu", "kalkan", "ilk", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan kalkan ilk seferimiz saat 09.40'ta kalkmaktadır."
+  },
+  {
+    "id": 946,
+    "keywords": [["karpuzlu", "kalkan", "birinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan kalkan ilk seferimiz saat 09.40'ta kalkmaktadır."
+  },
+  {
+    "id": 947,
+    "keywords": [["çine", "kalkan", "ilk", "sefer", "saat"]],
+    "answer": "Çine'den kalkan ilk seferimiz saat 09.05'te kalkmaktadır."
+  },
+  {
+    "id": 948,
+    "keywords": [["çine", "kalkan", "birinci", "sefer", "saat"]],
+    "answer": "Çine'den kalkan ilk seferimiz saat 09.05'te kalkmaktadır."
+  },
+  {
+    "id": 949,
+    "keywords": [["köşk", "kalkan", "ilk", "sefer", "saat"]],
+    "answer": "Köşk'ten kalkan ilk seferimiz saat 10.35'te kalkmaktadır."
+  },
+  {
+    "id": 950,
+    "keywords": [["köşk", "kalkan", "birinci", "sefer", "saat"]],
+    "answer": "Köşk'ten kalkan ilk seferimiz saat 10.35'te kalkmaktadır."
+  },
+  {
+    "id": 951,
+    "keywords": [["karacasu", "kalkan", "ilk", "sefer", "saat"]],
+    "answer": "Karacasu'dan kalkan ilk seferimiz saat 08.50'de kalkmaktadır."
+  },
+  {
+    "id": 952,
+    "keywords": [["karacasu", "kalkan", "birinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan kalkan ilk seferimiz saat 08.50'de kalkmaktadır."
+  },
+  {
+    "id": 953,
+    "keywords": [["yeni", "pazar", "kalkan", "ilk", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan kalkan ilk seferimiz saat 08.50'de kalkmaktadır."
+  },
+  {
+    "id": 954,
+    "keywords": [["yeni", "pazar", "kalkan", "birinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan kalkan ilk seferimiz saat 08.50'de kalkmaktadır."
+  },
+  {
+    "id": 955,
+    "keywords": [["adü", "otogar", "yedinci", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden yedinci seferimiz saat 18.30'da kalkmaktadır."
+  },
+  {
+    "id": 956,
+    "keywords": [["adü", "otogar", "son", "sefer", "saat"]],
+    "answer": "Adü'den Otogar'a giden son seferimiz saat 18.30'da kalkmaktadır."
+  },
+  {
+    "id": 957,
+    "keywords": [["forum", "otogar", "yedinci", "sefer", "saat"]],
+    "answer": "Forum Aydın'dan Otogar'a giden yedinci seferimiz saat 18.40'ta kalkmaktadır."
+  },
+  {
+    "id": 958,
+    "keywords": [["forum", "otogar", "son", "sefer", "saat"]],
+    "answer": "Forum Aydın'dan Otogar'a giden son seferimiz saat 18.40'ta kalkmaktadır."
+  },
+  {
+    "id": 959,
+    "keywords": [["zafer", "otogar", "yedinci", "sefer", "saat"]],
+    "answer": "Zafer Meydanın'dan Otogar'a giden yedinci seferimiz saat 18.55'te kalkmaktadır."
+  },
+  {
+    "id": 960,
+    "keywords": [["zafer", "otogar", "son", "sefer", "saat"]],
+    "answer": "Zafer Meydanın'dan Otogar'a giden son seferimiz saat 18.55'te kalkmaktadır."
+  },
+  {
+    "id": 961,
+    "keywords": [["tren", "gar", "otogar", "yedinci", "sefer", "saat"]],
+    "answer": "Tren Garı'ndan Otogar'a giden yedinci seferimiz saat 19.00'ta kalkmaktadır."
+  },
+  {
+    "id": 962,
+    "keywords": [["tren", "gar", "otogar", "son", "sefer", "saat"]],
+    "answer": "Tren Garı'ndan Otogar'a giden son seferimiz saat 19.00'ta kalkmaktadır."
+  },
+  {
+    "id": 963,
+    "keywords": [["otogar", "adü", "yedinci", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden yedinci seferimiz saat 19.20'de kalkmaktadır."
+  },
+  {
+    "id": 964,
+    "keywords": [["otogar", "adü", "son", "sefer", "saat"]],
+    "answer": "Otogar'dan Adü'ye giden son seferimiz saat 19.20'de kalkmaktadır."
+  },
+  {
+    "id": 965,
+    "keywords": [["tren", "gar", "adü", "yedinci", "sefer", "saat"]],
+    "answer": "Tren Garı'ndan Adü'ye giden yedinci seferimiz saat 18.50'de kalkmaktadır."
+  },
+  {
+    "id": 966,
+    "keywords": [["tren", "gar", "adü", "son", "sefer", "saat"]],
+    "answer": "Tren Garı'ndan Adü'ye giden son seferimiz saat 18.50'de kalkmaktadır."
+  },
+  {
+    "id": 967,
+    "keywords": [["zafer", "adü", "yedinci", "sefer", "saat"]],
+    "answer": "Zafer Meydanı'ndan Adü'ye giden yedinci seferimiz saat 18.55'te kalkmaktadır."
+  },
+  {
+    "id": 968,
+    "keywords": [["zafer", "adü", "son", "sefer", "saat"]],
+    "answer": "Zafer Meydanı'ndan Adü'ye giden son seferimiz saat 18.55'te kalkmaktadır."
+  },
+  {
+    "id": 969,
+    "keywords": [["forum", "adü", "yedinci", "sefer", "saat"]],
+    "answer": "Forum Aydın'dan Adü'ye giden yedinci seferimiz saat 19.10'da kalkmaktadır."
+  },
+  {
+    "id": 970,
+    "keywords": [["forum", "adü", "son", "sefer", "saat"]],
+    "answer": "Forum Aydın'dan Adü'ye giden son seferimiz saat 19.10'da kalkmaktadır."
+  },
+  {
+    "id": 971,
+    "keywords": [["karpuzlu", "kuşadası", "yedinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden yedinci seferimiz saat 18.15'te kalkmaktadır."
+  },
+  {
+    "id": 972,
+    "keywords": [["karpuzlu", "kuşadası", "son", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan Kuşadası'na giden son seferimiz saat 18.15'te kalkmaktadır."
+  },
+  {
+    "id": 973,
+    "keywords": [["koçarlı", "kuşadası", "yedinci", "sefer", "saat"]],
+    "answer": "Koçarlı'dan Kuşadası'na giden yedinci seferimiz saat 18.50'de kalkmaktadır."
+  },
+  {
+    "id": 974,
+    "keywords": [["koçarlı", "kuşadası", "son", "sefer", "saat"]],
+    "answer": "Koçarlı'dan Kuşadası'na giden son seferimiz saat 18.50'de kalkmaktadır."
+  },
+  {
+    "id": 975,
+    "keywords": [["incirliova", "kuşadası", "yedinci", "sefer", "saat"]],
+    "answer": "İncirliova'dan Kuşadası'na giden yedinci seferimiz saat 19.40'ta kalkmaktadır."
+  },
+  {
+    "id": 976,
+    "keywords": [["incirliova", "kuşadası", "son", "sefer", "saat"]],
+    "answer": "İncirliova'dan Kuşadası'na giden son seferimiz saat 19.40'ta kalkmaktadır."
+  },
+  {
+    "id": 977,
+    "keywords": [["söke", "kuşadası", "yedinci", "sefer", "saat"]],
+    "answer": "Söke'den Kuşadası'na giden yedinci seferimiz saat 20.10'da kalkmaktadır."
+  },
+  {
+    "id": 978,
+    "keywords": [["söke", "kuşadası", "son", "sefer", "saat"]],
+    "answer": "Söke'den Kuşadası'na giden son seferimiz saat 20.10'da kalkmaktadır."
+  },
+  {
+    "id": 979,
+    "keywords": [["kuşadası", "karpuzlu", "yedinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden yedinci seferimiz saat 19.15'te kalkmaktadır."
+  },
+  {
+    "id": 980,
+    "keywords": [["kuşadası", "karpuzlu", "son", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan Karpuzlu'ya giden son seferimiz saat 19.15'te kalkmaktadır."
+  },
+  {
+    "id": 981,
+    "keywords": [["söke", "karpuzlu", "yedinci", "sefer", "saat"]],
+    "answer": "Söke'den Karpuzlu'ya giden yedinci seferimiz saat 19.55'te kalkmaktadır."
+  },
+  {
+    "id": 982,
+    "keywords": [["söke", "karpuzlu", "son", "sefer", "saat"]],
+    "answer": "Söke'den Karpuzlu'ya giden son seferimiz saat 19.55'te kalkmaktadır."
+  },
+  {
+    "id": 983,
+    "keywords": [["incirliova", "karpuzlu", "yedinci", "sefer", "saat"]],
+    "answer": "İncirliova'dan Karpuzlu'ya giden yedinci seferimiz saat 20.20'de kalkmaktadır."
+  },
+  {
+    "id": 984,
+    "keywords": [["incirliova", "karpuzlu", "son", "sefer", "saat"]],
+    "answer": "İncirliova'dan Karpuzlu'ya giden son seferimiz saat 20.20'de kalkmaktadır."
+  },
+  {
+    "id": 985,
+    "keywords": [["koçarlı", "karpuzlu", "yedinci", "sefer", "saat"]],
+    "answer": "Koçarlı'dan Karpuzlu'ya giden yedinci seferimiz saat 21.10'da kalkmaktadır."
+  },
+  {
+    "id": 986,
+    "keywords": [["koçarlı", "karpuzlu", "son", "sefer", "saat"]],
+    "answer": "Koçarlı'dan Karpuzlu'ya giden son seferimiz saat 21.10'da kalkmaktadır."
+  },
+  {
+    "id": 987,
+    "keywords": [["köşk", "çine", "yedinci", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden yedinci seferimiz saat 19.45'te kalkmaktadır."
+  },
+  {
+    "id": 988,
+    "keywords": [["köşk", "çine", "son", "sefer", "saat"]],
+    "answer": "Köşk'ten Çine'ye giden son seferimiz saat 19.45'te kalkmaktadır."
+  },
+  {
+    "id": 989,
+    "keywords": [["germencik", "çine", "yedinci", "sefer", "saat"]],
+    "answer": "Germencik'ten Çine'ye giden yedinci seferimiz saat 20.25'te kalkmaktadır."
+  },
+  {
+    "id": 990,
+    "keywords": [["germencik", "çine", "son", "sefer", "saat"]],
+    "answer": "Germencik'ten Çine'ye giden son seferimiz saat 20.25'te kalkmaktadır."
+  },
+  {
+    "id": 991,
+    "keywords": [["efeler", "çine", "yedinci", "sefer", "saat"]],
+    "answer": "Efeler'den Çine'ye giden yedinci seferimiz saat 20.45'te kalkmaktadır."
+  },
+  {
+    "id": 992,
+    "keywords": [["efeler", "çine", "son", "sefer", "saat"]],
+    "answer": "Efeler'den Çine'ye giden son seferimiz saat 20.45'te kalkmaktadır."
+  },
+  {
+    "id": 993,
+    "keywords": [["bozdoğan", "çine", "yedinci", "sefer", "saat"]],
+    "answer": "Bozdoğan'dan Çine'ye giden yedinci seferimiz saat 21.05'te kalkmaktadır."
+  },
+  {
+    "id": 994,
+    "keywords": [["bozdoğan", "çine", "son", "sefer", "saat"]],
+    "answer": "Bozdoğan'dan Çine'ye giden son seferimiz saat 21.05'te kalkmaktadır."
+  },
+  {
+    "id": 995,
+    "keywords": [["çine", "köşk", "yedinci", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden yedinci seferimiz saat 20.45'te kalkmaktadır."
+  },
+  {
+    "id": 996,
+    "keywords": [["çine", "köşk", "son", "sefer", "saat"]],
+    "answer": "Çine'den Köşk'e giden son seferimiz saat 20.45'te kalkmaktadır."
+  },
+  {
+    "id": 997,
+    "keywords": [["bozdoğan", "köşk", "yedinci", "sefer", "saat"]],
+    "answer": "Bozdoğan'dan Köşk'e giden yedinci seferimiz saat 21.05'te kalkmaktadır."
+  },
+  {
+    "id": 998,
+    "keywords": [["bozdoğan", "köşk", "son", "sefer", "saat"]],
+    "answer": "Bozdoğan'dan Köşk'e giden son seferimiz saat 21.05'te kalkmaktadır."
+  },
+  {
+    "id": 999,
+    "keywords": [["efeler", "köşk", "yedinci", "sefer", "saat"]],
+    "answer": "Efeler'den Köşk'e giden yedinci seferimiz saat 21.25'te kalkmaktadır."
+  },
+  {
+    "id": 1000,
+    "keywords": [["efeler", "köşk", "son", "sefer", "saat"]],
+    "answer": "Efeler'den Köşk'e giden son seferimiz saat 21.25'te kalkmaktadır."
+  },
+  {
+    "id": 1001,
+    "keywords": [["germencik", "köşk", "yedinci", "sefer", "saat"]],
+    "answer": "Germencik'ten Köşk'e giden yedinci seferimiz saat 21.50'de kalkmaktadır."
+  },
+  {
+    "id": 1002,
+    "keywords": [["germencik", "köşk", "son", "sefer", "saat"]],
+    "answer": "Germencik'ten Köşk'e giden son seferimiz saat 21.50'de kalkmaktadır."
+  },
+  {
+    "id": 1003,
+    "keywords": [["yeni", "pazar", "karacasu", "yedinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden yedinci seferimiz saat 18.20'de kalkmaktadır."
+  },
+  {
+    "id": 1004,
+    "keywords": [["yeni", "pazar", "karacasu", "son", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan Karacasu'ya giden son seferimiz saat 18.20'de kalkmaktadır."
+  },
+  {
+    "id": 1005,
+    "keywords": [["nazilli", "karacasu", "yedinci", "sefer", "saat"]],
+    "answer": "Nazilli'den Karacasu'ya giden yedinci seferimiz saat 18.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1006,
+    "keywords": [["nazilli", "karacasu", "son", "sefer", "saat"]],
+    "answer": "Nazilli'den Karacasu'ya giden son seferimiz saat 18.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1007,
+    "keywords": [["sultan", "hisar", "karacasu", "yedinci", "sefer", "saat"]],
+    "answer": "Sultan Hisar'dan Karacasu'ya giden yedinci seferimiz saat 19.25'te kalkmaktadır."
+  },
+  {
+    "id": 1008,
+    "keywords": [["sultan", "hisar", "karacasu", "son", "sefer", "saat"]],
+    "answer": "Sultan Hisar'dan Karacasu'ya giden son seferimiz saat 19.25'te kalkmaktadır."
+  },
+  {
+    "id": 1009,
+    "keywords": [["kuyucak", "karacasu", "yedinci", "sefer", "saat"]],
+    "answer": "Kuyucak'tan Karacasu'ya giden yedinci seferimiz saat 19.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1010,
+    "keywords": [["kuyucak", "karacasu", "son", "sefer", "saat"]],
+    "answer": "Kuyucak'tan Karacasu'ya giden son seferimiz saat 19.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1011,
+    "keywords": [["karacasu", "yeni", "pazar", "yedinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden yedinci seferimiz saat 18.20'de kalkmaktadır."
+  },
+  {
+    "id": 1012,
+    "keywords": [["karacasu", "yeni", "pazar", "son", "sefer", "saat"]],
+    "answer": "Karacasu'dan Yeni Pazar'a giden son seferimiz saat 18.20'de kalkmaktadır."
+  },
+  {
+    "id": 1013,
+    "keywords": [["kuyucak", "yeni", "pazar", "yedinci", "sefer", "saat"]],
+    "answer": "Kuyucak'tan Yeni Pazar'a giden yedinci seferimiz saat 18.30'da kalkmaktadır."
+  },
+  {
+    "id": 1014,
+    "keywords": [["kuyucak", "yeni", "pazar", "son", "sefer", "saat"]],
+    "answer": "Kuyucak'tan Yeni Pazar'a giden son seferimiz saat 18.30'da kalkmaktadır."
+  },
+  {
+    "id": 1015,
+    "keywords": [["sultan", "hisar", "yeni", "pazar", "yedinci", "sefer", "saat"]],
+    "answer": "Sultan Hisar'dan Yeni Pazar'a giden yedinci seferimiz saat 18.45'te kalkmaktadır."
+  },
+  {
+    "id": 1016,
+    "keywords": [["sultan", "hisar", "yeni", "pazar", "son", "sefer", "saat"]],
+    "answer": "Sultan Hisar'dan Yeni Pazar'a giden son seferimiz saat 18.45'te kalkmaktadır."
+  },
+  {
+    "id": 1017,
+    "keywords": [["nazilli", "yeni", "pazar", "yedinci", "sefer", "saat"]],
+    "answer": "Nazilli'den Yeni Pazar'a giden yedinci seferimiz saat 19.30'da kalkmaktadır."
+  },
+  {
+    "id": 1018,
+    "keywords": [["nazilli", "yeni", "pazar", "son", "sefer", "saat"]],
+    "answer": "Nazilli'den Yeni Pazar'a giden son seferimiz saat 19.30'da kalkmaktadır."
+  },
+  {
+    "id": 1019,
+    "keywords": [["otogar", "kalkan", "son", "sefer", "saat"]],
+    "answer": "Otogar'dan kalkan son seferimiz saat 19.20'de kalkmaktadır."
+  },
+  {
+    "id": 1020,
+    "keywords": [["otogar", "kalkan", "yedinci", "sefer", "saat"]],
+    "answer": "Otogar'dan kalkan son seferimiz saat 19.20'de kalkmaktadır."
+  },
+  {
+    "id": 1021,
+    "keywords": [["adü", "kalkan", "son", "sefer", "saat"]],
+    "answer": "Adü'den kalkan son seferimiz saat 19.20'de kalkmaktadır."
+  },
+  {
+    "id": 1022,
+    "keywords": [["adü", "kalkan", "yedinci", "sefer", "saat"]],
+    "answer": "Adü'den kalkan son seferimiz saat 19.20'de kalkmaktadır."
+  },
+  {
+    "id": 1023,
+    "keywords": [["kuşadası", "kalkan", "son", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan kalkan son seferimiz saat 19.50'de kalkmaktadır."
+  },
+  {
+    "id": 1024,
+    "keywords": [["kuşadası", "kalkan", "yedinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan kalkan son seferimiz saat 19.50'de kalkmaktadır."
+  },
+  {
+    "id": 1025,
+    "keywords": [["karpuzlu", "kalkan", "son", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan kalkan son seferimiz saat 21.45'te kalkmaktadır."
+  },
+  {
+    "id": 1026,
+    "keywords": [["karpuzlu", "kalkan", "yedinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan kalkan son seferimiz saat 21.45'te kalkmaktadır."
+  },
+  {
+    "id": 1027,
+    "keywords": [["çine", "kalkan", "son", "sefer", "saat"]],
+    "answer": "Çine'den kalkan son seferimiz saat 21.25'te kalkmaktadır."
+  },
+  {
+    "id": 1028,
+    "keywords": [["çine", "kalkan", "yedinci", "sefer", "saat"]],
+    "answer": "Çine'den kalkan son seferimiz saat 21.25'te kalkmaktadır."
+  },
+  {
+    "id": 1029,
+    "keywords": [["köşk", "kalkan", "son", "sefer", "saat"]],
+    "answer": "Köşk'ten kalkan son seferimiz saat 22.20'de kalkmaktadır."
+  },
+  {
+    "id": 1030,
+    "keywords": [["köşk", "kalkan", "yedinci", "sefer", "saat"]],
+    "answer": "Köşk'ten kalkan son seferimiz saat 22.20'de kalkmaktadır."
+  },
+  {
+    "id": 1031,
+    "keywords": [["karacasu", "kalkan", "son", "sefer", "saat"]],
+    "answer": "Karacasu'dan kalkan son seferimiz saat 19.50'de kalkmaktadır."
+  },
+  {
+    "id": 1032,
+    "keywords": [["karacasu", "kalkan", "yedinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan kalkan son seferimiz saat 19.50'de kalkmaktadır."
+  },
+  {
+    "id": 1033,
+    "keywords": [["yeni", "pazar", "kalkan", "son", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan kalkan son seferimiz saat 19.50'de kalkmaktadır."
+  },
+  {
+    "id": 1034,
+    "keywords": [["yeni", "pazar", "kalkan", "yedinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan kalkan son seferimiz saat 19.50'de kalkmaktadır."
+  },
+  {
+    "id": 1035,
+    "keywords": [["otogar", "kalkan", "ikinci", "sefer", "saat"]],
+    "answer": "Otogar'dan kalkan ikinci seferimiz saat 09.50'de kalkmaktadır."
+  },
+  {
+    "id": 1036,
+    "keywords": [["otogar", "kalkan", "üçüncü", "sefer", "saat"]],
+    "answer": "Otogar'dan kalkan üçüncü seferimiz saat 10.35'te kalkmaktadır."
+  },
+  {
+    "id": 1037,
+    "keywords": [["otogar", "kalkan", "dördüncü", "sefer", "saat"]],
+    "answer": "Otogar'dan kalkan dördüncü seferimiz saat 12.55'te kalkmaktadır."
+  },
+  {
+    "id": 1038,
+    "keywords": [["otogar", "kalkan", "beşinci", "sefer", "saat"]],
+    "answer": "Otogar'dan kalkan beşinci seferimiz saat 15.10'da kalkmaktadır."
+  },
+  {
+    "id": 1039,
+    "keywords": [["otogar", "kalkan", "altıncı", "sefer", "saat"]],
+    "answer": "Otogar'dan kalkan altıncı seferimiz saat 17.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1040,
+    "keywords": [["adü", "kalkan", "ikinci", "sefer", "saat"]],
+    "answer": "Adü'den kalkan ikinci seferimiz saat 09.50'de kalkmaktadır."
+  },
+  {
+    "id": 1041,
+    "keywords": [["adü", "kalkan", "üçüncü", "sefer", "saat"]],
+    "answer": "Adü'den kalkan üçüncü seferimiz saat 10.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1042,
+    "keywords": [["adü", "kalkan", "dördüncü", "sefer", "saat"]],
+    "answer": "Adü'den kalkan dördüncü seferimiz saat 12.55'te kalkmaktadır."
+  },
+  {
+    "id": 1043,
+    "keywords": [["adü", "kalkan", "beşinci", "sefer", "saat"]],
+    "answer": "Adü'den kalkan beşinci seferimiz saat 15.10'da kalkmaktadır."
+  },
+  {
+    "id": 1044,
+    "keywords": [["adü", "kalkan", "altıncı", "sefer", "saat"]],
+    "answer": "Adü'den kalkan altıncı seferimiz saat 17.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1045,
+    "keywords": [["kuşadası", "kalkan", "ikinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan kalkan ikinci seferimiz saat 10.20'de kalkmaktadır."
+  },
+  {
+    "id": 1046,
+    "keywords": [["kuşadası", "kalkan", "üçüncü", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan kalkan üçüncü seferimiz saat 11.10'da kalkmaktadır."
+  },
+  {
+    "id": 1047,
+    "keywords": [["kuşadası", "kalkan", "dördüncü", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan kalkan dördüncü seferimiz saat 13.25'te kalkmaktadır."
+  },
+  {
+    "id": 1048,
+    "keywords": [["kuşadası", "kalkan", "beşinci", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan kalkan beşinci seferimiz saat 15.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1049,
+    "keywords": [["kuşadası", "kalkan", "altıncı", "sefer", "saat"]],
+    "answer": "Kuşadası'ndan kalkan altıncı seferimiz saat 18.10'da kalkmaktadır."
+  },
+  {
+    "id": 1050,
+    "keywords": [["karpuzlu", "kalkan", "ikinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan kalkan ikinci seferimiz saat 12.00'da kalkmaktadır."
+  },
+  {
+    "id": 1051,
+    "keywords": [["karpuzlu", "kalkan", "üçüncü", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan kalkan üçüncü seferimiz saat 13.05'te kalkmaktadır."
+  },
+  {
+    "id": 1052,
+    "keywords": [["karpuzlu", "kalkan", "dördüncü", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan kalkan dördüncü seferimiz saat 15.25'te kalkmaktadır."
+  },
+  {
+    "id": 1053,
+    "keywords": [["karpuzlu", "kalkan", "beşinci", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan kalkan beşinci seferimiz saat 18.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1054,
+    "keywords": [["karpuzlu", "kalkan", "altıncı", "sefer", "saat"]],
+    "answer": "Karpuzlu'dan kalkan altıncı seferimiz saat 20.10'da kalkmaktadır."
+  },
+  {
+    "id": 1055,
+    "keywords": [["çine", "kalkan", "ikinci", "sefer", "saat"]],
+    "answer": "Çine'den kalkan ikinci seferimiz saat 11.50'de kalkmaktadır."
+  },
+  {
+    "id": 1056,
+    "keywords": [["çine", "kalkan", "üçüncü", "sefer", "saat"]],
+    "answer": "Çine'den kalkan üçüncü seferimiz saat 12.45'te kalkmaktadır."
+  },
+  {
+    "id": 1057,
+    "keywords": [["çine", "kalkan", "dördüncü", "sefer", "saat"]],
+    "answer": "Çine'den kalkan dördüncü seferimiz saat 15.55'te kalkmaktadır."
+  },
+  {
+    "id": 1058,
+    "keywords": [["çine", "kalkan", "beşinci", "sefer", "saat"]],
+    "answer": "Çine'den kalkan beşinci seferimiz saat 17.20'de kalkmaktadır."
+  },
+  {
+    "id": 1059,
+    "keywords": [["çine", "kalkan", "altıncı", "sefer", "saat"]],
+    "answer": "Çine'den kalkan altıncı seferimiz saat 20.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1060,
+    "keywords": [["köşk", "kalkan", "ikinci", "sefer", "saat"]],
+    "answer": "Köşk'ten kalkan ikinci seferimiz saat 12.55'te kalkmaktadır."
+  },
+  {
+    "id": 1061,
+    "keywords": [["köşk", "kalkan", "üçüncü", "sefer", "saat"]],
+    "answer": "Köşk'ten kalkan üçüncü seferimiz saat 14.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1062,
+    "keywords": [["köşk", "kalkan", "dördüncü", "sefer", "saat"]],
+    "answer": "Köşk'ten kalkan dördüncü seferimiz saat 15.55'te kalkmaktadır."
+  },
+  {
+    "id": 1063,
+    "keywords": [["köşk", "kalkan", "beşinci", "sefer", "saat"]],
+    "answer": "Köşk'ten kalkan beşinci seferimiz saat 18.10'da kalkmaktadır."
+  },
+  {
+    "id": 1064,
+    "keywords": [["köşk", "kalkan", "altıncı", "sefer", "saat"]],
+    "answer": "Köşk'ten kalkan altıncı seferimiz saat 20.40'ta kalkmaktadır."
+  },
+  {
+    "id": 1065,
+    "keywords": [["karacasu", "kalkan", "ikinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan kalkan ikinci seferimiz saat 09.50'de kalkmaktadır."
+  },
+  {
+    "id": 1066,
+    "keywords": [["karacasu", "kalkan", "üçüncü", "sefer", "saat"]],
+    "answer": "Karacasu'dan kalkan üçüncü seferimiz saat 10.50'de kalkmaktadır."
+  },
+  {
+    "id": 1067,
+    "keywords": [["karacasu", "kalkan", "dördüncü", "sefer", "saat"]],
+    "answer": "Karacasu'dan kalkan dördüncü seferimiz saat 13.50'de kalkmaktadır."
+  },
+  {
+    "id": 1068,
+    "keywords": [["karacasu", "kalkan", "beşinci", "sefer", "saat"]],
+    "answer": "Karacasu'dan kalkan beşinci seferimiz saat 15.50'de kalkmaktadır."
+  },
+  {
+    "id": 1069,
+    "keywords": [["karacasu", "kalkan", "altıncı", "sefer", "saat"]],
+    "answer": "Karacasu'dan kalkan altıncı seferimiz saat 17.50'de kalkmaktadır."
+  },
+  {
+    "id": 1070,
+    "keywords": [["yeni", "pazar", "kalkan", "ikinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan kalkan ikinci seferimiz saat 09.50'de kalkmaktadır."
+  },
+  {
+    "id": 1071,
+    "keywords": [["yeni", "pazar", "kalkan", "üçüncü", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan kalkan üçüncü seferimiz saat 10.50'de kalkmaktadır."
+  },
+  {
+    "id": 1072,
+    "keywords": [["yeni", "pazar", "kalkan", "dördüncü", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan kalkan dördüncü seferimiz saat 13.50'de kalkmaktadır."
+  },
+  {
+    "id": 1073,
+    "keywords": [["yeni", "pazar", "kalkan", "beşinci", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan kalkan beşinci seferimiz saat 15.50'de kalkmaktadır."
+  },
+  {
+    "id": 1074,
+    "keywords": [["yeni", "pazar", "kalkan", "altıncı", "sefer", "saat"]],
+    "answer": "Yeni Pazar'dan kalkan altıncı seferimiz saat 17.50'de kalkmaktadır."
+  }
+]
+
+

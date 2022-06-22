@@ -1,0 +1,31 @@
+https://dergipark.org.tr/en/download/article-file/1109079
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.2588&rep=rep1&type=pdf
+
+http://web.mit.edu/norvin/www/24.902/binding.html
+
+https://scholar.harvard.edu/files/adam/files/syntax.ppt.pdf
+
+https://www.geeksforgeeks.org/syntax-tree-natural-language-processing/
+
+https://www.nltk.org/book/ch08.html
+
+english sentence structure tree with python
+
+english sentence structure tree code python
+
+https://www.kdnuggets.com/2018/08/understanding-language-syntax-and-structure-practitioners-guide-nlp-3.html
+
+http://ling-blogs.bu.edu/lx390f17/hw4-trees/
+
+https://www.nltk.org/howto/tree.html
+
+https://www.nltk.org/howto/featgram.html
+
+https://www.ling.upenn.edu/~beatrice/syntax-textbook/ch15.html
+
+https://scholar.harvard.edu/files/aggazzotti/files/aggazzotti_dissertation_final.pdf
+
+https://people.umass.edu/bhatt/601-f04/l10.pdf
+
+http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ss12/semantics1/Syntax%204.pdf

@@ -1,0 +1,1076 @@
+Id;Question;Answer
+1;605 no.'lu Otobüs Hattý’nýn duraklarý nelerdir?;605 no'lu Otobüs Hattýnýn duraklarý, ADÜ, Forum Aydýn, Zafer Meydaný, Tren Garý ve Otogar'dýr.
+2;605 no.'lu Otobüs Hattý’nýn kalkýþ saatleri nelerdir?;605 no.'lu Otobüs Hattý’nýn kalkýþ saatleri 6.15, 9.00, 9.45, 12.05, 14.20, 16.50 ve 18.30'dur.
+3;605 no.'lu Otobüs Hattý’nýn Forum Aydýn'a varýþ süresi nedir?;605 no.'lu Otobüs Hattý’nýn Forum Aydýn'a varýþ süresi 10 dakikadýr.
+4;605 no.'lu Otobüs Hattý’nýn Zafer Meydaný'na varýþ süresi nedir?;605 no.'lu Otobüs Hattý’nýn Zafer Meydaný'na varýþ süresi 25 dakikadýr.
+5;605 no.'lu Otobüs Hattý’nýn Tren Garý'na varýþ süresi nedir?;605 no.'lu Otobüs Hattý’nýn Tren Garý'na varýþ süresi 30 dakikadýr.
+6;605 no.'lu Otobüs Hattý’nýn Otogar'a varýþ süresi nedir?;605 no.'lu Otobüs Hattý'nýn Otogar'a varýþ süresi 50 dakikadýr.
+7;605 no.'lu Otobüs Hattý'nýn fiyatlandýrmasý nedir?;605 no.'lu Otobüs Hattý'nýn fiyatlandýrmasý herkes için 2.90 TL'dir.
+8;606 no.'lu Otobüs Hattý'nýn duraklarý nelerdir?;606 no'lu Otobüs Hattýnýn duraklarý, Karpuzlu, Koçarlý, Ýncirliova, Söke ve Kuþadasý'dýr.
+9;606 no.'lu Otobüs Hattý'nýn kalkýþ saatleri nelerdir?;606 no.'lu Otobüs Hattý'nýn kalkýþ saatleri 6.00, 8.45, 9.30, 11.50, 14.05, 16.35 ve 18.15'dir.
+10;606 no.'lu Otobüs Hattý'nýn Koçarlý'ya varýþ süresi nedir?;606 no.'lu Otobüs Hattý'nýn Koçarlý'ya varýþ süresi 35 dakikadýr.
+11;606 no.'lu Otobüs Hattý'nýn Ýncirliova'ya varýþ süresi nedir?;606 no.'lu Otobüs Hattý'nýn Ýncirliova'ya varýþ süresi 1 saat 25 dakikadýr.
+12;606 no.'lu Otobüs Hattý'nýn Söke'ye varýþ süresi nedir?;606 no.'lu Otobüs Hattý'nýn Söke'ye varýþ süresi 1 saat 55 dakikadýr.
+13;606 no.'lu Otobüs Hattý'nýn Kuþadasý'na varýþ süresi nedir?;606 no.'lu Otobüs Hattý'nýn Kuþadasý'na varýþ süresi 1 saat 35 dakikadýr.
+14;606 no.'lu Otobüs Hattý'nýn fiyatlandýrmasý nedir?;606 no.'lu Otobüs Hattý'nýn fiyatlandýrmasý öðrenciler için 2.50 TL ile 4.40 TL arasýnda, öðrenci olmayanlarda 2.90 TL ile 4.80 TL arasýnda deðiþmektedir.
+15;607 no.'lu Otobüs Hattý'nýn duraklarý nelerdir?;607 no'lu Otobüs Hattýnýn duraklarý, Köþk, Germencik, Efeler, Bozdoðan ve Çine'dir.
+16;607 no.'lu Otobüs Hattý'nýn kalkýþ saatleri nelerdir?;607 no.'lu Otobüs Hattý'nýn kalkýþ saatleri 7.30, 10.15, 11.00, 13.20, 15.35, 18.05, 19.45'dir.
+17;607 no.'lu Otobüs Hattý'nýn Germencik'e varýþ süresi nedir?;607 no.'lu Otobüs Hattý'nýn Germencik'e varýþ süresi 30 dakikadýr.
+18;607 no.'lu Otobüs Hattý'nýn Efeler'e varýþ süresi nedir?;607 no.'lu Otobüs Hattý'nýn Efeler'e varýþ süresi 55 dakikadýr.
+19;607 no.'lu Otobüs Hattý'nýn Bozdoðan'a varýþ süresi nedir?;607 no.'lu Otobüs Hattý'nýn Bozdoðan'a varýþ süresi 1 saat 15 dakikadýr.
+20;607 no.'lu Otobüs Hattý'nýn Çine'ye varýþ süresi nedir?;607 no.'lu Otobüs Hattý'nýn Çine'ye varýþ süresi 1 saat 35 dakikadýr.
+21;607 no.'lu Otobüs Hattý'nýn fiyatlandýrmasý nedir?;607 no.'lu Otobüs Hattý'nýn fiyatlandýrmasý öðrenciler için 2.60 TL ile 3.50 TL arasýnda, öðrenci olmayanlarda 3 TL ile 3.90 TL arasýnda deðiþmektedir.
+22;608 no.'lu Otobüs Hattý'nýn duraklarý nelerdir?;608 no'lu Otobüs Hattýnýn duraklarý, Yeni Pazar, Nazilli, Sultan Hisar, Kuyucak ve Karacasu'dur.
+23;608 no.'lu Otobüs Hattý'nýn kalkýþ saatleri nelerdir?;608 no.'lu Otobüs Hattý'nýn kalkýþ saatleri 7.20, 8.20, 9.20, 12.20, 14.20, 16.20, 18.20'dir.
+24;608 no.'lu Otobüs Hattý'nýn Nazilli'ye varýþ süresi nedir?;608 no.'lu Otobüs Hattý'nýn Nazilli'ye varýþ süresi 20 dakikadýr.
+25;608 no.'lu Otobüs Hattý'nýn Sultan Hisar'a varýþ süresi nedir?;608 no.'lu Otobüs Hattý'nýn Sultan Hisar'a varýþ süresi 1 saat 5 dakikadýr.
+26;608 no.'lu Otobüs Hattý'nýn Kuyucak'a varýþ süresi nedir?;608 no.'lu Otobüs Hattý'nýn Kuyucak'a varýþ süresi 1 saat 20 dakikadýr.
+27;608 no.'lu Otobüs Hattý'nýn Karacasu'ya varýþ süresi nedir?;608 no.'lu Otobüs Hattý'nýn Karacasu'ya varýþ süresi 1 saat 20 dakikadýr.
+28;608 no.'lu Otobüs Hattý'nýn fiyatlandýrmasý nedir?;608 no.'lu Otobüs Hattý'nýn fiyatlandýrmasý öðrenciler için 2.80 TL ile 3.50 TL arasýnda, öðrenci olmayanlarda 3.20 TL ile 3.90 TL arasýnda deðiþmektedir.
+29;605 no.’lu otobüs ücretleri nelerdir?;Otobüs ücreti 2.90 TL’dir.
+30;608 otobüsünde kaç durak vardýr?;5 durak vardýr.
+31;606 otobüsünde duraklarýn adý nedir?;Kuþadasý, Söke, Ýncirliova, Koçarlý, Karpuzlu.
+32;607 otobüsünün 3. seferi Köþk duraðýndan saat kaçta kalkýyor?;Saat 11 de kalkýyor.
+33;Otobüslerde kaç sefer vardýr?;Otobüslerde 7 sefer vardýr.
+34;Kuþadasý Karpuzlu arasý yolculuk kaç saat sürer?;2 saat 40 dk. yolculuk sürer.
+35;Yeni Pazar Sultan Hisar duraklarý arasý öðrenci ücreti ne kadar?;Öðrenci ücreti 3 TL.
+36;605 numaralý otobüs hangi duraklara gitmektedir?;605 numaralý otobüsümüz sýrasýyla Adü, Forum Aydýn, Zafer Meydaný, Tren Garý, Otogar duraklarýna gitmektedir.
+37;606 numaralý otobüs hangi duraklara gitmektedir?;606 numaralý otobüsümüz sýrasýyla Karpuzlu, Koçarlý, Ýncirliova, Söke, Kuþadasý duraklarýna gitmektedir.
+38;607 numaralý otobüs hangi duraklara gitmektedir?;607 numaralý otobüsümüz sýrasýyla Köþk, Germencik, Efeler, Bozdoðan, Çine duraklarýna gitmektedir.
+39;608 numaralý otobüs hangi duraklara gitmektedir?;608 numaralý otobüsümüz sýrasýyla Yeni Pazar, Nazilli, Sultan Hisar, Kuyucak, Karacasu duraklarýna gitmektedir.
+40;Adü'ye gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Adü duraðýna 605 numaralý otobüsümüz gitmektedir.
+41;Forum Aydýn'a gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Forum Aydýn duraðýna 605 numaralý otobüsümüz gitmektedir.
+42;Zafer Meydaný'na gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Zafer Meydaný duraðýna 605 numaralý otobüsümüz gitmektedir.
+43;Tren garý'na gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Tren garý duraðýna 605 numaralý otobüsümüz gitmektedir.
+44;Otogar'a gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Otogar duraðýna 605 numaralý otobüsümüz gitmektedir.
+45;Karpuzlu'ya gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Karpuzlu duraðýna 606 numaralý otobüsümüz gitmektedir.
+46;Koçarlý'ya gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Koçarlý duraðýna 606 numaralý otobüsümüz gitmektedir.
+47;Ýncirliova'ya gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Ýncirliova duraðýna 606 numaralý otobüsümüz gitmektedir.
+48;Söke'ye gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Söke duraðýna 606 numaralý otobüsümüz gitmektedir.
+49;Kuþadasý'na gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Kuþadasý duraðýna 606 numaralý otobüsümüz gitmektedir.
+50;Köþk'e gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Köþk duraðýna 607 numaralý otobüsümüz gitmektedir.
+51;Germencik'e gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Germencik duraðýna 607 numaralý otobüsümüz gitmektedir.
+52;Efeler'e gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Efeler duraðýna 607 numaralý otobüsümüz gitmektedir.
+53;Bozdoðan'a gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Bozdoðan duraðýna 607 numaralý otobüsümüz gitmektedir.
+54;Çine'ye gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Çine duraðýna 607 numaralý otobüsümüz gitmektedir.
+55;Yeni Pazar'a gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Yeni Pazar duraðýna 608 numaralý otobüsümüz gitmektedir.
+56;Nazilli'ye gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Nazilli duraðýna 608 numaralý otobüsümüz gitmektedir.
+57;Sultan Hisar'a gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Sultan Hisar duraðýna 608 numaralý otobüsümüz gitmektedir.
+58;Kuyucak'a gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Kuyucak duraðýna 608 numaralý otobüsümüz gitmektedir.
+59;Karacasu'ya gitmek istiyorum, hangi numaralý otobüse binmeliyim?;Karacasu duraðýna 608 numaralý otobüsümüz gitmektedir.
+60;Adü'den Otogar'a giden birinci sefer saat kaçta?;Adü'den Otogar'a giden birinci seferimiz saat 06.15'te kalkmaktadýr.
+61;Adü'den Otogar'a giden ikinci sefer saat kaçta?;Adü'den Otogar'a giden ikinci seferimiz saat 09.00'da kalkmaktadýr.
+62;Adü'den Otogar'a giden üçüncü sefer saat kaçta?;Adü'den Otogar'a giden üçüncü seferimiz saat 09.45'te kalkmaktadýr.
+63;Adü'den Otogar'a giden dördüncü sefer saat kaçta?;Adü'den Otogar'a giden dördüncü seferimiz saat 12.05'te kalkmaktadýr.
+64;Adü'den Otogar'a giden beþinci sefer saat kaçta?;Adü'den Otogar'a giden beþinci seferimiz saat 14.20'de kalkmaktadýr.
+65;Adü'den Otogar'a giden altýncý sefer saat kaçta?;Adü'den Otogar'a giden altýncý seferimiz saat 16.50'de kalkmaktadýr.
+66;Adü'den Otogar'a giden yedinci sefer saat kaçta?;Adü'den Otogar'a giden yedinci seferimiz saat 18.30'da kalkmaktadýr.
+67;Otogar'dan Adü'ye giden birinci sefer saat kaçta?;Otogar'dan Adü'ye giden birinci seferimiz saat 06.15'te kalkmaktadýr.
+68;Otogar'dan Adü'ye giden ikinci sefer saat kaçta?;Otogar'dan Adü'ye giden ikinci seferimiz saat 09.00'da kalkmaktadýr.
+69;Otogar'dan Adü'ye giden üçüncü sefer saat kaçta?;Otogar'dan Adü'ye giden üçüncü seferimiz saat 09.45'te kalkmaktadýr.
+70;Otogar'dan Adü'ye giden dördüncü sefer saat kaçta?;Otogar'dan Adü'ye giden dördüncü seferimiz saat 12.05'te kalkmaktadýr.
+71;Otogar'dan Adü'ye giden beþinci sefer saat kaçta?;Otogar'dan Adü'ye giden beþinci seferimiz saat 14.20'de kalkmaktadýr.
+72;Otogar'dan Adü'ye giden altýncý sefer saat kaçta?;Otogar'dan Adü'ye giden altýncý seferimiz saat 16.50'de kalkmaktadýr.
+73;Otogar'dan Adü'ye giden yedinci sefer saat kaçta?;Otogar'dan Adü'ye giden yedinci seferimiz saat 18.30'da kalkmaktadýr.
+74;Karpuzlu'dan Kuþadasý'na giden birinci sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden birinci seferimiz saat 06.00'da kalkmaktadýr.
+75;Karpuzlu'dan Kuþadasý'na giden ikinci sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden ikinci seferimiz saat 08.45'te kalkmaktadýr.
+76;Karpuzlu'dan Kuþadasý'na giden üçüncü sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden üçüncü seferimiz saat 09.30'da kalkmaktadýr.
+77;Karpuzlu'dan Kuþadasý'na giden dördüncü sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden dördüncü seferimiz saat 11.50'de kalkmaktadýr.
+78;Karpuzlu'dan Kuþadasý'na giden beþinci sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden beþinci seferimiz saat 14.05'te kalkmaktadýr.
+79;Karpuzlu'dan Kuþadasý'na giden altýncý sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden altýncý seferimiz saat 16.35'te kalkmaktadýr.
+80;Karpuzlu'dan Kuþadasý'na giden yedinci sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden yedinci seferimiz saat 18.15'te kalkmaktadýr.
+81;Kuþadasý'ndan Karpuzlu'ya giden birinci sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden birinci seferimiz saat 07.00'de kalkmaktadýr.
+82;Kuþadasý'ndan Karpuzlu'ya giden ikinci sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden ikinci seferimiz saat 09.45'te kalkmaktadýr.
+83;Kuþadasý'ndan Karpuzlu'ya giden üçüncü sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden üçüncü seferimiz saat 10.30'da kalkmaktadýr.
+84;Kuþadasý'ndan Karpuzlu'ya giden dördüncü sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden dördüncü seferimiz saat 12.50'de kalkmaktadýr.
+85;Kuþadasý'ndan Karpuzlu'ya giden beþinci sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden beþinci seferimiz saat 15.05'te kalkmaktadýr.
+86;Kuþadasý'ndan Karpuzlu'ya giden altýncý sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden altýncý seferimiz saat 17.35'te kalkmaktadýr.
+87;Kuþadasý'ndan Karpuzlu'ya giden yedinci sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden yedinci seferimiz saat 19.15'te kalkmaktadýr.
+88;Köþk'ten Çine'ye giden birinci sefer saat kaçta?;Köþk'ten Çine'ye giden birinci seferimiz saat 07.30'da kalkmaktadýr.
+89;Köþk'ten Çine'ye giden ikinci sefer saat kaçta?;Köþk'ten Çine'ye giden ikinci seferimiz saat 10.15'te kalkmaktadýr.
+90;Köþk'ten Çine'ye giden üçüncü sefer saat kaçta?;Köþk'ten Çine'ye giden üçüncü sefer saat 11.00'de kalkmaktadýr.
+91;Köþk'ten Çine'ye giden dördüncü sefer saat kaçta?;Köþk'ten Çine'ye giden dördüncü seferimiz saat 13.20'de kalkmaktadýr.
+92;Köþk'ten Çine'ye giden beþinci sefer saat kaçta?;Köþk'ten Çine'ye giden beþinci seferimiz saat 15.35'te kalkmaktadýr.
+93;Köþk'ten Çine'ye giden altýncý sefer saat kaçta?;Köþk'ten Çine'ye giden altýncý seferimiz saat 8.05'te kalkmaktadýr.
+94;Köþk'ten Çine'ye giden yedinci sefer saat kaçta?;Köþk'ten Çine'ye giden yedinci seferimiz saat 19.45'te kalkmaktadýr.
+95;Çine'den Köþk'e giden birinci sefer saat kaçta?;Çine'den Köþk'e giden birinci seferimiz saat 08.30'da kalkmaktadýr.
+96;Çine'den Köþk'e giden ikinci sefer saat kaçta?;Çine'den Köþk'e giden ikinci seferimiz saat 11.15'te kalkmaktadýr.
+97;Çine'den Köþk'e giden üçüncü sefer saat kaçta?;Çine'den Köþk'e giden üçüncü seferimiz saat 12.00'de kalkmaktadýr.
+98;Çine'den Köþk'e giden dördüncü sefer saat kaçta?;Çine'den Köþk'e giden dördüncü seferimiz saat 14.20'de kalkmaktadýr.
+99;Çine'den Köþk'e giden beþinci sefer saat kaçta?;Çine'den Köþk'e giden beþinci seferimiz saat 16.35'te kalkmaktadýr.
+100;Çine'den Köþk'e giden altýncý sefer saat kaçta?;Çine'den Köþk'e giden altýncý seferimiz saat 19.05'te kalkmaktadýr.
+101;Çine'den Köþk'e giden yedinci sefer saat kaçta?;Çine'den Köþk'e giden yedinci seferimiz saat 20.45'te kalkmaktadýr.
+102;Yeni Pazar'dan Karacasu'ya giden birinci sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden birinci seferimiz saat 07.20'de kalkmaktadýr.
+103;Yeni Pazar'dan Karacasu'ya giden ikinci sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden ikinci seferimiz saat 08.20'de kalkmaktadýr.
+104;Yeni Pazar'dan Karacasu'ya giden üçüncü sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden üçüncü seferimiz saat 09.20'de kalkmaktadýr.
+105;Yeni Pazar'dan Karacasu'ya giden dördüncü sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden dördüncü seferimiz saat 12.20'de kalkmaktadýr.
+106;Yeni Pazar'dan Karacasu'ya giden beþinci sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden beþinci seferimiz saat 14.20'de kalkmaktadýr.
+107;Yeni Pazar'dan Karacasu'ya giden altýncý sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden altýncý seferimiz saat 16.20'de kalkmaktadýr.
+108;Yeni Pazar'dan Karacasu'ya giden yedinci sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden yedinci seferimiz saat 18.20'de kalkmaktadýr.
+109;Karacasu'dan Yeni Pazar'a giden birinci sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden birinci seferimiz saat 07.20'de kalkmaktadýr.
+110;Karacasu'dan Yeni Pazar'a giden ikinci sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden ikinci seferimiz saat 08.20'de kalkmaktadýr.
+111;Karacasu'dan Yeni Pazar'a giden üçüncü sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden üçüncü seferimiz saat 09.20'de kalkmaktadýr.
+112;Karacasu'dan Yeni Pazar'a giden dördüncü sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden dördüncü seferimiz saat 12.20'de kalkmaktadýr.
+113;Karacasu'dan Yeni Pazar'a giden beþinci sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden beþinci seferimiz saat 14.20'de kalkmaktadýr.
+114;Karacasu'dan Yeni Pazar'a giden altýncý sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden altýncý seferimiz saat 16.20'de kalkmaktadýr.
+115;Karacasu'dan Yeni Pazar'a giden yedinci sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden yedinci seferimiz saat 18.20'de kalkmaktadýr.
+116;Karpuzlu'dan Koçarlý'ya öðrenci ne kadar?;Karpuzlu’dan Koçarlý’ya öðrenci ücreti 2,80 TL’dir.
+117;Karpuzlu'dan Ýncirliova'ya öðrenci ne kadar?;Karpuzlu'dan Ýncirliova'ya öðrenci ücreti 3.10 TL'dir.
+118;Karpuzlu'dan Söke'ye öðrenci ne kadar?;Karpuzlu'dan Söke'ye öðrenci ücreti 3.40 TL'dir.
+119;Karpuzlu'dan Kuþadasý'na öðrenci ne kadar?;Karpuzlu'dan Kuþadasý'na öðrenci ücreti 4.40 TL'dir.
+120;Karpuzlu'dan Koçarlý'ya tam ne kadar?;Karpuzlu'dan Koçarlý'ya tam yolcu ücreti 3.20 TL'dir.
+121;Karpuzlu'dan Ýncirliova'ya tam ne kadar?;Karpuzlu'dan Ýncirliova'ya tam yolcu ücreti 3.50 TL'dir.
+122;Karpuzlu'dan Söke'ye tam ne kadar?;Karpuzlu'dan Söke'ye tam yolcu ücreti 3.80 TL'dir.
+123;Karpuzlu'dan Kuþadasý'na tam ne kadar?;Karpuzlu'dan Kuþadasý'na tam yolcu ücreti 4.80 TL'dir.
+124;Koçarlý'dan Ýncirliova'ya öðrenci ne kadar?;Koçarlý'dan Ýncirliova'ya öðrenci ücreti 2.60 TL'dir.
+125;Koçarlý'dan Söke'ye öðrenci ne kadar?;Koçarlý'dan Söke'ye öðrenci ücreti 2.90 TL'dir.
+126;Koçarlý'dan Kuþadasý'na öðrenci ne kadar?;Koçarlý'dan Kuþadasý'na öðrenci ücreti 4.00 TL'dir.
+127;Koçarlý'dan Ýncirliova'ya tam ne kadar?;Koçarlý'dan Ýncirliova'ya tam yolcu ücreti 3.00 TL'dir.
+128;Koçarlý'dan Söke'ye tam ne kadar?;Koçarlý'dan Söke'ye tam yolcu ücreti 3.30 TL'dir.
+129;Koçarlý'dan Kuþadasý'na tam ne kadar?;Koçarlý'dan Kuþadasý'na tam yolcu ücreti 4.40 TL'dir.
+130;Ýncirliova'dan Söke'ye öðrenci ne kadar?;Ýncirliova'dan Söke'ye öðrenci ücreti 2.50 TL'dir.
+131;Ýncirliova'dan Kuþadasý'na öðrenci ne kadar?;Ýncirliova'dan Kuþadasý'na öðrenci ücreti 2.70 TL'dir.
+132;Ýncirliova'dan Söke'ye tam ne kadar?;Ýncirliova'dan Söke'ye tam yolcu ücreti 2.90 TL'dir.
+133;Ýncirliova'dan Kuþadasý'na tam ne kadar?;Ýncirliova'dan Kuþadasý'na tam yolcu ücreti 3.10 TL'dir.
+134;Söke'den Kuþadasý'na öðrenci ne kadar?;Söke'den Kuþadasý'na öðrenci ücreti 3.50 TL'dir.
+135;Söke'den Kuþadasý'na tam ne kadar?;Söke'den Kuþadasý'na tam yolcu ücreti 3.90 TL'dir.
+136;Köþk'ten Germencik'e öðrenci ne kadar?;Köþk'ten Germencik'e öðrenci ücreti 2.60 TL'dir.
+137;Köþk'ten Efelere öðrenci ne kadar?;Köþk'ten Efeler'e öðrenci ücreti 3.00 TL'dir.
+138;Köþk'ten Bozdoðan'a öðrenci ne kadar?;Köþk'ten Bozdoðan'a öðrenci ücreti 3.30 TL'dir.
+139;Köþk'ten Çine'ye öðrenci ne kadar?;Köþk'ten Çine'ye öðrenci ücreti 3.50 TL'dir.
+140;Köþk'ten Germencik'e tam ne kadar?;Köþk'ten Germencik'e tam yolcu ücreti 3.00 TL'dir.
+141;Köþk'ten Efeler'e tam ne kadar?;Köþk'ten Efeler'e tam yolcu ücreti 3.40 TL'dir.
+142;Köþk'ten Bozdoðan'a tam ne kadar?;Köþk'ten Bozdoðan'a tam yolcu ücreti 3.70 TL'dir.
+143;Köþk'ten Çine'ye tam ne kadar?;Köþk'ten Çine'ye tam yolcu ücreti 3.90 TL'dir.
+144;Germencik'ten Efeler'e öðrenci ne kadar?;Germencik'ten Efeler'e öðrenci ücreti 2.70 TL'dir.
+145;Germencik'ten Bozdoðan'a öðrenci ne kadar?;Germencik'ten Bozdoðan'a öðrenci ücreti 3.10 TL'dir.
+146;Germencik'ten Çine'ye öðrenci ne kadar?;Germencik'ten Çine'ye öðrenci ücreti 3.30 TL'dir.
+147;Germencik'ten Efeler'e tam ne kadar?;Germencik'ten Efeler'e tam yolcu ücreti 3.10 TL'dir.
+148;Germencik'ten Bozdoðan'a tam ne kadar?;Germencik'ten Bozdoðan'a tam yolcu ücreti 3.50 TL'dir.
+149;Germencikten Çineye tam ne kadar?;Germencikten Çineye tam yolcu ücreti 3.70 TL'dir.
+150;Efeler'den Bozdoðan'a öðrenci ne kadar?;Efeler'den Bozdoðan'a öðrenci ücreti 2.80 TL'dir.
+151;Efeler'den Çine'ye öðrenci ne kadar?;Efeler'den Çine'ye öðrenci ücreti 3.00 TL'dir.
+152;Efeler'den Bozdoðan'a tam ne kadar?;Efeler'den Bozdoðan'a tam yolcu ücreti 3.20 TL'dir.
+153;Efeler'den Çine'ye tam ne kadar?;Efeler'den Çine'ye tam yolcu ücreti 3.40 TL'dir.
+154;Bozdoðan'dan Çine'ye öðrenci ne kadar?;Bozdoðan'dan Çine'ye öðrenci ücreti 2.50 TL'dir.
+155;Bozdoðan'dan Çine'ye tam ne kadar?;Bozdoðan'dan Çine'ye tam yolcu ücreti 2.90 TL'dir.
+156;Yeni Pazar'dan Nazilli'ye öðrenci ne kadar?;Yeni Pazar'dan Nazilli'ye öðrenci ücreti 2.80 TL'dir.
+157;Yeni Pazar'dan Sultan Hisar'a öðrenci ne kadar?;Yeni Pazar'dan Sultan Hisar'a öðrenci ücreti 3.00 TL'dir.
+158;Yeni Pazar'dan Kuyucak'a öðrenci ne kadar?;Yeni Pazar'dan Kuyucak'a öðrenci ücreti 3.40 TL'dir.
+159;Yeni Pazar'dan Karacasu'ya öðrenci ne kadar?;Yeni Pazar'dan Karacasu'ya öðrenci ücreti 3.50 TL'dir.
+160;Yeni Pazar'dan Nazilli'ye tam ne kadar?;Yeni Pazar'dan Nazilli'ye tam yolcu ücreti 3.20 TL'dir.
+161;Yeni Pazar'dan Sultan Hisar'a tam ne kadar?;Yeni Pazar'dan Sultan Hisar'a tam yolcu ücreti 3.40 TL'dir.
+162;Yeni Pazar'dan Kuyucak'a tam ne kadar?;Yeni Pazar'dan Kuyucak'a tam yolcu ücreti 3.80 TL'dir.
+163;Yeni Pazar'dan Karacasu'ya tam ne kadar?;Yeni Pazar'dan Karacasu'ya tam yolcu ücreti 3.90 TL'dir.
+164;Nazilli'den Sultan Hisar'a öðrenci ne kadar?;Nazilli'den Sultan Hisar'a öðrenci ücreti 2.80 TL'dir.
+165;Nazilli'den Kuyucak'a öðrenci ne kadar?;Nazilli'den Kuyucak'a öðrenci ücreti 3.20 TL'dir.
+166;Nazilli'den Karacasu'ya öðrenci ne kadar?;Nazilli'den Karacasu'ya öðrenci ücreti 3.30 TL'dir.
+167;Nazilli'den Sultan Hisar'a tam ne kadar?;Nazilli'den Sultan Hisar'a tam yolcu ücreti 3.20 TL'dir.
+168;Nazilli'den Kuyucak'a tam ne kadar?;Nazilli'den Kuyucak'a tam yolcu ücreti 3.60 TL'dir
+169;Nazilli'den Karacasu'ya tam ne kadar?;Nazilli'den Karacasu'ya tam yolcu ücreti 3.70 TL'dir.
+170;Sultan Hisar'dan Kuyucak'a öðrenci ne kadar?;Sultan Hisar'dan Kuyucak'a öðrenci ücreti 3.00 TL'dir.
+171;Sultan Hisar'dan Karacasu'ya öðrenci ne kadar?;Sultan Hisar'dan Karacasu'ya öðrenci ücreti 3.10 TL'dir.
+172;Sultan Hisar'dan Kuyucak'a tam ne kadar?;Sultan Hisar'dan Kuyucak'a tam yolcu ücreti 3.40 TL'dir.
+173;Sultan Hisar'dan Karacasu'ya tam ne kadar?,;Sultan Hisar'dan Karacasu'ya tam yolcu ücreti 3.50 TL'dir.
+174;Kuyucak'tan Karacasu'ya öðrenci ne kadar?;Kuyucak'tan Karacasu'ya öðrenci ücreti 2.90 TL'dir.
+175;Kuyucak'tan Karacasu'ya tam ne kadar?;Kuyucak'tan Karacasu'ya tam yolcu ücreti 3.30 TL'dir.
+176;Adü'den Forum Aydýn'a öðrenci ne kadar?;Adü'den Forum Aydýn'a öðrenci ücreti 2.90 TL'dir.
+177;Forum Aydýn'dan Zafer Meydaný'na öðrenci ne kadar?;Forum Aydýn'dan Zafer Meydaný'na öðrenci ücreti 2.90 TL'dir.
+178;Zafer Meydaný'ndan Tren Garý'na öðrenci ne kadar?;Zafer Meydaný'ndan Tren Garý'na öðrenci ücreti 2.90 TL'dir.
+179;Tren Garý'ndan Otogar'a öðrenci ne kadar?;Tren Garý'ndan Otogar'a öðrenci ücreti 2.90 TL'dir.
+180;Adü'den Forum Aydýn'a tam ne kadar?;Adü'den Forum Aydýn'a tam yolcu ücreti 2.90 TL'dir.
+181;Forum Aydýn'dan Zafer Meydaný'na tam ne kadar?;Forum Aydýn'dan Zafer Meydaný'na tam yolcu ücreti 2.90 TL'dir.
+182;Zafer Meydaný'ndan Tren Garý'na tam ne kadar?;Zafer Meydaný'ndan Tren Garý'na tam yolcu ücreti 2.90 TL'dir.
+183;Tren Garý'ndan Otogar'a tam ne kadar?;Tren Garý'ndan Otogar'a tam yolcu ücreti 2.90 TL'dir.
+184;Adü - Otogar istikametinde giden otobüs seferlerinden hangilerinde engelli arabasýyla seyahat edebilirim?;Adü - Otogar istikametinde giden otobüs seferlerimizin hepsinde engelli arabasýyla seyahat edilebilmektedir.
+185;Otogar - Adü istikametinde giden otobüs seferlerinden hangilerinde engelli arabasýyla seyahat edebilirim?;Otogar - Adü istikametinde giden otobüs seferlerimizin hepsinde engelli arabasýyla seyahat edilebilmektedir.
+186;Karpuzlu - Kuþadasý istikametinde giden otobüs seferlerinden hangilerinde engelli arabasýyla seyahat edebilirim?;Karpuzlu - Kuþadasý istikametinde giden 1.sefer,3.sefer,5.sefer,6.sefer ve 7.seferlerimizde engelli arabasýyla seyahat edilebilmektedir.
+187;Kuþadasý - Karpuzlu istikametinde giden otobüs seferlerinden hangilerinde engelli arabasýyla seyahat edebilirim?;Kuþadasý - Karpuzlu istikametinde giden 1.sefer,2.sefer,3.sefer,4.sefer ve 7.seferlerimizde engelli arabasýyla seyahat edilebilmektedir.
+188;Köþk - Çine istikametinde giden otobüs seferlerinden hangilerinde engelli arabasýyla seyahat edebilirim?;Köþk - Çine istikametinde giden 2.sefer,4.sefer ve 6.seferlerimizde engelli arabasýyla seyahat edilebilmektedir.
+189;Çine - Köþk istikametinde giden otobüs seferlerinden hangilerinde engelli arabasýyla seyahat edebilirim?;Çine - Köþk istikametinde giden 1.sefer,3.sefer,5.sefer ve 7.seferlerimizde engelli arabasýyla seyahat edilebilmektedir.
+190;Yeni Pazar - Karacasu istikametinde giden otobüs seferlerinden hangilerinde engelli arabasýyla seyahat edebilirim?;Yeni Pazar - Karacasu istikametinde giden 1.sefer,3.sefer,4.sefer ve 6.seferlerimizde engelli arabasýyla seyahat edilebilmektedir.
+191;Karacasu - Yeni Pazar istikametinde giden otobüs seferlerinden hangilerinde engelli arabasýyla seyahat edebilirim?;Karacasu - Yeni Pazar istikametinde giden 2.sefer,5.sefer ve 7.seferlerimizde engelli arabasýyla seyahat edilebilmektedir.
+192;605 hangi duraklardan geçiyor?;605 numara Adü, Forum, Meydan, Tren Garý ve Otogardan geçiyor.
+193;606 numara Koçarlý’dan saat kaçta geçiyor?;606 numara Koçarlý’dan 09:05, 11:25, 12:30, 14:50, 17:05, 19:35, 21:10 saatlerinde geçiyor.
+194;Adü'den Otogar'a hangi otobüs gidiyor?;Adü'den Otogar'a 605 numaralý otobüs gidiyor.
+195;Forum’dan hangi otobüsler geçiyor?;Forum Aydýn duraðýndan 605 numaralý otobüs geçiyor.
+196;607 numarada tekerlekli sandalye var mý?;607 numaranýn 1, 3, 5 ve 7'nci seferlerde tekerlekli sandalye bulunmaktadýr.
+197;Karpuzlu'dan Koçarlý'ya öðrenci ne kadar?;Karpuzlu’dan Koçarlý’ya öðrenci ücreti 2,80 TL’dir.
+198;Kuþadasý'ndan Karpuzlu'ya son otobüs ne zaman?;Kuþadasý’ndan Karpuzlu’ya son otobüs seferi saat 19:15'tedir.
+199;Otogardan Adü'ye seferler kaçta baþlýyor?;Otogardan Adü’ye ilk sefer 6:15'te baþlýyor.
+200;605 numaralý otobüs hattýnýn duraklarý nelerdir?;605 numaralý otobüs hattýnýn duraklarý ADÜ, Forum Aydýn, Zafer Meydaný, Tren Garý ve Otogardýr.
+201;606 numaralý otobüs hattýnýn duraklarý nelerdir?;606 numaralý otobüs hattýnýn duraklarý Karpuzlu, Koçarlý, Ýncirliova, Söke ve Kuþadasý'dýr.
+202;607 numaralý otobüs hattýnýn duraklarý nelerdir?;607 numaralý otobüs hattýnýn duraklarý Köþk, Germencik, Efeler, Bozdoðan ve Çine'dir.
+203;608 numaralý otobüs hattýnýn duraklarý nelerdir?;608 numaralý otobüs hattýnýn duraklarý Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur.
+204;605'in duraklarý nelerdir?;605 numaralý otobüs hattýnýn duraklarý ADÜ, Forum Aydýn, Zafer Meydaný, Tren Garý ve Otogardýr.
+205;605 seferli otobüs'ün duraklarý nelerdir?;605 numaralý otobüs hattýnýn duraklarý ADÜ, Forum Aydýn, Zafer Meydaný, Tren Garý ve Otogardýr.
+206;605'in istikameti nerelerdir?;605 numaralý otobüs hattýnýn duraklarý ADÜ, Forum Aydýn, Zafer Meydaný, Tren Garý ve Otogardýr.
+207;605 nerelerden geçmektedir?;605 numaralý otobüs hattýnýn duraklarý ADÜ, Forum Aydýn, Zafer Meydaný, Tren Garý ve Otogardýr.
+208;605 nereye gitmektedir?;605 numaralý otobüs hattýnýn duraklarý ADÜ, Forum Aydýn, Zafer Meydaný, Tren Garý ve Otogardýr.
+209;606'nýn duraklarý nelerdir?;606 numaralý otobüs hattýnýn duraklarý Karpuzlu, Koçarlý, Ýncirliova, Söke ve Kuþadasý'dýr.
+210;606 seferli otobüs'ün duraklarý nelerdir?;606 numaralý otobüs hattýnýn duraklarý Karpuzlu, Koçarlý, Ýncirliova, Söke ve Kuþadasý'dýr.
+211;606'nýn istikameti nerelerdir?;606 numaralý otobüs hattýnýn duraklarý Karpuzlu, Koçarlý, Ýncirliova, Söke ve Kuþadasý'dýr.
+212;606 nerelerden geçmektedir?;606 numaralý otobüs hattýnýn duraklarý Karpuzlu, Koçarlý, Ýncirliova, Söke ve Kuþadasý'dýr.
+213;606 nereye gitmektedir?;606 numaralý otobüs hattýnýn duraklarý Karpuzlu, Koçarlý, Ýncirliova, Söke ve Kuþadasý'dýr.
+214;607'nin duraklarý nelerdir?;607 numaralý otobüs hattýnýn duraklarý Köþk, Germencik, Efeler, Bozdoðan ve Çine'dir.
+215;607 seferli otobüs'ün duraklarý nelerdir?;607 numaralý otobüs hattýnýn duraklarý Köþk, Germencik, Efeler, Bozdoðan ve Çine'dir.
+216;607'nin istikameti nerelerdir?;607 numaralý otobüs hattýnýn duraklarý Köþk, Germencik, Efeler, Bozdoðan ve Çine'dir.
+217;607 nerelerden geçmektedir?;607 numaralý otobüs hattýnýn duraklarý Köþk, Germencik, Efeler, Bozdoðan ve Çine'dir.
+218;607 nereye gitmektedir?;607 numaralý otobüs hattýnýn duraklarý Köþk, Germencik, Efeler, Bozdoðan ve Çine'dir.
+219;608'in duraklarý nelerdir?;608 numaralý otobüs hattýnýn duraklarý Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur.
+220;608 seferli otobüs'ün duraklarý nelerdir?;608 numaralý otobüs hattýnýn duraklarý Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur.
+221;608'in istikameti nerelerdir?;608 numaralý otobüs hattýnýn duraklarý Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur.
+222;608 nerelerden geçmektedir?;608 numaralý otobüs hattýnýn duraklarý Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur.
+223;608 nereye gitmektedir?;608 numaralý otobüs hattýnýn duraklarý Yeni Pazar, Nazilli, Sultan Hiisar, Kuyucak ve Karacasu'dur.
+224;ADÜ'ye hangi numaralý otobüsle gidebilirim?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+225;Forum Aydýn'a hangi numaralý otobüsle gidebilirim?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+226;Zafer Meydaný'na hangi numaralý otobüsle gidebilirim?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+227;Tren Garýna hangi numaralý otobüsle gidebilirim?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+228;Otogara hangi numaralý otobüsle gidebilirim?;Otogara 605 numaralý otobüs ile gidilmektedir.
+229;Karpuzlu'ya hangi numaralý otobüsle gidebilirim?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+230;Koçarlý'ya hangi numaralý otobüsle gidebilirim?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+231;Ýncirliova'ya hangi numaralý otobüsle gidebilirim?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+232;Söke'ye hangi numaralý otobüsle gidebilirim?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+233;Kuþadasý'na hangi numaralý otobüsle gidebilirim?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+234;Köþk'e hangi numaralý otobüsle gidebilirim?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+235;Germencik'e hangi numaralý otobüsle gidebilirim?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+236;Efeler'e hangi numaralý otobüsle gidebilirim?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+237;Bozdoðan'a hangi numaralý otobüsle gidebilirim?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+238;Çine'ye hangi numaralý otobüsle gidebilirim?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+239;Yeni Pazar'a hangi numaralý otobüsle gidebilirim?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+240;Nazilli'ye hangi numaralý otobüsle gidebilirim?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+241;Sultan Hisar'a hangi numaralý otobüsle gidebilirim?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+242;Kuyucak'a hangi numaralý otobüsle gidebilirim?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+243;Karacasu'ya hangi numaralý otobüsle gidebilirim?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+244;ADÜ'ye nasýl gidebilirim?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+245;ADÜ'ye nereden gidebilirim?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+246;ADÜ'den geçen otobüs nedir?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+247;ADÜ'nün otobüsü nedir?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+248;ADÜ'ye ne ile gidebilirim?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+249;ADÜ'nün hatlarý nedir?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+250;ADÜ'den geçen numaralar nelerdir?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+251;ADÜ'de hangi otobüsler durmaktadýr?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+252;ADÜ'de kaç numaralý otobüsler durmaktadýr?;ADÜ'ye 605 numaralý otobüs ile gidilmektedir.
+253;Forum Aydýn'a nasýl gidebilirim?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+254;Forum Aydýn'a nereden gidebilirim?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+255;Forum Aydýn'dan geçen otobüs nedir?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+256;Forum Aydýn'nýn otobüsü nedir?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+257;Forum Aydýn'a ne ile gidebilirim?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+258;Forum Aydýn'ýn hatlarý nedir?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+259;Forum Aydýn'dan geçen numaralar nelerdir?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+260;Forum Aydýn'da hangi otobüsler durmaktadýr?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+261;Forum Aydýn'da kaç numaralý otobüsler durmaktadýr?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+262;Forum Aydýn'a nasýl gidebilirim?;Forum Aydýn'a 605 numaralý otobüs ile gidilmektedir.
+263;Zafer Meydaný'na nereden gidebilirim?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+264;Zafer Meydaný'ndan geçen otobüs nedir?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+265;Zafer Meydaný'nýn otobüsü nedir?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+266;Zafer Meydaný'na ne ile gidebilirim?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+267;Zafer Meydaný'nýn hatlarý nedir?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+268;Zafer Meydaný'ndan geçen numaralar nelerdir?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+269;Zafer Meydaný'nda hangi otobüsler durmaktadýr?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+270;Zafer Meydaný'nda kaç numaralý otobüsler durmaktadýr?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+271;Zafer Meydaný'na nasýl gidebilirim?;Zafer Meydaný'na 605 numaralý otobüs ile gidilmektedir.
+272;Tren Garýna nasýl gidebilirim?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+273;Tren Garýna nereden gidebilirim?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+274;Tren Garýndan geçen otobüs nedir?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+275;Tren Garýnýn otobüsü nedir?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+276;Tren Garýna ne ile gidebilirim?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+277;Tren Garýnýn hatlarý nedir?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+278;Tren Garýndan geçen numaralar nelerdir?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+279;Tren Garýnda hangi otobüsler durmaktadýr?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+280;Tren Garýna kaç numaralý otobüsler durmaktadýr?;Tren Garýna 605 numaralý otobüs ile gidilmektedir.
+281;Otogara nasýl gidebilirim?;Otogara 605 numaralý otobüs ile gidilmektedir.
+282;Otogara nereden gidebilirim?;Otogara 605 numaralý otobüs ile gidilmektedir.
+283;Otogardan geçen otobüs nedir?;Otogara 605 numaralý otobüs ile gidilmektedir.
+284;Otogarýn otobüsü nedir?;Otogara 605 numaralý otobüs ile gidilmektedir.
+285;Otogara ne ile gidebilirim?;Otogara 605 numaralý otobüs ile gidilmektedir.
+286;Otogarýn hatlarý nedir?;Otogara 605 numaralý otobüs ile gidilmektedir.
+287;Otogardan geçen numaralar nelerdir?;Otogara 605 numaralý otobüs ile gidilmektedir.
+288;Otogarda hangi otobüsler durmaktadýr?;Otogara 605 numaralý otobüs ile gidilmektedir.
+289;Otogarda kaç numaralý otobüsler durmaktadýr?;Otogara 605 numaralý otobüs ile gidilmektedir.
+290;Karpuzlu'ya nasýl gidebilirim?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+291;Karpuzlu'ya nereden gidebilirim?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+292;Karpuzlu'dan geçen otobüs nedir?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+293;Karpuzlu'nun otobüsü nedir?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+294;Karpuzlu'ya ne ile gidebilirim?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+295;Karpuzlu'nun hatlarý nedir?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+296;Karpuzlu'dan geçen numaralar nelerdir?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+297;Karpuzlu'da hangi otobüsler durmaktadýr?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+298;Karpuzlu'da kaç numaralý otobüsler durmaktadýr?;Karpuzlu'ya 606 numaralý otobüs ile gidilmektedir.
+299;Koçarlý'ya nasýl gidebilirim?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+300;Koçarlý'ya nereden gidebilirim?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+301;Koçarlý'dan geçen otobüs nedir?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+302;Koçarlý'nýn otobüsü nedir?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+303;Koçarlý'ya ne ile gidebilirim?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+304;Koçarlý'nýn hatlarý nedir?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+305;Koçarlý'dan geçen numaralar nelerdir?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+306;Koçarlý'da hangi otobüsler durmaktadýr?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+307;Koçarlý'da kaç numaralý otobüsler durmaktadýr?;Koçarlý'ya 606 numaralý otobüs ile gidilmektedir.
+308;Ýncirliova'ya nasýl gidebilirim?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+309;Ýncirliova'ya nereden gidebilirim?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+310;Ýncirliova'dan geçen otobüs nedir?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+311;Ýncirliova'nýn otobüsü nedir?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+312;Ýncirliova'ya ne ile gidebilirim?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+313;Ýncirliova'nýn hatlarý nedir?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+314;Ýncirliova'dan geçen numaralar nelerdir?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+315;Ýncirliova'da hangi otobüsler durmaktadýr?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+316;Ýncirliova'da kaç numaralý otobüsler durmaktadýr?;Ýncirliova'ya 606 numaralý otobüs ile gidilmektedir.
+317;Söke'ye nasýl gidebilirim?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+318;Söke'ye nereden gidebilirim?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+319;Söke'den geçen otobüs nedir?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+320;Söke'nin otobüsü nedir?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+321;Söke'ye ne ile gidebilirim?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+322;Söke'nin hatlarý nedir?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+323;Söke'den geçen numaralar nelerdir?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+324;Söke'de hangi otobüsler durmaktadýr?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+325;Söke'de kaç numaralý otobüsler durmaktadýr?;Söke'ye 606 numaralý otobüs ile gidilmektedir.
+326;Kuþadasý'na nasýl gidebilirim?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+327;Kuþadasý'na nereden gidebilirim?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+328;Kuþadasý'ndan geçen otobüs nedir?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+329;Kuþadasý'nýn otobüsü nedir?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+330;Kuþadasý'na ne ile gidebilirim?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+331;Kuþadasý'nýn hatlarý nedir?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+332;Kuþadasý'ndan geçen numaralar nelerdir?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+333;Kuþadasý'nda hangi otobüsler durmaktadýr?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+334;Kuþadasý'nda kaç numaralý otobüsler durmaktadýr?;Kuþadasý'na 606 numaralý otobüs ile gidilmektedir.
+335;Köþk'e nasýl gidebilirim?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+336;Köþk'e nereden gidebilirim?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+337;Köþk'ten geçen otobüs nedir?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+338;Köþk'ün otobüsü nedir?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+339;Köþk'e ne ile gidebilirim?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+340;Köþk'ün hatlarý nedir?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+341;Köþk'ten geçen numaralar nelerdir?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+342;Köþk'te hangi otobüsler durmaktadýr?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+343;Köþk'te kaç numaralý otobüsler durmaktadýr?;Köþk'e 607 numaralý otobüs ile gidilmektedir.
+344;Germencik'e nasýl gidebilirim?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+345;Germencik'e nereden gidebilirim?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+346;Germencik'ten geçen otobüs nedir?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+347;Germencik'in otobüsü nedir?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+348;Germencik'e ne ile gidebilirim?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+349;Germencik'in hatlarý nedir?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+350;Germencik'ten geçen numaralar nelerdir?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+351;Germencik'te hangi otobüsler durmaktadýr?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+352;Germencik'te kaç numaralý otobüsler durmaktadýr?;Germencik'e 607 numaralý otobüs ile gidilmektedir.
+353;Efeler'e nasýl gidebilirim?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+354;Efeler'e nereden gidebilirim?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+355;Efeler'den geçen otobüs nedir?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+356;Efeler'in otobüsü nedir?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+357;Efeler'e ne ile gidebilirim?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+358;Efeler'in hatlarý nedir?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+359;Efeler'den geçen numaralar nelerdir?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+360;Efeler'de hangi otobüsler durmaktadýr?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+361;Efeler'de kaç numaralý otobüsler durmaktadýr?;Efeler'e 607 numaralý otobüs ile gidilmektedir.
+362;Bozdoðan'a nasýl gidebilirim?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+363;Bozdoðan'a nereden gidebilirim?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+364;Bozdoðan'dan geçen otobüs nedir?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+365;Bozdoðan'ýn otobüsü nedir?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+366;Bozdoðan'a ne ile gidebilirim?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+367;Bozdoðan'ýn hatlarý nedir?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+368;Bozdoðan'dan geçen numaralar nelerdir?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+369;Bozdoðan'da hangi otobüsler durmaktadýr?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+370;Bozdoðan'da kaç numaralý otobüsler durmaktadýr?;Bozdoðan'a 607 numaralý otobüs ile gidilmektedir.
+371;Çine'ye nasýl gidebilirim?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+372;Çine'ye nereden gidebilirim?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+373;Çine'den geçen otobüs nedir?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+374;Çine'nin otobüsü nedir?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+375;Çine'ye ne ile gidebilirim?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+376;Çine'nin hatlarý nedir?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+377;Çine'den geçen numaralar nelerdir?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+378;Çine'de hangi otobüsler durmaktadýr?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+379;Çine'de kaç numaralý otobüsler durmaktadýr?;Çine'ye 607 numaralý otobüs ile gidilmektedir.
+380;Yeni Pazar'a nasýl gidebilirim?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+381;Yeni Pazar'a nereden gidebilirim?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+382;Yeni Pazar'dan geçen otobüs nedir?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+383;Yeni Pazar'ýn otobüsü nedir?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+384;Yeni Pazar'a ne ile gidebilirim?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+385;Yeni Pazar'ýn hatlarý nedir?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+386;Yeni Pazar'dan geçen numaralar nelerdir?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+387;Yeni Pazar'da hangi otobüsler durmaktadýr?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+388;Yeni Pazar'da kaç numaralý otobüsler durmaktadýr?;Yeni Pazar'a 608 numaralý otobüs ile gidilmektedir.
+389;Nazilli'ye nasýl gidebilirim?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+390;Nazilli'ye nereden gidebilirim?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+391;Nazilli'den geçen otobüs nedir?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+392;Nazilli'nin otobüsü nedir?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+393;Nazilli'ye ne ile gidebilirim?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+394;Nazilli'nin hatlarý nedir?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+395;Nazilli'den geçen numaralar nelerdir?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+396;Nazilli'de hangi otobüsler durmaktadýr?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+397;Nazilli'de kaç numaralý otobüsler durmaktadýr?;Nazilli'ye 608 numaralý otobüs ile gidilmektedir.
+398;Sultan Hisar'a nasýl gidebilirim?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+399;Sultan Hisar'a nereden gidebilirim?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+400;Sultan Hisar'dan geçen otobüs nedir?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+401;Sultan Hisar'ýn otobüsü nedir?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+402;Sultan Hisar'a ne ile gidebilirim?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+403;Sultan Hisar'ýn hatlarý nedir?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+404;Sultan Hisar'dan geçen numaralar nelerdir?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+405;Sultan Hisar'da hangi otobüsler durmaktadýr?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+406;Sultan Hisar'da kaç numaralý otobüsler durmaktadýr?;Sultan Hisar'a 608 numaralý otobüs ile gidilmektedir.
+407;Kuyucak'a nasýl gidebilirim?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+408;Kuyucak'a nereden gidebilirim?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+409;Kuyucak'tan geçen otobüs nedir?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+410;Kuyucak'ýn otobüsü nedir?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+411;Kuyucak'a ne ile gidebilirim?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+412;Kuyucak'ýn hatlarý nedir?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+413;Kuyucak'tan geçen numaralar nelerdir?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+414;Kuyucak'ta hangi otobüsler durmaktadýr?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+415;Kuyucak'ta kaç numaralý otobüsler durmaktadýr?;Kuyucak'a 608 numaralý otobüs ile gidilmektedir.
+416;Karacasu'ya nasýl gidebilirim?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+417;Karacasu'ya nereden gidebilirim?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+418;Karacasu'dan geçen otobüs nedir?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+419;Karacasu'nun otobüsü nedir?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+420;Karacasu'ya ne ile gidebilirim?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+421;Karacasu'nun hatlarý nedir?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+422;Karacasu'dan geçen numaralar nelerdir?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+423;Karacasu'da hangi otobüsler durmaktadýr?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+424;Karacasu'da kaç numaralý otobüsler durmaktadýr?;Karacasu'ya 608 numaralý otobüs ile gidilmektedir.
+425;605 astim e ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+426;605 numara astim e ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+427;605 numaralý otobüs astim e ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+428;605 astim e fiyat ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+429;605 numara astim fiyat ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+430;605 numara astim fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+431;605 numaralý otobüsün astim fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+432;605 numaralý otobüsün astim fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+433;605 astim ücret ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+434;605 numara astim ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+435;605 numara astim ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+436;605 numaralý otobüsün astim ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+437;605 numaralý otobüsün astim ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+438;Adü-astim arasý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+439;Adü-astim arasý fiyat nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+440;Adü-astim arasý ücret nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+441;Adü-astim arasý otobüs ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+442;Adü-astim arasý otobüs ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+443;Adü-astim arasý otobüs ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+444;Adü-astim arasý otobüs fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+445;Adü-astim arasý otobüs fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+446;Adü-astim arasý tam ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+447;Adü-astim arasý tam ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+448;Adü-astim arasý tam ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+449;Adü-astim arasý tam fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+450;Adü-astim arasý tam fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+451;Adü-astim arasý indirimli ne kadar?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+452;Adü-astim arasý indirimli ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+453;Adü-astim arasý indirimli ücreti nedir?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+454;Adü-astim arasý indirimli fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+455;Adü-astim arasý indirimli fiyatý nedir?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+456;Adü-astim arasý engelli ne kadar?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+457;Adü-astim arasý engelli ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+458;Adü-astim arasý engelli ücreti nedir?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+459;Adü-astim arasý engelli fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+460;Adü-astim arasý engelli fiyatý nedir?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+461;Adü-astim arasý öðrenci ne kadar?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+462;Adü-astim arasý öðrenci ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+463;Adü-astim arasý öðrenci ücreti nedir?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+464;Adü-astim arasý öðrenci fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+465;Adü-astim arasý öðrenci fiyatý nedir?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+466;605 organize ye ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+467;605 numara organize ye ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+468;605 numaralý otobüs organize ye ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+469;605 organize ye fiyat ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+470;605 numara organize fiyat ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+471;605 numara organize fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+472;605 numaralý otobüs organize fiyat ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+473;605 numaralý otobüs organize fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+474;605 organize ücret ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+475;605 numara organize ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+476;605 numara organize ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+477;605 numaralý otobüs organize ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+478;605 numaralý otobüs organize ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+479;Adü- organize arasý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+480;Adü- organize arasý fiyat nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+481;Adü- organize arasý ücret nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+482;Adü-organize arasý otobüs ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+483;Adü- organize arasý otobüs ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+484;Adü- organize arasý otobüs ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+485;Adü- organize arasý otobüs fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+486;Adü- organize arasý otobüs fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+487;Adü- organize arasý tam ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+488;Adü- organize arasý tam ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+489;Adü- organize arasý tam fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+490;Adü- organize arasý tam fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+491;Adü- organize arasý indirimli ne kadar?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+492;Adü- organize arasý indirimli ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+493;Adü- organize arasý indirimli ücreti nedir?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+494;Adü- organize arasý indirimli fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+495;Adü- organize arasý indirimli fiyatý nedir?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+496;Adü- organize arasý engelli ne kadar?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+497;Adü- organize arasý engelli ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+498;Adü- organize arasý engelli ücreti nedir?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+499;Adü- organize arasý engelli fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+500;Adü- organize arasý engelli fiyatý nedir?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+501;Adü- organize arasý öðrenci ne kadar?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+502;Adü- organize arasý öðrenci ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+503;Adü- organize arasý öðrenci ücreti nedir?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+504;Adü- organize arasý öðrenci fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+505;Adü- organize arasý öðrenci fiyatý nedir?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+506;605 sanayi ye ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+507;605 numara sanayi ye ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+508;605 numaralý otobüs sanayi ye ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+509;605 sanayi ye fiyat ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+510;605 numara sanayi fiyat ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+511;605 numara sanayi fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+512;605 numaralý otobüs sanayi fiyat ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+513;605 numaralý otobüs sanayi fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+514;605 sanayi ücret ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+515;605 numara sanayi ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+516;605 numara sanayi ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+517;605 numaralý otobüs sanayi ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+518;605 numaralý otobüs sanayi ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+519;Adü- sanayi arasý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+520;Adü- sanayi arasý fiyat nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+521;Adü- sanayi arasý ücret nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+522;Adü-sanayi arasý otobüs ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+523;Adü- sanayi arasý otobüs ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+524;Adü- sanayi arasý otobüs ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+525;Adü- sanayi arasý otobüs fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+526;Adü- sanayi arasý otobüs fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 lira, indirimli ücret 2 liradýr.
+527;Adü- sanayi arasý tam ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+528;Adü- sanayi arasý tam ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+529;Adü- sanayi arasý tam ücreti nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+530;Adü- sanayi arasý tam fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+531;Adü- sanayi arasý tam fiyatý nedir?;Adü ile Astim Organize Sanayi arasý tam ücret 2.75 liradýr.
+532;Adü- sanayi arasý indirimli ne kadar?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+533;Adü- sanayi arasý indirimli ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+534;Adü- sanayi arasý indirimli ücreti nedir?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+535;Adü- sanayi arasý indirimli fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+536;Adü- sanayi arasý indirimli fiyatý nedir?;Adü ile Astim Organize Sanayi arasý indirimli ücret 2 liradýr.
+537;Adü- sanayi arasý engelli ne kadar?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+538;Adü- sanayi arasý engelli ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+539;Adü- sanayi arasý engelli ücreti nedir?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+540;Adü- sanayi arasý engelli fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+541;Adü- sanayi arasý engelli fiyatý nedir?;Adü ile Astim Organize Sanayi arasý engelli ücreti 2 liradýr.
+542;Adü- sanayi arasý öðrenci ne kadar?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+543;Adü- sanayi arasý öðrenci ücreti ne kadar?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+544;Adü- sanayi arasý öðrenci ücreti nedir?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+545;Adü- sanayi arasý öðrenci fiyatý ne kadar?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+546;Adü- sanayi arasý öðrenci fiyatý nedir?;Adü ile Astim Organize Sanayi arasý öðrenci ücreti 2 liradýr.
+547;605 imamköy e ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+548;605 numara imamköy e ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+549;605 numaralý otobüs imamköy e ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+550;605 imamköy e fiyat ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+551;605 numara imamköy fiyat ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+552;605 numara imamköy fiyatý nedir?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+553;605 numaralý otobüsün imamköy fiyatý ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+554;605 numaralý otobüsün imamköy fiyatý nedir?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+555;605 imamköy ücret ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+556;605 numara imamköy ücreti ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+557;605 numara imamköy ücreti nedir?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+558;605 numaralý otobüsün imamköy ücreti ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+559;605 numaralý otobüsün imamköy ücreti nedir?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+560;Adü- imamköy arasý ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+561;Adü- imamköy arasý fiyat nedir?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+562;Adü- imamköy arasý ücret nedir?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+563;Adü- imamköy arasý otobüs ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+564;Adü- imamköy arasý otobüs ücreti ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+565;Adü- imamköy arasý otobüs ücreti nedir?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+566;Adü- imamköy arasý otobüs fiyatý ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+567;Adü- imamköy arasý otobüs fiyatý nedir?;Adü ile Ýmamköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+568;Adü- imamköy arasý tam ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 liradýr.
+569;Adü- imamköy arasý tam ücreti ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 liradýr.
+570;Adü- imamköy arasý tam ücreti nedir?;Adü ile Ýmamköy arasý tam ücret 4 liradýr.
+571;Adü- imamköy arasý tam fiyatý ne kadar?;Adü ile Ýmamköy arasý tam ücret 4 liradýr.
+572;Adü- imamköy arasý tam fiyatý nedir?;Adü ile Ýmamköy arasý tam ücret 4 liradýr.
+573;Adü- imamköy arasý indirimli ne kadar?;Adü ile Ýmamköy arasý indirimli ücret 2.65 liradýr.
+574;Adü- imamköy arasý indirimli ücreti ne kadar?;Adü ile Ýmamköy arasý indirimli ücret 2.65 liradýr.
+575;Adü- imamköy arasý indirimli ücreti nedir?;Adü ile Ýmamköy arasý indirimli ücret 2.65 liradýr.
+576;Adü- imamköy arasý indirimli fiyatý ne kadar?;Adü ile Ýmamköy arasý indirimli ücret 2.65 liradýr.
+577;Adü- imamköy arasý indirimli fiyatý nedir?;Adü ile Ýmamköy arasý indirimli ücret 2.65 liradýr.
+578;Adü- imamköy arasý engelli ne kadar?;Adü ile Ýmamköy arasý engelli ücret 2.65 liradýr.
+579;Adü- imamköy arasý engelli ücreti ne kadar?;Adü ile Ýmamköy arasý engelli ücret 2.65 liradýr.
+580;Adü- imamköy arasý engelli ücreti nedir?;Adü ile Ýmamköy arasý engelli ücret 2.65 liradýr.
+581;Adü- imamköy arasý engelli fiyatý ne kadar?;Adü ile Ýmamköy arasý engelli ücret 2.65 liradýr.
+582;Adü- imamköy arasý engelli fiyatý nedir?;Adü ile Ýmamköy arasý engelli ücret 2.65 liradýr.
+583;Adü- imamköy arasý öðrenci ne kadar?;Adü ile Ýmamköy arasý öðrenci ücreti 2.65 liradýr.
+584;Adü- imamköy arasý öðrenci ücreti ne kadar?;Adü ile Ýmamköy arasý öðrenci ücreti 2.65 liradýr.
+585;Adü- imamköy arasý öðrenci ücreti nedir?;Adü ile Ýmamköy arasý öðrenci ücreti 2.65 liradýr.
+586;Adü- imamköy arasý öðrenci fiyatý ne kadar?;Adü ile Ýmamköy arasý öðrenci ücreti 2.65 liradýr.
+587;Adü- imamköy arasý öðrenci fiyatý nedir?;Adü ile Ýmamköy arasý öðrenci ücreti 2.65 liradýr.
+588;605 serçeköy e ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+589;605 numara serçeköy e ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+590;605 numaralý otobüs serçeköy e ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+591;605 serçeköy e fiyat ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+592;605 numara serçeköy fiyat ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+593;605 numara serçeköy fiyatý nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+594;605 numaralý otobüsün serçeköy fiyatý ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+595;605 numaralý otobüsün serçeköy fiyatý nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+596;605 serçeköy ücret ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+597;605 numara serçeköy ücreti ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+598;605 numara serçeköy ücreti nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+599;605 numaralý otobüsün serçeköy ücreti ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+600;605 numaralý otobüsün serçeköy ücreti nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+601;Adü- serçeköy arasý ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+602;Adü- serçeköy arasý fiyat nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+603;Adü- serçeköy arasý ücret nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+604;Adü-serçeköy arasý otobüs ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+605;Adü- serçeköy arasý otobüs ücreti ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+606;Adü- serçeköy arasý otobüs ücreti nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+607;Adü- serçeköy arasý otobüs fiyatý ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+608;Adü- serçeköy arasý otobüs fiyatý nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+609;Adü- serçeköy arasý tam ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+610;Adü- serçeköy arasý tam ücreti ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+611;Adü- serçeköy arasý tam ücreti nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+612;Adü- serçeköy arasý tam fiyatý ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+613;Adü- serçeköy arasý tam fiyatý nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+614;Adü- serçeköy arasý indirimli ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+615;Adü- serçeköy arasý indirimli ücreti ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+616;Adü- serçeköy arasý indirimli ücreti nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+617;Adü- serçeköy arasý indirimli fiyatý ne kadar?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+618;Adü- serçeköy arasý indirimli fiyatý nedir?;Adü ile Serçeköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+619;Adü- serçeköy arasý engelli ne kadar?;Adü ile Serçeköy arasý engelli ücreti 2.65 liradýr.
+620;Adü- serçeköy arasý engelli ücreti ne kadar?;Adü ile Serçeköy arasý engelli ücreti 2.65 liradýr.
+621;Adü- serçeköy arasý engelli ücreti nedir?;Adü ile Serçeköy arasý engelli ücreti 2.65 liradýr.
+622;Adü- serçeköy arasý engelli fiyatý ne kadar?;Adü ile Serçeköy arasý engelli ücreti 2.65 liradýr.
+623;Adü- serçeköy arasý engelli fiyatý nedir?;Adü ile Serçeköy arasý engelli ücreti 2.65 liradýr.
+624;Adü- serçeköy arasý öðrenci ne kadar?;Adü ile Serçeköy arasý öðrenci ücreti 2.65 liradýr.
+625;Adü- serçeköy arasý öðrenci ücreti ne kadar?;Adü ile Serçeköy arasý öðrenci ücreti 2.65 liradýr.
+626;Adü- serçeköy arasý öðrenci ücreti nedir?;Adü ile Serçeköy arasý öðrenci ücreti 2.65 liradýr.
+627;Adü- serçeköy arasý öðrenci fiyatý ne kadar?;Adü ile Serçeköy arasý öðrenci ücreti 2.65 liradýr.
+628;Adü- serçeköy arasý öðrenci fiyatý nedir?;Adü ile Serçeköy arasý öðrenci ücreti 2.65 liradýr.
+629;605 kocagür e ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+630;605 numara kocagür e ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+631;605 numaralý otobüs kocagür e ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+632;605 kocagür e fiyat ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+633;605 numara kocagür fiyat ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+634;605 numara kocagür fiyatý nedir?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+635;605 numaralý otobüsün kocagür fiyatý ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+636;605 numaralý otobüsün kocagür fiyatý nedir?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+637;605 kocagür ücret ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+638;605 numara kocagür ücreti ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+639;605 numara kocagür ücreti nedir?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+640;605 numaralý otobüsün kocagür ücreti ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+641;605 numaralý otobüsün kocagür ücreti nedir?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+642;Adü- kocagür arasý ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+643;Adü- kocagür arasý fiyat nedir?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+644;Adü- kocagür arasý ücret nedir?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+645;Adü- kocagür arasý otobüs ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+646;Adü- kocagür arasý otobüs ücreti ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+647;Adü- kocagür arasý otobüs ücreti nedir?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+648;Adü- kocagür arasý otobüs fiyatý ne kadar?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+649;Adü- kocagür arasý otobüs fiyatý nedir?;Adü ile Kocagür arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+650;Adü- kocagür arasý tam ne kadar?;Adü ile Kocagür arasý tam ücret 4 liradýr.
+651;Adü- kocagür arasý tam ücreti ne kadar?;Adü ile Kocagür arasý tam ücret 4 liradýr.
+652;Adü- kocagür arasý tam ücreti nedir?;Adü ile Kocagür arasý tam ücret 4 liradýr.
+653;Adü- kocagür arasý tam fiyatý ne kadar?;Adü ile Kocagür arasý tam ücret 4 liradýr.
+654;Adü- kocagür arasý tam fiyatý nedir?;Adü ile Kocagür arasý tam ücret 4 liradýr.
+655;Adü- kocagür arasý indirimli ne kadar?;Adü ile Kocagür arasý indirimli ücret 2,65 liradýr.
+656;Adü- kocagür arasý indirimli ücreti ne kadar?;Adü ile Kocagür arasý indirimli ücret 2,65 liradýr.
+657;Adü- kocagür arasý indirimli ücreti nedir?;Adü ile Kocagür arasý indirimli ücret 2,65 liradýr.
+658;Adü- kocagür arasý indirimli fiyatý ne kadar?;Adü ile Kocagür arasý indirimli ücret 2,65 liradýr.
+659;Adü- kocagür arasý indirimli fiyatý nedir?;Adü ile Kocagür arasý indirimli ücret 2,65 liradýr.
+660;Adü- kocagür arasý engelli ne kadar?;Adü ile Kocagür arasý engelli ücreti 2,65 liradýr.
+661;Adü- kocagür arasý engelli ücreti ne kadar?;Adü ile Kocagür arasý engelli ücreti 2,65 liradýr.
+662;Adü- kocagür arasý engelli ücreti nedir?;Adü ile Kocagür arasý engelli ücreti 2,65 liradýr.
+663;Adü- kocagür arasý engelli fiyatý ne kadar?;Adü ile Kocagür arasý engelli ücreti 2,65 liradýr.
+664;Adü- kocagür arasý engelli fiyatý nedir?;Adü ile Kocagür arasý engelli ücreti 2,65 liradýr.
+665;Adü- kocagür arasý öðrenci ne kadar?;Adü ile Kocagür arasý öðrenci ücreti 2,65 liradýr.
+666;Adü- kocagür arasý öðrenci ücreti ne kadar?;Adü ile Kocagür arasý öðrenci ücreti 2,65 liradýr.
+667;Adü- kocagür arasý öðrenci ücreti nedir?;Adü ile Kocagür arasý öðrenci ücreti 2,65 liradýr.
+668;Adü- kocagür arasý öðrenci fiyat ne kadar?;Adü ile Kocagür arasý öðrenci ücreti 2,65 liradýr.
+669;Adü- kocagür arasý öðrenci fiyatý nedir?;Adü ile Kocagür arasý öðrenci ücreti 2,65 liradýr.
+670;606 kardeþköy e ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+671;606 numara kardeþköy e ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+672;606 numaralý otobüs kardeþköy e ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+673;606 kardeþköy e fiyat ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+674;606 numara kardeþköy fiyat ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+675;606 numara kardeþköy fiyatý nedir?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+676;606 numaralý otobüsün kardeþköy fiyatý ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+677;606 numaralý otobüsün kardeþköy fiyatý nedir?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+678;606 kardeþköy ücret ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+679;606 numara kardeþköy ücreti ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+680;606 numara kardeþköy ücreti nedir?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+681;606 numaralý otobüsün kardeþköy ücreti ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+682;606 numaralý otobüsün kardeþköy ücreti nedir?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+683;Adü- kardeþköy arasý ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+684;Adü- kardeþköy arasý fiyat nedir?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+685;Adü- kardeþköy arasý ücret nedir?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+686;Adü- kardeþköy arasý otobüs ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+687;Adü- kardeþköy arasý otobüs ücreti ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+688;Adü- kardeþköy arasý otobüs ücreti nedir?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+689;Adü- kardeþköy arasý otobüs fiyatý ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+690;Adü- kardeþköy arasý otobüs fiyatý nedir?;Adü ile Kardeþköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+691;Adü- kardeþköy arasý tam ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 liradýr.
+692;Adü- kardeþköy arasý tam ücreti ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 liradýr.
+693;Adü- kardeþköy arasý tam ücreti nedir?;Adü ile Kardeþköy arasý tam ücret 4 liradýr.
+694;Adü- kardeþköy arasý tam fiyatý ne kadar?;Adü ile Kardeþköy arasý tam ücret 4 liradýr.
+695;Adü- kardeþköy arasý tam fiyatý nedir?;Adü ile Kardeþköy arasý tam ücret 4 liradýr.
+696;Adü- kardeþköy arasý indirimli ne kadar?;Adü ile Kardeþköy arasý indirimli ücret 2.65 liradýr.
+697;Adü- kardeþköy arasý indirimli ücreti ne kadar?;Adü ile Kardeþköy arasý indirimli ücret 2.65 liradýr.
+698;Adü- kardeþköy arasý indirimli ücreti nedir?;Adü ile Kardeþköy arasý indirimli ücret 2.65 liradýr.
+699;Adü- kardeþköy arasý indirimli fiyatý ne kadar?;Adü ile Kardeþköy arasý indirimli ücret 2.65 liradýr.
+700;Adü- kardeþköy arasý indirimli fiyatý nedir?;Adü ile Kardeþköy arasý indirimli ücret 2.65 liradýr.
+701;Adü- kardeþköy arasý engelli ne kadar?;Adü ile Kardeþköy arasý engelli ücreti 2.65 liradýr.
+702;Adü- kardeþköy arasý engelli ücreti ne kadar?;Adü ile Kardeþköy arasý engelli ücreti 2.65 liradýr.
+703;Adü- kardeþköy arasý engelli ücreti nedir?;Adü ile Kardeþköy arasý engelli ücreti 2.65 liradýr.
+704;Adü- kardeþköy arasý engelli fiyatý ne kadar?;Adü ile Kardeþköy arasý engelli ücreti 2.65 liradýr.
+705;Adü- kardeþköy arasý engelli fiyatý nedir?;Adü ile Kardeþköy arasý engelli ücreti 2.65 liradýr.
+706;Adü- kardeþköy arasý öðrenci ne kadar?;Adü ile Kardeþköy arasý öðrenci ücreti 2.65 liradýr.
+707;Adü- kardeþköy arasý öðrenci ücreti ne kadar?;Adü ile Kardeþköy arasý öðrenci ücreti 2.65 liradýr.
+708;Adü- kardeþköy arasý öðrenci ücreti nedir?;Adü ile Kardeþköy arasý öðrenci ücreti 2.65 liradýr.
+709;Adü- kardeþköy arasý öðrenci fiyat ne kadar?;Adü ile Kardeþköy arasý öðrenci ücreti 2.65 liradýr.
+710;Adü- kardeþköy arasý öðrenci fiyatý nedir?;Adü ile Kardeþköy arasý öðrenci ücreti 2.65 liradýr.
+711;606 kýzýlcaköy e ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+712;606 numara kýzýlcaköy e ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+713;606 numaralý otobüs kýzýlcaköy e ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+714;606 kýzýlcaköy e fiyat ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+715;606 numara kýzýlcaköy fiyat ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+716;606 numara kýzýlcaköy fiyatý nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+717;606 numaralý otobüsün kýzýlcaköy fiyatý ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+718;606 numaralý otobüsün kýzýlcaköy fiyatý nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+719;606 kýzýlcaköy ücret ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+720;606 numara kýzýlcaköy ücreti ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+721;606 numara kýzýlcaköy ücreti nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+722;606 numaralý otobüsün kýzýlcaköy ücreti ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+723;606 numaralý otobüsün kýzýlcaköy ücreti nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+724;Adü- kýzýlcaköy arasý ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+725;Adü- kýzýlcaköy arasý fiyat nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+726;Adü- kýzýlcaköy arasý ücret nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+727;Adü- kýzýlcaköy arasý otobüs ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+728;Adü- kýzýlcaköy arasý otobüs ücreti ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+729;Adü- kýzýlcaköy arasý otobüs ücreti nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+730;Adü- kýzýlcaköy arasý otobüs fiyatý ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+731;Adü- kýzýlcaköy arasý otobüs fiyatý nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+732;Adü- kýzýlcaköy arasý tam ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 liradýr.
+733;Adü- kýzýlcaköy arasý tam ücreti ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 liradýr.
+734;Adü- kýzýlcaköy arasý tam ücreti nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 liradýr.
+735;Adü- kýzýlcaköy arasý tam fiyatý ne kadar?;Adü ile Kýzýlcaköy arasý tam ücret 4 liradýr.
+736;Adü- kýzýlcaköy arasý tam fiyatý nedir?;Adü ile Kýzýlcaköy arasý tam ücret 4 liradýr.
+737;Adü- kýzýlcaköy arasý indirimli ne kadar?;Adü ile Kýzýlcaköy arasý indirimli ücret 2.65 liradýr.
+738;Adü- kýzýlcaköy arasý indirimli ücreti ne kadar?;Adü ile Kýzýlcaköy arasý indirimli ücret 2.65 liradýr.
+739;Adü- kýzýlcaköy arasý indirimli ücreti nedir?;Adü ile Kýzýlcaköy arasý indirimli ücret 2.65 liradýr.
+740;Adü- kýzýlcaköy arasý indirimli fiyatý ne kadar?;Adü ile Kýzýlcaköy arasý indirimli ücret 2.65 liradýr.
+741;Adü- kýzýlcaköy arasý indirimli fiyatý nedir?;Adü ile Kýzýlcaköy arasý indirimli ücret 2.65 liradýr.
+742;Adü- kýzýlcaköy arasý engelli ne kadar?;Adü ile Kýzýlcaköy arasý engelli ücreti 2.65 liradýr.
+743;Adü- kýzýlcaköy arasý engelli ücreti ne kadar?;Adü ile Kýzýlcaköy arasý engelli ücreti 2.65 liradýr.
+744;Adü- kýzýlcaköy arasý engelli ücreti nedir?;Adü ile Kýzýlcaköy arasý engelli ücreti 2.65 liradýr.
+745;Adü- kýzýlcaköy arasý engelli fiyatý ne kadar?;Adü ile Kýzýlcaköy arasý engelli ücreti 2.65 liradýr.
+746;Adü- kýzýlcaköy arasý engelli fiyatý nedir?;Adü ile Kýzýlcaköy arasý engelli ücreti 2.65 liradýr.
+747;Adü- kýzýlcaköy arasý öðrenci ne kadar?;Adü ile Kýzýlcaköy arasý öðrenci ücreti 2.65 liradýr.
+748;Adü- kýzýlcaköy arasý öðrenci ücreti ne kadar?;Adü ile Kýzýlcaköy arasý öðrenci ücreti 2.65 liradýr.
+749;Adü- kýzýlcaköy arasý öðrenci ücreti nedir?;Adü ile Kýzýlcaköy arasý öðrenci ücreti 2.65 liradýr.
+750;Adü- kýzýlcaköy arasý öðrenci fiyat ne kadar?;Adü ile Kýzýlcaköy arasý öðrenci ücreti 2.65 liradýr.
+751;Adü- kýzýlcaköy arasý öðrenci fiyatý nedir?;Adü ile Kýzýlcaköy arasý öðrenci ücreti 2.65 liradýr.
+752;606 dereaðzý na ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+753;606 numara dereaðzý na ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+754;606 numaralý otobüs dereaðzý na ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+755;606 dereaðzý na fiyat ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+756;606 numara dereaðzý fiyat ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+757;606 numara dereaðzý fiyatý nedir?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+758;606 numaralý otobüsün dereaðzý fiyatý ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+759;606 numaralý otobüsün dereaðzý fiyatý nedir?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+760;606 dereaðzý ücret ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+761;606 numara dereaðzý ücreti ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+762;606 numara dereaðzý ücreti nedir?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+763;606 numaralý otobüsün dereaðzý ücreti ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+764;606 numaralý otobüsün dereaðzý ücreti nedir?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+765;Adü- dereaðzý arasý ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+766;Adü- dereaðzý arasý fiyat nedir?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+767;Adü- dereaðzý arasý ücret nedir?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+768;Adü- dereaðzý arasý otobüs ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+769;Adü- dereaðzý arasý otobüs ücreti ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+770;Adü- dereaðzý arasý otobüs ücreti nedir?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+771;Adü- dereaðzý arasý otobüs fiyatý ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+772;Adü- dereaðzý arasý otobüs fiyatý nedir?;Adü ile Dereaðzý arasý tam ücret 4 lira, indirimli ücret 2.65 liradýr.
+773;Adü- dereaðzý arasý tam ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 liradýr.
+774;Adü- dereaðzý arasý tam ücreti ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 liradýr.
+775;Adü- dereaðzý arasý tam ücreti nedir?;Adü ile Dereaðzý arasý tam ücret 4 liradýr.
+776;Adü- dereaðzý arasý tam fiyatý ne kadar?;Adü ile Dereaðzý arasý tam ücret 4 liradýr.
+777;Adü- dereaðzý arasý tam fiyatý nedir?;Adü ile Dereaðzý arasý tam ücret 4 liradýr.
+778;Adü- dereaðzý arasý indirimli ne kadar?;Adü ile Dereaðzý arasý indirimli ücret 2.65 liradýr.
+779;Adü- dereaðzý arasý indirimli ücreti ne kadar?;Adü ile Dereaðzý arasý indirimli ücret 2.65 liradýr.
+780;Adü- dereaðzý arasý indirimli ücreti nedir?;Adü ile Dereaðzý arasý indirimli ücret 2.65 liradýr.
+781;Adü- dereaðzý arasý indirimli fiyatý ne kadar?;Adü ile Dereaðzý arasý indirimli ücret 2.65 liradýr.
+782;Adü- dereaðzý arasý indirimli fiyatý nedir?;Adü ile Dereaðzý arasý indirimli ücret 2.65 liradýr.
+783;Adü- dereaðzý arasý engelli ne kadar?;Adü ile Dereaðzý arasý engelli ücreti 2.65 liradýr.
+784;Adü- dereaðzý arasý engelli ücreti ne kadar?;Adü ile Dereaðzý arasý engelli ücreti 2.65 liradýr.
+785;Adü- dereaðzý arasý engelli ücreti nedir?;Adü ile Dereaðzý arasý engelli ücreti 2.65 liradýr.
+786;Adü- dereaðzý arasý engelli fiyatý ne kadar?;Adü ile Dereaðzý arasý engelli ücreti 2.65 liradýr.
+787;Adü- dereaðzý arasý engelli fiyatý nedir?;Adü ile Dereaðzý arasý engelli ücreti 2.65 liradýr.
+788;Adü- dereaðzý arasý öðrenci ne kadar?;Adü ile Dereaðzý arasý öðrenci ücreti 2.65 liradýr.
+789;Adü- dereaðzý arasý öðrenci ücreti ne kadar?;Adü ile Dereaðzý arasý öðrenci ücreti 2.65 liradýr.
+790;Adü- dereaðzý arasý öðrenci ücreti nedir?;Adü ile Dereaðzý arasý öðrenci ücreti 2.65 liradýr.
+791;Adü- dereaðzý arasý öðrenci fiyat ne kadar?;Adü ile Dereaðzý arasý öðrenci ücreti 2.65 liradýr.
+792;Adü- dereaðzý arasý öðrenci fiyatý nedir?;Adü ile Dereaðzý arasý öðrenci ücreti 2.65 liradýr.
+793;607 germencik e ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+794;607 numara germencik e ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+795;607 numaralý otobüs germencik e ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+796;607 germencik e fiyat ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+797;607 numara germencik fiyat ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+798;607 numara germencik fiyatý nedir?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+799;607 numaralý otobüsün germencik fiyatý ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+800;607 numaralý otobüsün germencik fiyatý nedir?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+801;607 germencik ücret ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+802;607 numara germencik ücreti ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+803;607 numara germencik ücreti nedir?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+804;607 numaralý otobüsün germencik ücreti ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+805;607 numaralý otobüsün germencik ücreti nedir?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+806;Adü- germencik arasý ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+807;Adü- germencik arasý fiyat nedir?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+808;Adü- germencik arasý ücret nedir?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+809;Adü- germencik arasý otobüs ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+810;Adü- germencik arasý otobüs ücreti ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+811;Adü- germencik arasý otobüs ücreti nedir?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+812;Adü- germencik arasý otobüs fiyatý ne kadar?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+813;Adü- germencik arasý otobüs fiyatý nedir?;Adü ile Germencik arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+814;Adü- germencik arasý tam ne kadar?;Adü ile Germencik arasý tam ücret 5.5 liradýr.
+815;Adü- germencik arasý tam ücreti ne kadar?;Adü ile Germencik arasý tam ücret 5.5 liradýr.
+816;Adü- germencik arasý tam ücreti nedir?;Adü ile Germencik arasý tam ücret 5.5 liradýr.
+817;Adü- germencik arasý tam fiyatý ne kadar?;Adü ile Germencik arasý tam ücret 5.5 liradýr.
+818;Adü- germencik arasý tam fiyatý nedir?;Adü ile Germencik arasý tam ücret 5.5 liradýr.
+819;Adü- germencik arasý indirimli ne kadar?;Adü ile Germencik arasý indirimli ücret 4 liradýr.
+820;Adü- germencik arasý indirimli ücreti ne kadar?;Adü ile Germencik arasý indirimli ücret 4 liradýr.
+821;Adü- germencik arasý indirimli ücreti nedir?;Adü ile Germencik arasý indirimli ücret 4 liradýr.
+822;Adü- germencik arasý indirimli fiyatý ne kadar?;Adü ile Germencik arasý indirimli ücret 4 liradýr.
+823;Adü- germencik arasý indirimli fiyatý nedir?;Adü ile Germencik arasý indirimli ücret 4 liradýr.
+824;Adü- germencik arasý engelli ne kadar?;Adü ile Germencik arasý engelli ücreti 4 liradýr.
+825;Adü- germencik arasý engelli ücreti ne kadar?;Adü ile Germencik arasý engelli ücreti 4 liradýr.
+826;Adü- germencik arasý engelli ücreti nedir?;Adü ile Germencik arasý engelli ücreti 4 liradýr.
+827;Adü- germencik arasý engelli fiyatý ne kadar?;Adü ile Germencik arasý engelli ücreti 4 liradýr.
+828;Adü- germencik arasý engelli fiyatý nedir?;Adü ile Germencik arasý engelli ücreti 4 liradýr.
+829;Adü- germencik arasý öðrenci ne kadar?;Adü ile Germencik arasý öðrenci ücreti 4 liradýr.
+830;Adü- germencik arasý öðrenci ücreti ne kadar?;Adü ile Germencik arasý öðrenci ücreti 4 liradýr.
+831;Adü- germencik arasý öðrenci ücreti nedir?;Adü ile Germencik arasý öðrenci ücreti 4 liradýr.
+832;Adü- germencik arasý öðrenci fiyat ne kadar?;Adü ile Germencik arasý öðrenci ücreti 4 liradýr.
+833;Adü- germencik arasý öðrenci fiyatý nedir?;Adü ile Germencik arasý öðrenci ücreti 4 liradýr.
+834;607 hýdýrbeyli ye ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+835;607 numara hýdýrbeyli ye ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+836;607 numaralý otobüs hýdýrbeyli ye ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+837;607 hýdýrbeyli ye fiyat ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+838;607 numara hýdýrbeyli fiyat ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+839;607 numara hýdýrbeyli fiyatý nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+840;607 numaralý otobüsün hýdýrbeyli fiyatý ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+841;607 numaralý otobüsün hýdýrbeyli fiyatý nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+842;607 hýdýrbeyli ücret ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+843;607 numara hýdýrbeyli ücreti ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+844;607 numara hýdýrbeyli ücreti nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+845;607 numaralý otobüsün hýdýrbeyli ücreti ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+846;607 numaralý otobüsün hýdýrbeyli ücreti nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+847;Adü- hýdýrbeyli arasý ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+848;Adü- hýdýrbeyli arasý fiyat nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+849;Adü- hýdýrbeyli arasý ücret nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+850;Adü- hýdýrbeyli arasý otobüs ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+851;Adü- hýdýrbeyli arasý otobüs ücreti ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+852;Adü- hýdýrbeyli arasý otobüs ücreti nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+853;Adü- hýdýrbeyli arasý otobüs fiyatý ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+854;Adü- hýdýrbeyli arasý otobüs fiyatý nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 lira, indirimli ücret 4 liradýr.
+855;Adü- hýdýrbeyli arasý tam ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 liradýr.
+856;Adü- hýdýrbeyli arasý tam ücreti ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 liradýr.
+857;Adü- hýdýrbeyli arasý tam ücreti nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 liradýr.
+858;Adü- hýdýrbeyli arasý tam fiyatý ne kadar?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 liradýr.
+859;Adü- hýdýrbeyli arasý tam fiyatý nedir?;Adü ile Hýdýrbeyli arasý tam ücret 5.5 liradýr.
+860;Adü- hýdýrbeyli arasý indirimli ne kadar?;Adü ile Hýdýrbeyli arasý indirimli ücret 4 liradýr.
+861;Adü- hýdýrbeyli arasý indirimli ücreti ne kadar?;Adü ile Hýdýrbeyli arasý indirimli ücret 4 liradýr.
+862;Adü- hýdýrbeyli arasý indirimli ücreti nedir?;Adü ile Hýdýrbeyli arasý indirimli ücret 4 liradýr.
+863;Adü- hýdýrbeyli arasý indirimli fiyatý ne kadar?;Adü ile Hýdýrbeyli arasý indirimli ücret 4 liradýr.
+864;Adü- hýdýrbeyli arasý indirimli fiyatý nedir?;Adü ile Hýdýrbeyli arasý indirimli ücret 4 liradýr.
+865;Adü- hýdýrbeyli arasý engelli ne kadar?;Adü ile Hýdýrbeyli arasý engelli ücreti 4 liradýr.
+866;Adü- hýdýrbeyli arasý engelli ücreti ne kadar?;Adü ile Hýdýrbeyli arasý engelli ücreti 4 liradýr.
+867;Adü- hýdýrbeyli arasý engelli ücreti nedir?;Adü ile Hýdýrbeyli arasý engelli ücreti 4 liradýr.
+868;Adü- hýdýrbeyli arasý engelli fiyatý ne kadar?;Adü ile Hýdýrbeyli arasý engelli ücreti 4 liradýr.
+869;Adü- hýdýrbeyli arasý engelli fiyatý nedir?;Adü ile Hýdýrbeyli arasý engelli ücreti 4 liradýr.
+870;Adü- hýdýrbeyli arasý öðrenci ne kadar?;Adü ile Hýdýrbeyli arasý öðrenci ücreti 4 liradýr.
+871;Adü- hýdýrbeyli arasý öðrenci ücreti ne kadar?;Adü ile Hýdýrbeyli arasý öðrenci ücreti 4 liradýr.
+872;Adü- hýdýrbeyli arasý öðrenci ücreti nedir?;Adü ile Hýdýrbeyli arasý öðrenci ücreti 4 liradýr.
+873;Adü- hýdýrbeyli arasý öðrenci fiyat ne kadar?;Adü ile Hýdýrbeyli arasý öðrenci ücreti 4 liradýr.
+874;Adü- hýdýrbeyli arasý öðrenci fiyatý nedir?;Adü ile Hýdýrbeyli arasý öðrenci ücreti 4 liradýr.
+875;Adü'den Otogar'a giden birinci sefer saat kaçta?;Adü'den Otogar'a giden birinci seferimiz saat 06.15'te kalkmaktadýr.
+876;Adü'den Otogar'a giden ilk sefer saat kaçta?;Adü'den Otogar'a giden ilk seferimiz saat 06.15'te kalkmaktadýr.
+877;Forum Aydýn'dan Otogar'a giden birinci sefer saat kaçta?;Forum Aydýn'dan Otogar'a giden birinci seferimiz saat 06.25'te kalkmaktadýr.
+878;Forum Aydýn'dan Otogar'a giden ilk sefer saat kaçta?;Forum Aydýn'dan Otogar'a giden ilk seferimiz saat 06.25'te kalkmaktadýr.
+879;Zafer Meydaný'ndan Otogar'a giden birinci sefer saat kaçta?;Zafer Meydaný'ndan Otogar'a giden birinci seferimiz saat 06.40'ta kalkmaktadýr.
+880;Zafer Meydaný'ndan Otogar'a giden ilk sefer saat kaçta?;Zafer Meydaný'ndan Otogar'a giden ilk seferimiz saat 06.40'ta kalkmaktadýr.
+881;Tren Garý'ndan Otogar'a giden birinci sefer saat kaçta?;Tren Garý'ndan Otogar'a giden birinci seferimiz saat 06.45'te kalkmaktadýr.
+882;Tren Garý'ndan Otogar'a giden ilk sefer saat kaçta?;Tren Garý'ndan Otogar'a giden ilk seferimiz saat 06.45'te kalkmaktadýr.
+883;Otogar'dan Adü'ye giden birinci sefer saat kaçta?;Otogar'dan Adü'ye giden birinci seferimiz saat 06.15'te kalkmaktadýr.
+884;Otogar'dan Adü'ye giden ilk sefer saat kaçta?;Otogar'dan Adü'ye giden ilk seferimiz saat 06.15'te kalkmaktadýr.
+885;Tren Garý'ndan Adü'ye giden birinci sefer saat kaçta?;Tren Garý'ndan Adü'ye giden birinci seferimiz saat 06.35'te kalkmaktadýr.
+886;Tren Garý'ndan Adü'ye giden ilk sefer saat kaçta?;Tren Garý'ndan Adü'ye giden ilk seferimiz saat 06.35'te kalkmaktadýr.
+887;Zafer Meydaný'ndan Adü'ye giden birinci sefer saat kaçta?;Zafer Meydaný'ndan Adü'ye giden birinci seferimiz saat 06.40'ta kalkmaktadýr.
+888;Zafer Meydaný'ndan Adü'ye giden ilk sefer saat kaçta?;Zafer Meydaný'ndan Adü'ye giden ilk seferimiz saat 06.40'ta kalkmaktadýr.
+889;Forum Aydýn'dan Adü'ye giden birinci sefer saat kaçta?;Forum Aydýn'dan Adü'ye giden birinci seferimiz saat 06.55'te kalkmaktadýr.
+890;Forum Aydýn'dan Adü'ye giden ilk sefer saat kaçta?;Forum Aydýn'dan Adü'ye giden ilk seferimiz saat 06.55'te kalkmaktadýr.
+891;Karpuzlu'dan Kuþadasý'na giden birinci sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden birinci seferimiz saat 06.00'da kalkmaktadýr.
+892;Karpuzlu'dan Kuþadasý'na giden ilk sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden ilk seferimiz saat 06.00'da kalkmaktadýr.
+893;Koçarlý'dan Kuþadasý'na giden birinci sefer saat kaçta?;Koçarlý'dan Kuþadasý'na giden birinci seferimiz saat 06.35'te kalkmaktadýr.
+894;Koçarlý'dan Kuþadasý'na giden ilk sefer saat kaçta?;Koçarlý'dan Kuþadasý'na giden ilk seferimiz saat 06.35'te kalkmaktadýr.
+895;Ýncirliova'dan Kuþadasý'na giden birinci sefer saat kaçta?;Ýncirliova'dan Kuþadasý'na giden birinci seferimiz saat 07.25'te kalkmaktadýr.
+896;Ýncirliova'dan Kuþadasý'na giden ilk sefer saat kaçta?;Ýncirliova'dan Kuþadasý'na giden ilk seferimiz saat 07.25'te kalkmaktadýr.
+897;Söke'den Kuþadasý'na giden birinci sefer saat kaçta?;Söke'den Kuþadasý'na giden birinci seferimiz saat 07.55'te kalkmaktadýr.
+898;Söke'den Kuþadasý'na giden ilk sefer saat kaçta?;Söke'den Kuþadasý'na giden ilk seferimiz saat 07.55'te kalkmaktadýr.
+899;Kuþadasý'ndan Karpuzlu'ya giden birinci sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden birinci seferimiz saat 07.00'de kalkmaktadýr.
+900;Kuþadasýn'dan Karpuzlu'ya giden ilk sefer saat kaçta?;Kuþadasý'ndan Kuþadasý'na giden ilk seferimiz saat 07.00'de kalkmaktadýr.
+901;Söke'den Karpuzlu'ya giden birinci sefer saat kaçta?;Söke'den Karpuzlu'ya giden birinci seferimiz saat 07.45'te kalkmaktadýr.
+902;Söke'den Karpuzlu'ya giden ilk sefer saat kaçta?;Söke'den Karpuzlu'ya giden ilk seferimiz saat 07.45'te kalkmaktadýr.
+903;Ýncirliova'dan Karpuzlu'ya giden birinci sefer saat kaçta?;Ýncirliova'dan Karpuzlu'ya giden birinci seferimiz saat 08.15'te kalkmaktadýr.
+904;Ýncirliova'dan Karpuzlu'ya giden ilk sefer saat kaçta?;Ýncirliova'dan Karpuzlu'ya giden ilk seferimiz saat 08.15'te kalkmaktadýr.
+905;Koçarlý'dan Karpuzlu'ya giden birinci sefer saat kaçta?;Koçarlý'dan Karpuzlu'ya giden birinci seferimiz saat 09.05'te kalkmaktadýr.
+906;Koçarlý'dan Karpuzlu'ya giden ilk sefer saat kaçta?;Koçarlý'dan Karpuzlu'ya giden ilk seferimiz saat 09.05'te kalkmaktadýr.
+907;Köþk'ten Çine'ye giden birinci sefer saat kaçta?;Köþk'ten Çine'ye giden birinci seferimiz saat 07.30'da kalkmaktadýr.
+908;Köþk'ten Çine'ye giden ilk sefer saat kaçta?;Köþk'ten Çine'ye giden ilk seferimiz saat 07.30'da kalkmaktadýr.
+909;Germencik'ten Çine'ye giden birinci sefer saat kaçta?;Germencik'ten Çine'ye giden birinci seferimiz saat 08.00'de kalkmaktadýr.
+910;Germencik'ten Çine'ye giden ilk sefer saat kaçta?;Germencik'ten Çine'ye giden ilk seferimiz saat 08.00'de kalkmaktadýr.
+911;Efeler'den Çine'ye giden birinci sefer saat kaçta?;Efeler'den Çine'ye giden birinci seferimiz saat 08.25'te kalkmaktadýr.
+912;Efeler'den Çine'ye giden ilk sefer saat kaçta?;Efeler'den Çine'ye giden ilk seferimiz saat 08.25'te kalkmaktadýr.
+913;Bozdoðan'dan Çine'ye giden birinci sefer saat kaçta?;Bozdoðan'dan Çine'ye giden birinci seferimiz saat 08.45'te kalkmaktadýr.
+914;Bozdoðan'dan Çine'ye giden ilk sefer saat kaçta?;Bozdoðan'dan Çine'ye giden ilk seferimiz saat 08.45'te kalkmaktadýr.
+915;Çine'den Köþk'e giden birinci sefer saat kaçta?;Çine'den Köþk'e giden birinci seferimiz saat 08.30'da kalkmaktadýr.
+916;Çine'den Köþk'e giden ilk sefer saat kaçta?;Çine'den Köþk'e giden ilk seferimiz saat 08.30'da kalkmaktadýr.
+917;Bozdoðan'dan Köþk'e giden birinci sefer saat kaçta?;Bozdoðan'dan Köþk'e giden birinci seferimiz saat 08.50'de kalkmaktadýr.
+918;Bozdoðan'dan Köþk'e giden ilk sefer saat kaçta?;Bozdoðan'dan Köþk'e giden ilk seferimiz saat 08.50'de kalkmaktadýr.
+919;Efeler'den Köþk'e giden birinci sefer saat kaçta?;Efeler'den Köþk'e giden birinci seferimiz saat 09.10'da kalkmaktadýr.
+920;Efeler'den Köþk'e giden ilk sefer saat kaçta?;Efeler'den Köþk'e giden ilk seferimiz saat 09.10'da kalkmaktadýr.
+921;Germencik'ten Köþk'e giden birinci sefer saat kaçta?;Germencik'ten Köþk'e giden birinci seferimiz saat 09.35'te kalkmaktadýr.
+922;Germencik'ten Köþk'e giden ilk sefer saat kaçta?;Germencik'ten Köþk'e giden ilk seferimiz saat 09.35'te kalkmaktadýr.
+923;Yeni Pazar'dan Karacasu'ya giden birinci sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden birinci seferimiz saat 07.20'de kalkmaktadýr.
+924;Yeni Pazar'dan Karacasu'ya giden ilk sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden ilk seferimiz saat 07.20'de kalkmaktadýr.
+925;Nazilli'den Karacasu'ya giden birinci sefer saat kaçta?;Nazilli'den Karacasu'ya giden birinci seferimiz saat 07.40'ta kalkmaktadýr.
+926;Nazilli'den Karacasu'ya giden ilk sefer saat kaçta?;Nazilli'den Karacasu'ya giden ilk seferimiz saat 07.40'ta kalkmaktadýr.
+927;Sultan Hisar'dan Karacasu'ya giden birinci sefer saat kaçta?;Sultan Hisar'dan Karacasu'ya giden birinci seferimiz saat 08.25'te kalkmaktadýr.
+928;Sultan Hisar'dan Karacasu'ya giden ilk sefer saat kaçta?;Sultan Hisar'dan Karacasu'ya giden ilk seferimiz saat 08.25'te kalkmaktadýr.
+929;Kuyucak'tan Karacasu'ya giden birinci sefer saat kaçta?;Kuyucak'tan Karacasu'ya giden birinci seferimiz saat 08.40'ta kalkmaktadýr.
+930;Kuyucak'tan Karacasu'ya giden ilk sefer saat kaçta?;Kuyucak'tan Karacasu'ya giden ilk seferimiz saat 08.40'ta kalkmaktadýr.
+931;Karacasu'dan Yeni Pazar'a giden birinci sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden birinci seferimiz saat 07.20'de kalkmaktadýr.
+932;Karacasu'dan Yeni Pazar'a giden ilk sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden ilk seferimiz saat 07.20'de kalkmaktadýr.
+933;Kuyucak'tan Yeni Pazar'a giden birinci sefer saat kaçta?;Kuyucak'tan Yeni Pazar'a giden birinci seferimiz saat 07.30'da kalkmaktadýr.
+934;Kuyucak'tan Yeni Pazar'a giden ilk sefer saat kaçta?;Kuyucak'tan Yeni Pazar'a giden ilk seferimiz saat 07.30'da kalkmaktadýr.
+935;Sultan Hisar'dan Yeni Pazar'a giden birinci sefer saat kaçta?;Sultan Hisar'dan Yeni Pazar'a giden birinci seferimiz saat 07.45'te kalkmaktadýr.
+936;Sultan Hisar'dan Yeni Pazar'a giden ilk sefer saat kaçta?;Sultan Hisar'dan Yeni Pazar'a giden ilk seferimiz saat 07.45'te kalkmaktadýr.
+937;Nazilli'den Yeni Pazar'a giden birinci sefer saat kaçta?;Nazilli'den Yeni Pazar'a giden birinci seferimiz saat 08.30'da kalkmaktadýr.
+938;Nazilli'den Yeni Pazar'a giden ilk sefer saat kaçta?;Nazilli'den Yeni Pazar'a giden ilk seferimiz saat 08.30'da kalkmaktadýr.
+939;Otogar'dan kalkan ilk sefer saat kaçta?;Otogar'dan kalkan ilk seferimiz saat 07.05'te kalkmaktadýr.
+940;Otogar'dan kalkan birinci sefer saat kaçta?;Otogar'dan kalkan ilk seferimiz saat 07.05'te kalkmaktadýr.
+941;Adü'den kalkan ilk sefer saat kaçta?;Adü'den kalkan ilk seferimiz saat 07.05'te kalkmaktadýr.
+942;Adü'den kalkan birinci sefer saat kaçta?;Adü'den kalkan ilk seferimiz saat 07.05'te kalkmaktadýr.
+943;Kuþadasý'ndan kalkan ilk sefer saat kaçta?;Kuþadasý'ndan kalkan ilk seferimiz saat 07.35'te kalkmaktadýr.
+944;Kuþadasý'ndan kalkan birinci sefer saat kaçta?;Kuþadasý'ndan kalkan ilk seferimiz saat 07.35'te kalkmaktadýr.
+945;Karpuzlu'dan kalkan ilk sefer saat kaçta?;Karpuzlu'dan kalkan ilk seferimiz saat 09.40'ta kalkmaktadýr.
+946;Karpuzlu'dan kalkan birinci sefer saat kaçta?;Karpuzlu'dan kalkan ilk seferimiz saat 09.40'ta kalkmaktadýr.
+947;Çine'den kalkan ilk sefer saat kaçta?;Çine'den kalkan ilk seferimiz saat 09.05'te kalkmaktadýr.
+948;Çine'den kalkan birinci sefer saat kaçta?;Çine'den kalkan ilk seferimiz saat 09.05'te kalkmaktadýr.
+949;Köþk'ten kalkan ilk sefer saat kaçta?;Köþk'ten kalkan ilk seferimiz saat 10.35'te kalkmaktadýr.
+950;Köþk'ten kalkan birinci sefer saat kaçta?;Köþk'ten kalkan ilk seferimiz saat 10.35'te kalkmaktadýr.
+951;Karacasu'dan kalkan ilk sefer saat kaçta?;Karacasu'dan kalkan ilk seferimiz saat 08.50'de kalkmaktadýr.
+952;Karacasu'dan kalkan birinci sefer saat kaçta?;Karacasu'dan kalkan ilk seferimiz saat 08.50'de kalkmaktadýr.
+953;Yeni Pazar'dan kalkan ilk sefer saat kaçta?;Yeni Pazar'dan kalkan ilk seferimiz saat 08.50'de kalkmaktadýr.
+954;Yeni Pazar'dan kalkan birinci sefer saat kaçta?;Yeni Pazar'dan kalkan ilk seferimiz saat 08.50'de kalkmaktadýr.
+955;Adü'den Otogar'a giden yedinci sefer saat kaçta?;Adü'den Otogar'a giden yedinci seferimiz saat 18.30'da kalkmaktadýr.
+956;Adü'den Otogar'a giden son sefer saat kaçta?;Adü'den Otogar'a giden son seferimiz saat 18.30'da kalkmaktadýr.
+957;Forum Aydýn'dan Otogar'a giden yedinci sefer saat kaçta?;Forum Aydýn'dan Otogar'a giden yedinci seferimiz saat 18.40'ta kalkmaktadýr.
+958;Forum Aydýn'dan Otogar'a giden son sefer saat kaçta?;Forum Aydýn'dan Otogar'a giden son seferimiz saat 18.40'ta kalkmaktadýr.
+959;Zafer Meydaný'ndan Otogar'a giden yedinci sefer saat kaçta?;Zafer Meydanýn'dan Otogar'a giden yedinci seferimiz saat 18.55'te kalkmaktadýr.
+960;Zafer Meydaný'ndan Otogar'a giden son sefer saat kaçta?;Zafer Meydanýn'dan Otogar'a giden son seferimiz saat 18.55'te kalkmaktadýr.
+961;Tren Garýn'dan Otogar'a giden yedinci sefer saat kaçta?;Tren Garý'ndan Otogar'a giden yedinci seferimiz saat 19.00'ta kalkmaktadýr.
+962;Tren Garýn'dan Otogar'a giden son sefer saat kaçta?;Tren Garý'ndan Otogar'a giden son seferimiz saat 19.00'ta kalkmaktadýr.
+963;Otogar'dan Adü'ye giden yedinci sefer saat kaçta?;Otogar'dan Adü'ye giden yedinci seferimiz saat 19.20'de kalkmaktadýr.
+964;Otogar'dan Adü'ye giden son sefer saat kaçta?;Otogar'dan Adü'ye giden son seferimiz saat 19.20'de kalkmaktadýr.
+965;Tren Garý'ndan Adü'ye giden yedinci sefer saat kaçta?;Tren Garý'ndan Adü'ye giden yedinci seferimiz saat 18.50'de kalkmaktadýr.
+966;Tren Garý'ndan Adü'ye giden son sefer saat kaçta?;Tren Garý'ndan Adü'ye giden son seferimiz saat 18.50'de kalkmaktadýr.
+967;Zafer Meydaný'ndan Adü'ye giden yedinci sefer saat kaçta?;Zafer Meydaný'ndan Adü'ye giden yedinci seferimiz saat 18.55'te kalkmaktadýr.
+968;Zafer Meydaný'ndan Adü'ye giden son sefer saat kaçta?;Zafer Meydaný'ndan Adü'ye giden son seferimiz saat 18.55'te kalkmaktadýr.
+969;Forum Aydýn'dan Adü'ye giden yedinci sefer saat kaçta?;Forum Aydýn'dan Adü'ye giden yedinci seferimiz saat 19.10'da kalkmaktadýr.
+970;Forum Aydýn'dan Adü'ye giden son sefer saat kaçta?;Forum Aydýn'dan Adü'ye giden son seferimiz saat 19.10'da kalkmaktadýr.
+971;Karpuzlu'dan Kuþadasý'na giden yedinci sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden yedinci seferimiz saat 18.15'te kalkmaktadýr.
+972;Karpuzlu'dan Kuþadasý'na giden son sefer saat kaçta?;Karpuzlu'dan Kuþadasý'na giden son seferimiz saat 18.15'te kalkmaktadýr.
+973;Koçarlý'dan Kuþadasý'na giden yedinci sefer saat kaçta?;Koçarlý'dan Kuþadasý'na giden yedinci seferimiz saat 18.50'de kalkmaktadýr.
+974;Koçarlý'dan Kuþadasý'na giden son sefer saat kaçta?;Koçarlý'dan Kuþadasý'na giden son seferimiz saat 18.50'de kalkmaktadýr.
+975;Ýncirliova'dan Kuþadasý'na giden yedinci sefer saat kaçta?;Ýncirliova'dan Kuþadasý'na giden yedinci seferimiz saat 19.40'ta kalkmaktadýr.
+976;Ýncirliova'dan Kuþadasý'na giden son sefer saat kaçta?;Ýncirliova'dan Kuþadasý'na giden son seferimiz saat 19.40'ta kalkmaktadýr.
+977;Söke'den Kuþadasý'na giden yedinci sefer saat kaçta?;Söke'den Kuþadasý'na giden yedinci seferimiz saat 20.10'da kalkmaktadýr.
+978;Söke'den Kuþadasý'na giden son sefer saat kaçta?;Söke'den Kuþadasý'na giden son seferimiz saat 20.10'da kalkmaktadýr.
+979;Kuþadasý'ndan Karpuzlu'ya giden yedinci sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden yedinci seferimiz saat 19.15'te kalkmaktadýr.
+980;Kuþadasý'ndan Karpuzlu'ya giden son sefer saat kaçta?;Kuþadasý'ndan Karpuzlu'ya giden son seferimiz saat 19.15'te kalkmaktadýr.
+981;Söke'den Karpuzlu'ya giden yedinci sefer saat kaçta?;Söke'den Karpuzlu'ya giden yedinci seferimiz saat 19.55'te kalkmaktadýr.
+982;Söke'den Karpuzlu'ya giden son sefer saat kaçta?;Söke'den Karpuzlu'ya giden son seferimiz saat 19.55'te kalkmaktadýr.
+983;Ýncirliova'dan Karpuzlu'ya giden yedinci sefer saat kaçta?;Ýncirliova'dan Karpuzlu'ya giden yedinci seferimiz saat 20.20'de kalkmaktadýr.
+984;Ýncirliova'dan Karpuzlu'ya giden son sefer saat kaçta?;Ýncirliova'dan Karpuzlu'ya giden son seferimiz saat 20.20'de kalkmaktadýr.
+985;Koçarlý'dan Karpuzlu'ya giden yedinci sefer saat kaçta?;Koçarlý'dan Karpuzlu'ya giden yedinci seferimiz saat 21.10'da kalkmaktadýr.
+986;Koçarlý'dan Karpuzlu'ya giden son sefer saat kaçta?;Koçarlý'dan Karpuzlu'ya giden son seferimiz saat 21.10'da kalkmaktadýr.
+987;Köþk'ten Çine'ye giden yedinci sefer saat kaçta?;Köþk'ten Çine'ye giden yedinci seferimiz saat 19.45'te kalkmaktadýr.
+988;Köþk'ten Çine'ye giden son sefer saat kaçta?;Köþk'ten Çine'ye giden son seferimiz saat 19.45'te kalkmaktadýr.
+989;Germencik'ten Çine'ye giden yedinci sefer saat kaçta?;Germencik'ten Çine'ye giden yedinci seferimiz saat 20.25'te kalkmaktadýr.
+990;Germencik'ten Çine'ye giden son sefer saat kaçta?;Germencik'ten Çine'ye giden son seferimiz saat 20.25'te kalkmaktadýr.
+991;Efeler'den Çine'ye giden yedinci sefer saat kaçta?;Efeler'den Çine'ye giden yedinci seferimiz saat 20.45'te kalkmaktadýr.
+992;Efeler'den Çine'ye giden son sefer saat kaçta?;Efeler'den Çine'ye giden son seferimiz saat 20.45'te kalkmaktadýr.
+993;Bozdoðan'dan Çine'ye giden yedinci sefer saat kaçta?;Bozdoðan'dan Çine'ye giden yedinci seferimiz saat 21.05'te kalkmaktadýr.
+994;Bozdoðan'dan Çine'ye giden son sefer saat kaçta?;Bozdoðan'dan Çine'ye giden son seferimiz saat 21.05'te kalkmaktadýr.
+995;Çine'den Köþk'e giden yedinci sefer saat kaçta?;Çine'den Köþk'e giden yedinci seferimiz saat 20.45'te kalkmaktadýr.
+996;Çine'den Köþk'e giden son sefer saat kaçta?;Çine'den Köþk'e giden son seferimiz saat 20.45'te kalkmaktadýr.
+997;Bozdoðan'dan Köþk'e giden yedinci sefer saat kaçta?;Bozdoðan'dan Köþk'e giden yedinci seferimiz saat 21.05'te kalkmaktadýr.
+998;Bozdoðan'dan Köþk'e giden son sefer saat kaçta?;Bozdoðan'dan Köþk'e giden son seferimiz saat 21.05'te kalkmaktadýr.
+999;Efeler'den Köþk'e giden yedinci sefer saat kaçta?;Efeler'den Köþk'e giden yedinci seferimiz saat 21.25'te kalkmaktadýr.
+1000;Efeler'den Köþk'e giden son sefer saat kaçta?;Efeler'den Köþk'e giden son seferimiz saat 21.25'te kalkmaktadýr.
+1001;Germencik'ten Köþk'e giden yedinci sefer saat kaçta?;Germencik'ten Köþk'e giden yedinci seferimiz saat 21.50'de kalkmaktadýr.
+1002;Germencik'ten Köþk'e giden son sefer saat kaçta?;Germencik'ten Köþk'e giden son seferimiz saat 21.50'de kalkmaktadýr.
+1003;Yeni Pazar'dan Karacasu'ya giden yedinci sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden yedinci seferimiz saat 18.20'de kalkmaktadýr.
+1004;Yeni Pazar'dan Karacasu'ya giden son sefer saat kaçta?;Yeni Pazar'dan Karacasu'ya giden son seferimiz saat 18.20'de kalkmaktadýr.
+1005;Nazilli'den Karacasu'ya giden yedinci sefer saat kaçta?;Nazilli'den Karacasu'ya giden yedinci seferimiz saat 18.40'ta kalkmaktadýr.
+1006;Nazilli'den Karacasu'ya giden son sefer saat kaçta?;Nazilli'den Karacasu'ya giden son seferimiz saat 18.40'ta kalkmaktadýr.
+1007;Sultan Hisar'dan Karacasu'ya giden yedinci sefer saat kaçta?;Sultan Hisar'dan Karacasu'ya giden yedinci seferimiz saat 19.25'te kalkmaktadýr.
+1008;Sultan Hisar'dan Karacasu'ya giden son sefer saat kaçta?;Sultan Hisar'dan Karacasu'ya giden son seferimiz saat 19.25'te kalkmaktadýr.
+1009;Kuyucak'tan Karacasu'ya giden yedinci sefer saat kaçta?;Kuyucak'tan Karacasu'ya giden yedinci seferimiz saat 19.40'ta kalkmaktadýr.
+1010;Kuyucak'tan Karacasu'ya giden son sefer saat kaçta?;Kuyucak'tan Karacasu'ya giden son seferimiz saat 19.40'ta kalkmaktadýr.
+1011;Karacasu'dan Yeni Pazar'a giden yedinci sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden yedinci seferimiz saat 18.20'de kalkmaktadýr.
+1012;Karacasu'dan Yeni Pazar'a giden son sefer saat kaçta?;Karacasu'dan Yeni Pazar'a giden son seferimiz saat 18.20'de kalkmaktadýr.
+1013;Kuyucak'tan Yeni Pazar'a giden yedinci sefer saat kaçta?;Kuyucak'tan Yeni Pazar'a giden yedinci seferimiz saat 18.30'da kalkmaktadýr.
+1014;Kuyucak'tan Yeni Pazar'a giden son sefer saat kaçta?;Kuyucak'tan Yeni Pazar'a giden son seferimiz saat 18.30'da kalkmaktadýr.
+1015;Sultan Hisar'dan Yeni Pazar'a giden yedinci sefer saat kaçta?;Sultan Hisar'dan Yeni Pazar'a giden yedinci seferimiz saat 18.45'te kalkmaktadýr.
+1016;Sultan Hisar'dan Yeni Pazar'a giden son sefer saat kaçta?;Sultan Hisar'dan Yeni Pazar'a giden son seferimiz saat 18.45'te kalkmaktadýr.
+1017;Nazilli'den Yeni Pazar'a giden yedinci sefer saat kaçta?;Nazilli'den Yeni Pazar'a giden yedinci seferimiz saat 19.30'da kalkmaktadýr.
+1018;Nazilli'den Yeni Pazar'a giden son sefer saat kaçta?;Nazilli'den Yeni Pazar'a giden son seferimiz saat 19.30'da kalkmaktadýr.
+1019;Otogar'dan kalkan yedinci sefer saat kaçta?;Otogar'dan kalkan son seferimiz saat 19.20'de kalkmaktadýr.
+1020;Otogar'dan kalkan son sefer saat kaçta?;Otogar'dan kalkan son seferimiz saat 19.20'de kalkmaktadýr.
+1021;Adü'den kalkan yedinci sefer saat kaçta?;Adü'den kalkan son seferimiz saat 19.20'de kalkmaktadýr.
+1022;Adü'den kalkan son sefer saat kaçta?;Adü'den kalkan son seferimiz saat 19.20'de kalkmaktadýr.
+1023;Kuþadasý'ndan kalkan yedinci sefer saat kaçta?;Kuþadasý'ndan kalkan son seferimiz saat 19.50'de kalkmaktadýr.
+1024;Kuþadasý'ndan kalkan son sefer saat kaçta?;Kuþadasý'ndan kalkan son seferimiz saat 19.50'de kalkmaktadýr.
+1025;Karpuzlu'dan kalkan yedinci sefer saat kaçta?;Karpuzlu'dan kalkan son seferimiz saat 21.45'te kalkmaktadýr.
+1026;Karpuzlu'dan kalkan son sefer saat kaçta?;Karpuzlu'dan kalkan son seferimiz saat 21.45'te kalkmaktadýr.
+1027;Çine'den kalkan yedinci sefer saat kaçta?;Çine'den kalkan son seferimiz saat 21.25'te kalkmaktadýr.
+1028;Çine'den kalkan son sefer saat kaçta?;Çine'den kalkan son seferimiz saat 21.25'te kalkmaktadýr.
+1029;Köþk'ten kalkan yedinci sefer saat kaçta?;Köþk'ten kalkan son seferimiz saat 22.20'de kalkmaktadýr.
+1030;Köþk'ten kalkan son sefer saat kaçta?;Köþk'ten kalkan son seferimiz saat 22.20'de kalkmaktadýr.
+1031;Karacasu'dan kalkan yedinci sefer saat kaçta?;Karacasu'dan kalkan son seferimiz saat 19.50'de kalkmaktadýr.
+1032;Karacasu'dan kalkan son sefer saat kaçta?;Karacasu'dan kalkan son seferimiz saat 19.50'de kalkmaktadýr.
+1033;Yeni Pazar'dan kalkan yedinci sefer saat kaçta?;Yeni Pazar'dan kalkan son seferimiz saat 19.50'de kalkmaktadýr.
+1034;Yeni Pazar'dan kalkan son sefer saat kaçta?;Yeni Pazar'dan kalkan son seferimiz saat 19.50'de kalkmaktadýr.
+1035;Otogar'dan kalkan ikinci sefer saat kaçta?;Otogar'dan kalkan ikinci seferimiz saat 09.50'de kalkmaktadýr.
+1036;Otogar'dan kalkan üçüncü sefer saat kaçta?;Otogar'dan kalkan üçüncü seferimiz saat 10.35'te kalkmaktadýr.
+1037;Otogar'dan kalkan dördüncü sefer saat kaçta?;Otogar'dan kalkan dördüncü seferimiz saat 12.55'te kalkmaktadýr.
+1038;Otogar'dan kalkan beþinci sefer saat kaçta?;Otogar'dan kalkan beþinci seferimiz saat 15.10'da kalkmaktadýr.
+1039;Otogar'dan kalkan altýncý sefer saat kaçta?;Otogar'dan kalkan altýncý seferimiz saat 17.40'ta kalkmaktadýr.
+1040;Adü'den kalkan ikinci sefer saat kaçta?;Adü'den kalkan ikinci seferimiz saat 09.50'de kalkmaktadýr.
+1041;Adü'den kalkan üçüncü sefer saat kaçta?;Adü'den kalkan üçüncü seferimiz saat 10.40'ta kalkmaktadýr.
+1042;Adü'den kalkan dördüncü sefer saat kaçta?;Adü'den kalkan dördüncü seferimiz saat 12.55'te kalkmaktadýr.
+1043;Adü'den kalkan beþinci sefer saat kaçta?;Adü'den kalkan beþinci seferimiz saat 15.10'da kalkmaktadýr.
+1044;Adü'den kalkan altýncý sefer saat kaçta?;Adü'den kalkan altýncý seferimiz saat 17.40'ta kalkmaktadýr.
+1045;Kuþadasý'ndan kalkan ikinci sefer saat kaçta?;Kuþadasý'ndan kalkan ikinci seferimiz saat 10.20'de kalkmaktadýr.
+1046;Kuþadasý'ndan kalkan üçüncü sefer saat kaçta?;Kuþadasý'ndan kalkan üçüncü seferimiz saat 11.10'da kalkmaktadýr.
+1047;Kuþadasý'ndan kalkan dördüncü sefer saat kaçta?;Kuþadasý'ndan kalkan dördüncü seferimiz saat 13.25'te kalkmaktadýr.
+1048;Kuþadasý'ndan kalkan beþinci sefer saat kaçta?;Kuþadasý'ndan kalkan beþinci seferimiz saat 15.40'ta kalkmaktadýr.
+1049;Kuþadasý'ndan kalkan altýncý sefer saat kaçta?;Kuþadasý'ndan kalkan altýncý seferimiz saat 18.10'da kalkmaktadýr.
+1050;Karpuzlu'dan kalkan ikinci sefer saat kaçta?;Karpuzlu'dan kalkan ikinci seferimiz saat 12.00'da kalkmaktadýr.
+1051;Karpuzlu'dan kalkan üçüncü sefer saat kaçta?;Karpuzlu'dan kalkan üçüncü seferimiz saat 13.05'te kalkmaktadýr.
+1052;Karpuzlu'dan kalkan dördüncü sefer saat kaçta?;Karpuzlu'dan kalkan dördüncü seferimiz saat 15.25'te kalkmaktadýr.
+1053;Karpuzlu'dan kalkan beþinci sefer saat kaçta?;Karpuzlu'dan kalkan beþinci seferimiz saat 18.40'ta kalkmaktadýr.
+1054;Karpuzlu'dan kalkan altýncý sefer saat kaçta?;Karpuzlu'dan kalkan altýncý seferimiz saat 20.10'da kalkmaktadýr.
+1055;Çine'den kalkan ikinci sefer saat kaçta?;Çine'den kalkan ikinci seferimiz saat 11.50'de kalkmaktadýr.
+1056;Çine'den kalkan üçüncü sefer saat kaçta?;Çine'den kalkan üçüncü seferimiz saat 12.45'te kalkmaktadýr.
+1057;Çine'den kalkan dördüncü sefer saat kaçta?;Çine'den kalkan dördüncü seferimiz saat 15.55'te kalkmaktadýr.
+1058;Çine'den kalkan beþinci sefer saat kaçta?;Çine'den kalkan beþinci seferimiz saat 17.20'de kalkmaktadýr.
+1059;Çine'den kalkan altýncý sefer saat kaçta?;Çine'den kalkan altýncý seferimiz saat 20.40'ta kalkmaktadýr.
+1060;Köþk'ten kalkan ikinci sefer saat kaçta?;Köþk'ten kalkan ikinci seferimiz saat 12.55'te kalkmaktadýr.
+1061;Köþk'ten kalkan üçüncü sefer saat kaçta?;Köþk'ten kalkan üçüncü seferimiz saat 14.40'ta kalkmaktadýr.
+1062;Köþk'ten kalkan dördüncü sefer saat kaçta?;Köþk'ten kalkan dördüncü seferimiz saat 15.55'te kalkmaktadýr.
+1063;Köþk'ten kalkan beþinci sefer saat kaçta?;Köþk'ten kalkan beþinci seferimiz saat 18.10'da kalkmaktadýr.
+1064;Köþk'ten kalkan altýncý sefer saat kaçta?;Köþk'ten kalkan altýncý seferimiz saat 20.40'ta kalkmaktadýr.
+1065;Karacasu'dan kalkan ikinci sefer saat kaçta?;Karacasu'dan kalkan ikinci seferimiz saat 09.50'de kalkmaktadýr.
+1066;Karacasu'dan kalkan üçüncü sefer saat kaçta?;Karacasu'dan kalkan üçüncü seferimiz saat 10.50'de kalkmaktadýr.
+1067;Karacasu'dan kalkan dördüncü sefer saat kaçta?;Karacasu'dan kalkan dördüncü seferimiz saat 13.50'de kalkmaktadýr.
+1068;Karacasu'dan kalkan beþinci sefer saat kaçta?;Karacasu'dan kalkan beþinci seferimiz saat 15.50'de kalkmaktadýr.
+1069;Karacasu'dan kalkan altýncý sefer saat kaçta?;Karacasu'dan kalkan altýncý seferimiz saat 17.50'de kalkmaktadýr.
+1070;Yeni Pazar'dan kalkan ikinci sefer saat kaçta?;Yeni Pazar'dan kalkan ikinci seferimiz saat 09.50'de kalkmaktadýr.
+1071;Yeni Pazar'dan kalkan üçüncü sefer saat kaçta?;Yeni Pazar'dan kalkan üçüncü seferimiz saat 10.50'de kalkmaktadýr.
+1072;Yeni Pazar'dan kalkan dördüncü sefer saat kaçta?;Yeni Pazar'dan kalkan dördüncü seferimiz saat 13.50'de kalkmaktadýr.
+1073;Yeni Pazar'dan kalkan beþinci sefer saat kaçta?;Yeni Pazar'dan kalkan beþinci seferimiz saat 15.50'de kalkmaktadýr.
+1074;Yeni Pazar'dan kalkan altýncý sefer saat kaçta?;Yeni Pazar'dan kalkan altýncý seferimiz saat 17.50'de kalkmaktadýr.
+
